@@ -1,0 +1,17 @@
+window,direction,pilot,units
+pre,decreased,0,51847
+pre,decreased,1,3462
+pre,flat,0,523815
+pre,flat,1,34064
+pre,increased,0,834749
+pre,increased,1,55828
+pre,unknown,0,9697
+pre,unknown,1,809
+post,decreased,0,50413
+post,decreased,1,3513
+post,flat,0,544004
+post,flat,1,34641
+post,increased,0,829569
+post,increased,1,54550
+post,unknown,0,3959
+post,unknown,1,490

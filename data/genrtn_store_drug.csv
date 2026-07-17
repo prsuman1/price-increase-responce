@@ -1,0 +1,136 @@
+store_name,pilot,drug_id,drug_name,units,bills,giveback
+Airoli,0,74479,Alkof DX Syrup 100ml,1,1,0.0
+Airoli,0,402516,Oral L Tablet 21s,1,1,0.0
+Airoli,0,487534,Goodvastatin AV 75/10mg Capsule 15s-Gaid,2,1,0.0
+Airoli,0,487581,Gliaid MV 2.2mg SR Tablet 10s-Gaid,3,1,0.0
+Airoli,0,487748,Predipine 5mg Tablet 10s-Gaid,4,1,0.0
+Airoli,0,487954,Predipine AT Tablet  10s-Gaid,3,1,0.0
+Airoli,0,488160,Goodpara 650mg Tablet 10s-Gaid,1,1,0.0
+Airoli,0,488164,Terbigood 250mg Tablet 7s-Gaid,1,1,0.0
+Airoli,0,488231,Goodsartan H 20mg Tablet 10s-Gaid,3,1,0.0
+Airoli,0,488831,Goodsartan AM 20mg Tablet 10s-Gaid,3,1,0.0
+Airoli,0,489311,Aidsartan 80mg Tablet 10s-Gaid,3,1,0.0
+Airoli,0,493563,Thyrogood 25mcg Tablet 120s-Gaid,1,1,0.0
+Airoli,0,494938,Goodazosin XL 2.5mg Tablet 15s-Gaid,2,1,0.0
+Airoli,0,497672,Rovasaid Gold 20mg Capsule 10s-Gaid,1,1,0.0
+Airoli,0,502936,Aidluzole Lotion 30ml-Gaid,1,1,0.0
+Airoli,0,502940,Electroaid Sachet 21.8gm-Gaid,4,1,0.0
+Airoli Sector - 3,0,487581,Gliaid MV 2.2mg SR Tablet 10s-Gaid,3,1,0.0
+Badlapur East,0,487502,Gliaid M1mg PR Tablet 10s-Gaid,3,1,0.0
+Badlapur East,0,487519,Goodtrexate 5mg Tablet 10s-Gaid,3,1,0.0
+Badlapur East,0,487532,Racetamaid 500mg Tablet 10s-Gaid,6,1,0.0
+Badlapur East,0,487581,Gliaid MV 2.2mg SR Tablet 10s-Gaid,6,1,0.0
+Badlapur East,0,488830,Aidgliflozin 5mg Tablet 10s-Gaid,3,1,0.0
+Badlapur East,0,491527,Goodolol XL AM 50mg Tablet 10s-Gaid,3,1,0.0
+Badlapur East,0,499025,Vidasmart D 5mg SR Tablet 10s,3,1,0.0
+Badlapur East,0,502494,Aidten M 500mg Tablet 10s-Gaid,3,1,0.0
+Chembur,0,60217,Alphagan Z Eye Drop 5ml,1,1,0.0
+Chembur,0,60563,Latocom Eye Drop 2.5ml,1,1,0.0
+Chembur,0,74659,Dytor 5mg Tablet 15s,1,1,0.0
+Chembur,0,75407,Ecosprin 75mg Tablet 14s,3,1,0.0
+Chembur,0,199855,Prazopress XL 5mg Tablet 30s,1,1,0.0
+Chembur,0,207221,Telmikind Beta 25mg Tablet 10s,3,1,0.0
+Chembur,0,341275,Temsan 40mg Tablet 15s,3,1,0.0
+Chembur,0,419586,Aquim PF Eye Drop 10ml,1,1,0.0
+Chembur,0,487503,Gliaid M2mg PR Tablet 10s-Gaid,3,1,0.0
+Chembur,0,487586,Gliboseaid 0.3mg Tablet 10s-Gaid,3,1,0.0
+Chembur,0,488162,Goodgab 75mg Capsule 10s-Gaid,2,1,0.0
+Chembur,0,494210,Sildogood D 8mg Capsule 10s-Gaid,3,1,0.0
+Chembur,0,502074,Aidten 20mg Tablet 10s-Gaid,3,1,0.0
+Dahisar,0,488134,Goodmycin 500mg Tablet 5s-Gaid,1,1,0.0
+Dahisar,0,488697,Eplerenol 50mg Tablet 10s,2,2,0.0
+Dahisar,0,488850,Gliclagood M 60mg ER Tablet 10s-Gaid,2,2,0.0
+Dahisar,0,491797,Aidgliflozin M 500mg ER Tablet 10s-Gaid,2,2,0.0
+Dahisar,0,497672,Rovasaid Gold 20mg Capsule 10s-Gaid,2,2,0.0
+Govandi,0,83441,Evion LC Tablet 10s,2,2,0.0
+Govandi,0,487585,Goodvitamin D3 60K Capsule 4 Cap-Gaid,1,1,0.0
+Govandi,0,501451,Orthojoint Rose Tablet 10s,2,1,0.0
+Hiranandani Thane,0,160605,Lipaglyn Tablet 10s,2,1,0.0
+Hiranandani Thane,0,394953,Clocip Powder 100gm,1,1,0.0
+Hiranandani Thane,0,399209,Hydronol 25mg Tablet 10s,3,2,0.0
+Hiranandani Thane,0,400685,Humalog 100iu/ml Cartridge 3ml,1,1,0.0
+Hiranandani Thane,0,414643,Diovaal 160mg Tablet 10s,3,1,0.0
+Hiranandani Thane,0,414646,Diovaal 80mg Tablet 10s,2,1,0.0
+Hiranandani Thane,0,487506,Gliclagood M 80mg Tablet 10s-Gaid,10,1,0.0
+Hiranandani Thane,0,500902,Rovasaid 10mg Tablet 10s-Gaid,2,1,0.0
+Hiranandani Thane,0,523907,Empaaid L 25/5mg Tablet 10s-Gaid,3,1,0.0
+Jagruti Nagar Ghatkopar,0,37009,Alograce Cream 50gm,1,1,0.0
+Jagruti Nagar Ghatkopar,0,410510,Reepag 1mg Tablet 10s,1,1,0.0
+Jagruti Nagar Ghatkopar,0,485227,Dettol Antiseptic Liquid 125ml,1,1,0.0
+Jagruti Nagar Ghatkopar,0,487520,Glibenaid M 500mg Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,487585,Goodvitamin D3 60K Capsule 4 Cap-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,488142,Esopraid 40mg Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,489358,Aidsartan Beta 25mg PR Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,490233,Goodgab NTM SR Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,491515,Gliboseaid R 0.3/1mg Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,496214,Goodgliptin D Tablet 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,504824,Maxiaid Capsule 10s-Gaid,1,1,0.0
+Jagruti Nagar Ghatkopar,0,506176,Ambristar 5mg Tablet 10s,2,1,0.0
+Jagruti Nagar Ghatkopar,0,575665,Cardiax 20mg Tablet 15s,1,1,0.0
+Khar West,1,75407,Ecosprin 75mg Tablet 14s,8,1,0.0
+Khar West,1,385075,Rami Race 2.5mg Tablet 10s,9,1,0.0
+Khar West,1,487509,Goodprazole 40mg Tablet 10s-Gaid,10,1,0.0
+Khar West,1,488858,Aidgrel 90mg Tablet 14s-Gaid,15,1,0.0
+Khar West,1,491833,Sitagliaid M 1000mg Tablet 15s-Gaid,12,1,0.0
+Khar West,1,494929,Rovasaid 40mg Tablet 10s-Gaid,9,1,0.0
+Khar West,1,523904,Empaaid 10mg Tablet 10s-Gaid,9,1,0.0
+Mulund Panch Rasta,0,247721,Nicip Plus 100/325mg Tablet 10s,1,1,0.0
+Mulund Panch Rasta,0,430875,Solinex Ear Drop 10ml,1,1,0.0
+Mulund Panch Rasta,0,499677,Ambroaid LS Syrup 100ml-Gaid,1,1,0.0
+Nerul West,0,494931,Azosinaid D  ER Tablet 15s-Gaid,2,1,0.0
+Tilaknagar,0,75407,Ecosprin 75mg Tablet 14s,2,1,0.0
+Tilaknagar,0,487508,Goodgliptin M 500mg Tablet 10s-Gaid,10,1,0.0
+Tilaknagar,0,487584,Aidsartan 40mg Tablet 10s-Gaid,3,1,0.0
+Tilaknagar,0,487585,Goodvitamin D3 60K Capsule 4 Cap-Gaid,2,1,0.0
+Tilaknagar,0,491797,Aidgliflozin M 500mg ER Tablet 10s-Gaid,3,1,0.0
+Tilaknagar,0,495975,Growhair 5% Solution 60ml,1,1,0.0
+Tilaknagar,0,500902,Rovasaid 10mg Tablet 10s-Gaid,3,1,0.0
+Tilaknagar,0,524124,Lacoaid 100mg Tablet 10s-Gaid,6,1,0.0
+Tilaknagar,0,524440,Soham Siddhatatvam Ayur Dibet Juice 1000ml,1,1,0.0
+Tilaknagar,0,524474,Gliaid 0.5mg Tablet 10s-Gaid,3,1,0.0
+Tilaknagar,0,754720,Goodvastatin 40mg Tablet 15s,2,1,0.0
+Veenanagar,0,107883,Glyciphage 500mg Tablet 20s,4,1,0.0
+Veenanagar,0,118101,Liv 52 Ds Tablet 60s,10,2,0.0
+Veenanagar,0,120247,Huminsulin 30/70 40iu/ml Injection 10ml,5,1,0.0
+Veenanagar,0,223245,Abd 400mg Tablet 1s,4,1,0.0
+Veenanagar,0,421383,Neurobion Forte Tablet 30s,10,2,0.0
+Veenanagar,0,487502,Gliaid M1mg PR Tablet 10s-Gaid,3,1,0.0
+Veenanagar,0,487503,Gliaid M2mg PR Tablet 10s-Gaid,8,1,0.0
+Veenanagar,0,487510,Goodcaltrol 500mg Tablet 15s-Gaid,2,1,0.0
+Veenanagar,0,487519,Goodtrexate 5mg Tablet 10s-Gaid,2,1,0.0
+Veenanagar,0,487521,Gliaid 1mg Tablet 10s-Gaid,30,1,0.0
+Veenanagar,0,487523,Prazoleaid 20mg Tablet 10s-Gaid,15,1,0.0
+Veenanagar,0,487534,Goodvastatin AV 75/10mg Capsule 15s-Gaid,2,1,0.0
+Veenanagar,0,487578,Goodprazole D 30/40mg PR Capsule 10s-Gaid,12,1,0.0
+Veenanagar,0,487582,Aidsartan H 40/12.5mg Tablet 10s-Gaid,2,1,0.0
+Veenanagar,0,487585,Goodvitamin D3 60K Capsule 4 Cap-Gaid,2,1,0.0
+Veenanagar,0,487586,Gliboseaid 0.3mg Tablet 10s-Gaid,15,1,0.0
+Veenanagar,0,487750,Goodvastatin 10mg Tablet 10s-Gaid,3,1,0.0
+Veenanagar,0,487954,Predipine AT Tablet  10s-Gaid,15,1,0.0
+Veenanagar,0,488139,Goodipine T Tablet 10s-Gaid,20,1,0.0
+Veenanagar,0,488144,Goodhem XT Tablet 10s-Gaid,6,1,0.0
+Veenanagar,0,488234,Aidformin SR 1gm Tablet 10s-Gaid,5,1,0.0
+Veenanagar,0,489310,Goodgab NT Tablet 10s-Gaid,3,1,0.0
+Veenanagar,0,490240,Gliclagood 40mg Tablet 10s-Gaid,3,1,0.0
+Veenanagar,0,491791,Goodvastatin Av 75/20mg Capsule 10s-Gaid,15,1,0.0
+Veenanagar,0,491835,Sitagliaid 50mg Tablet 7s-Gaid,4,1,0.0
+Veenanagar,0,494931,Azosinaid D  ER Tablet 15s-Gaid,7,1,0.0
+Veenanagar,0,499471,Rovasaid Gold 10mg Capsule 10s-Gaid,3,1,0.0
+Veenanagar,0,502074,Aidten 20mg Tablet 10s-Gaid,6,1,0.0
+Veenanagar,0,639711,Vonalong 10mg Tablet 10s,15,1,0.0
+Vijay Nagari - Thane,0,223247,5 Mono 30mg SR Tablet 10s,6,1,0.0
+Vijay Nagari - Thane,0,434255,Dulata 30mg Tablet 10s,6,2,0.0
+Vijay Nagari - Thane,0,487519,Goodtrexate 5mg Tablet 10s-Gaid,17,1,0.0
+Vijay Nagari - Thane,0,487523,Prazoleaid 20mg Tablet 10s-Gaid,6,1,0.0
+Vijay Nagari - Thane,0,487584,Aidsartan 40mg Tablet 10s-Gaid,6,1,0.0
+Vijay Nagari - Thane,0,487585,Goodvitamin D3 60K Capsule 4 Cap-Gaid,8,1,0.0
+Vijay Nagari - Thane,0,487870,Gliaid Forte 2mg PR Tablet 10s-Gaid,12,1,0.0
+Vijay Nagari - Thane,0,488162,Goodgab 75mg Capsule 10s-Gaid,6,1,0.0
+Vijay Nagari - Thane,0,488834,Goodgrel 75mg Tablet 15s-Gaid,4,1,0.0
+Vijay Nagari - Thane,0,488856,Ranolaid 500mg ER Tablet 10s,24,1,0.0
+Vijay Nagari - Thane,0,488858,Aidgrel 90mg Tablet 14s-Gaid,5,1,0.0
+Vijay Nagari - Thane,0,494930,Bisolaid 2.5mg Tablet 10s-Gaid,6,1,0.0
+Vijay Nagari - Thane,0,495100,Nikoaid 5mg Tablet  20s-Gaid,3,1,0.0
+Vijay Nagari - Thane,0,498203,Rovasaid 20mg Tablet 10s-Gaid,12,1,0.0
+Vijay Nagari - Thane,0,501336,Goodvion 400mg Capsule 10s-Gaid,12,1,0.0
+Vijay Nagari - Thane,0,524574,Tamsorin 0.4mg Tablet 15s-Gaid,4,1,0.0

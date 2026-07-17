@@ -1,0 +1,27 @@
+{
+  "refreshed_at": "2026-07-17T10:20:03",
+  "pre_window": [
+    "2026-06-01",
+    "2026-06-16"
+  ],
+  "post_window": [
+    "2026-07-01",
+    "2026-07-16"
+  ],
+  "post_rows": 653880,
+  "stores": 189,
+  "drugs_post": 24082,
+  "drugs_no_old_price": 1516,
+  "units_share_no_old_price_pct": 0.29,
+  "drugs_no_old_cogs": 2877,
+  "direction_counts": {
+    "flat": 16167,
+    "increased": 4820,
+    "decreased": 1579
+  },
+  "total_gain_rev": 3925805.0,
+  "total_gain_rgm": 3757184.0,
+  "genrtn_bills": 144,
+  "genrtn_units": 631.0,
+  "genrtn_giveback": 0.0
+}
