@@ -34,7 +34,9 @@ SERIAL_RE = re.compile(r"^[A-Z]+-\d+$")
 # ----- Redshift connection (used by refresh only; not needed for viewing) ----
 
 def _env() -> dict:
+    # Try local .env first; fall back to parent project dir (main Price-A-B repo).
     load_dotenv(HERE / ".env")
+    load_dotenv(HERE.parent / ".env")
     return {
         "host": os.environ["REDSHIFT_HOST"],
         "port": int(os.environ["REDSHIFT_PORT"]),
