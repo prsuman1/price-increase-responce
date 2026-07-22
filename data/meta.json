@@ -1,26 +1,26 @@
 {
-  "refreshed_at": "2026-07-20T10:29:03",
+  "refreshed_at": "2026-07-22T10:24:14",
   "pre_window": [
     "2026-06-01",
-    "2026-06-19"
+    "2026-06-21"
   ],
   "post_window": [
     "2026-07-01",
-    "2026-07-19"
+    "2026-07-21"
   ],
-  "post_rows": 765336,
+  "post_rows": 845186,
   "stores": 189,
-  "drugs_post": 25103,
-  "drugs_no_old_price": 1756,
-  "units_share_no_old_price_pct": 0.33,
-  "drugs_no_old_cogs": 2516,
+  "drugs_post": 25738,
+  "drugs_no_old_price": 1924,
+  "units_share_no_old_price_pct": 0.35,
+  "drugs_no_old_cogs": 2329,
   "direction_counts": {
-    "flat": 16704,
-    "increased": 5046,
-    "decreased": 1597
+    "flat": 17020,
+    "increased": 5188,
+    "decreased": 1606
   },
-  "total_gain_rev": 4554719.0,
-  "total_gain_rgm": 4327801.0,
+  "total_gain_rev": 5048319.0,
+  "total_gain_rgm": 4762635.0,
   "genrtn_bills": 144,
   "genrtn_units": 631.0,
   "genrtn_giveback": 0.0
