@@ -55,6 +55,18 @@ PILOT_SQL = """(
     OR "store-name" ILIKE '%%chinchwad%%'
 )"""
 
+# --- Scope filters -----------------------------------------------------------
+# Franchisee 1 = chain-owned stores. Other franchisees look at their numbers
+# separately. Keep here as a hard constant; if we ever need to compare, wire
+# a picker on top.
+FRANCHISEE_ID = 1
+# Drugs to exclude entirely (data errors that pollute gain math).
+# Add drug_ids here and rerun — one-line change.
+EXCLUDED_DRUG_IDS = (632426,)  # Suraksha Latex gloves — bad price history
+
+_FRANCHISE_SQL = f'AND "franchisee-id" = {FRANCHISEE_ID}'
+_EXCLUDE_SQL   = f'AND "drug-id" NOT IN ({", ".join(str(x) for x in EXCLUDED_DRUG_IDS) or "0"})'
+
 Q_POST = f"""
 SELECT "created-at"::date                       AS sale_date,
        "store-name"                             AS store_name,
@@ -75,6 +87,8 @@ FROM "prod2-generico"."sales"
 WHERE "created-at"::date BETWEEN DATE '{POST_START}' AND DATE '{POST_END}'
   AND "bill-flag" = 'gross'
   AND "drug-id" IS NOT NULL
+  {_FRANCHISE_SQL}
+  {_EXCLUDE_SQL}
 GROUP BY 1, 2, 3, 4, 8, 9
 """
 
@@ -92,6 +106,8 @@ FROM "prod2-generico"."sales"
 WHERE "created-at"::date BETWEEN DATE '{PRE_START}' AND DATE '{PRE_END}'
   AND "bill-flag" = 'gross'
   AND "drug-id" IS NOT NULL
+  {_FRANCHISE_SQL}
+  {_EXCLUDE_SQL}
 GROUP BY 1, 2, 3, 4
 """
 
@@ -105,6 +121,7 @@ FROM "prod2-generico"."sales"
 WHERE ("created-at"::date BETWEEN DATE '{PRE_START}' AND DATE '{PRE_END}'
     OR "created-at"::date BETWEEN DATE '{POST_START}' AND DATE '{POST_END}')
   AND "bill-flag" = 'gross'
+  {_FRANCHISE_SQL}
 GROUP BY 1, 2, 3
 """
 
@@ -117,8 +134,25 @@ FROM "prod2-generico"."sales"
 WHERE ("created-at"::date BETWEEN DATE '{PRE_START}' AND DATE '{PRE_END}'
     OR "created-at"::date BETWEEN DATE '{POST_START}' AND DATE '{POST_END}')
   AND "bill-flag" = 'gross'
+  {_FRANCHISE_SQL}
 GROUP BY 1, 2
 """
+
+# Store → franchisee lookup (used to filter surveys, and for reference)
+Q_STORE_FRANCHISEE = f"""
+SELECT DISTINCT "store-name" AS store_name,
+                "franchisee-id" AS franchisee_id
+FROM "prod2-generico"."sales"
+WHERE "created-at"::date >= DATE '{PRE_START}'
+  AND "store-name" IS NOT NULL
+  AND "franchisee-id" IS NOT NULL
+"""
+
+# --- rebuild old-price baselines first (so downstream gain uses fresh CSV) ---
+print("\n[0/4] Rebuilding old-price baselines…")
+from build_old_prices import refresh_old_prices  # noqa: E402
+refresh_old_prices()
+print()
 
 with _connect() as conn:
     print("Querying POST lines ...")
@@ -130,6 +164,12 @@ with _connect() as conn:
     print("Querying frequency ...")
     freq = pd.read_sql(Q_FREQ, conn)
     freq_chain = pd.read_sql(Q_FREQ_CHAIN, conn)
+    print("Querying store → franchisee lookup ...")
+    store_franchisee = pd.read_sql(Q_STORE_FRANCHISEE, conn)
+    print(f"  {len(store_franchisee):,} store-franchisee pairs")
+
+store_franchisee["franchisee_id"] = pd.to_numeric(store_franchisee["franchisee_id"], errors="coerce").astype("Int64")
+store_franchisee.to_csv(DATA_DIR / "store_franchisee.csv", index=False)
 
 for df in (post, pre):
     for c in ("units", "revenue", "cogs"):
@@ -253,6 +293,8 @@ freq_chain.to_csv(DATA_DIR / "freq_chain.csv", index=False)
 no_old = post[~has_old]
 meta = {
     "refreshed_at": datetime.now().isoformat(timespec="seconds"),
+    "franchisee_id": FRANCHISEE_ID,
+    "excluded_drug_ids": list(EXCLUDED_DRUG_IDS),
     "pre_window": [PRE_START.isoformat(), PRE_END.isoformat()],
     "post_window": [POST_START.isoformat(), POST_END.isoformat()],
     "post_rows": int(len(post)),

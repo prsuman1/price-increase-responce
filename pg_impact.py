@@ -128,7 +128,7 @@ components.html(f"""
 </style>
 <div class="hero">
   <h1>Price Live — Impact Dashboard <span class="badge">LIVE chain-wide since 1 Jul 2026</span></h1>
-  <div class="sub">Gain vs old prices · post window {POST_LB} · baseline {PRE_LB} · {meta['stores']} stores</div>
+  <div class="sub">Gain vs old prices · post window {POST_LB} · baseline {PRE_LB} · {meta['stores']} stores · franchisee_id={meta.get('franchisee_id', '?')} only</div>
   <div class="row">{cards_html}</div>
 </div>
 <script>

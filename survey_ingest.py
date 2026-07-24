@@ -27,6 +27,10 @@ from _shared import _normalize_alpha_serial, classify_rag  # noqa: E402
 DATA_DIR = HERE / "data"
 DATA_DIR.mkdir(exist_ok=True)
 SURVEY_CSV = DATA_DIR / "survey.csv"
+STORE_FRANCHISEE_CSV = DATA_DIR / "store_franchisee.csv"
+
+# Scope: only keep surveys from franchisee-1 stores (see refresh_dashboard_data.py).
+FRANCHISEE_ID = 1
 
 # One entry per surveyor: (name, sheet_id, gid).
 SHEETS: list[tuple[str, str, str]] = [
@@ -134,10 +138,30 @@ def refresh_survey() -> pd.DataFrame:
     after = len(all_df)
     all_df = all_df[all_df["submitted_at"].notna()]
     all_df = all_df[all_df["submitted_at"] >= CHAIN_GO_LIVE].copy()
+
+    # Franchisee-1 scope filter (matches the Impact page's scope).
+    franch_dropped_by_surveyor: dict[str, int] = {}
+    if STORE_FRANCHISEE_CSV.exists():
+        sf = pd.read_csv(STORE_FRANCHISEE_CSV)
+        f1_stores = set(sf[sf["franchisee_id"] == FRANCHISEE_ID]["store_name"].astype(str))
+        pre_f = len(all_df)
+        matched_mask = all_df["store"].isin(f1_stores)
+        franch_dropped_by_surveyor = (all_df[~matched_mask]
+                                       .groupby("surveyor").size().to_dict())
+        all_df = all_df[matched_mask].copy()
+        print(f"  franchisee-1 filter: kept {len(all_df):,}/{pre_f:,} rows")
+    else:
+        print(f"  ⚠️  {STORE_FRANCHISEE_CSV.name} missing — skipping franchisee filter "
+              f"(run refresh_dashboard_data.py first).")
+
     all_df = all_df.sort_values(["submitted_at", "surveyor"], ascending=[False, True]).reset_index(drop=True)
 
     all_df.to_csv(SURVEY_CSV, index=False)
     print(f"\nTotal rows written: {len(all_df):,}  (dedup dropped {before - after}, then filtered to >= {CHAIN_GO_LIVE.date()})")
+    if franch_dropped_by_surveyor:
+        print(f"  dropped by franchisee filter (per surveyor):")
+        for s, n in sorted(franch_dropped_by_surveyor.items(), key=lambda x: -x[1]):
+            print(f"    {s:8}  {n}")
     print(f"  date range: {all_df['submitted_at'].min()} → {all_df['submitted_at'].max()}")
     print(f"  RAG        : {dict(all_df['rag'].value_counts())}")
     print(f"  Per surveyor:")

@@ -1,382 +1,362 @@
 window,store_name,pilot,revenue,cogs
-pre,7 Rasta Byculla,0,761631.91,463471.7364
-pre,ABM Pharmacy & Healthcare,0,657611.0847,490256.7777
-pre,Airoli,0,1651840.98,1006773.4114
-pre,Airoli Sec 5,0,618482.76,427528.3958
-pre,Airoli Sector - 3,0,1068664.48,670226.9043
-pre,Ambegaon Pune,0,528518.5,366882.0034
-pre,Ambernath East,0,749665.6,513992.0829
-pre,Ambernath West,0,801146.79,523015.4695
-pre,Ashokvan Dahisar,0,972117.69,592244.3586
-pre,Aura Medical Titwala East,0,506069.5145,394314.8109
-pre,Badlapur - Belavali,0,687465.8,447454.6627
-pre,Badlapur East,0,641890.95,426448.5164
-pre,Bandra,1,1314992.89,740352.0551
-pre,Bhandup West,0,1437241.74,911511.9636
-pre,Bhayandar,0,1188126.35,747867.7563
-pre,Bhayander 60 Feet Road,0,594767.55,383437.7654
-pre,Bhekrainagar Pune,0,526138.15,352171.8195
-pre,Bhiwandi - Shivaji Chowk,0,302309.44,201148.3831
-pre,Bhiwandi Dhamankar Naka,1,1076961.99,644171.7125
-pre,Bibwewadi Pune,0,767110.59,450025.4542
-pre,Bytco Point Nashik,0,692639.25,494136.1793
-pre,CST Bora Bazaar,0,595420.55,346428.18439999997
+pre,7 Rasta Byculla,0,791495.94,480511.0508
+pre,Airoli,0,1709820.14,1043561.1721
+pre,Airoli Sec 5,0,635114.36,439025.5014
+pre,Airoli Sector - 3,0,1117324.69,702083.6741
+pre,Ambegaon Pune,0,547423.76,379231.8198
+pre,Ambernath East,0,786880.21,540900.6762
+pre,Ambernath West,0,830020.05,540484.886
+pre,Ashokvan Dahisar,0,1008170.94,613112.5258
+pre,Badlapur - Belavali,0,713085.6900000001,463938.9242
+pre,Badlapur East,0,664162.17,439983.6568
+pre,Bandra,1,1375744.31,774504.2899
+pre,Bhandup West,0,1488837.1,943269.4333
+pre,Bhayandar,0,1237808.58,776407.5435
+pre,Bhayander 60 Feet Road,0,614764.85,397807.8757
+pre,Bhekrainagar Pune,0,550075.37,367032.966
+pre,Bhiwandi - Shivaji Chowk,0,327523.02999999997,218848.812
+pre,Bhiwandi Dhamankar Naka,1,1126755.22,674077.3115
+pre,Bibwewadi Pune,0,798043.73,464914.2308
+pre,Bytco Point Nashik,0,714032.99,508909.7515
+pre,CST Bora Bazaar,0,619833.17,360753.0312
 pre,Canada Corner Nashik,0,215860.32,159546.3794
-pre,Care Point Chemist,0,685464.763,515251.3808
-pre,Chandivali,0,603235.43,360031.2635
-pre,Charkop,0,1311198.24,812883.0893
-pre,Chembur,0,1737194.38,978487.0212
-pre,Chinchwad,1,805991.4,566051.6267
-pre,Chinchwad - Gandhi Peth,1,296233.72,212718.5461
-pre,Cidco Nashik,0,424518.26,299691.3367
-pre,Colaba,1,580330.03,348780.7921
-pre,Dadar East,0,713417.39,440901.6095
-pre,Dahisar,0,1002662.55,602594.3674
-pre,Dattnagar,0,568880.82,332811.956
-pre,Dhanakwadi,0,849740.03,549554.6797
-pre,Dhanori Pune,0,733663.3,498132.4763
-pre,Dhayari Pune,0,622096.11,410390.9088
-pre,Dighi Pune,1,529646.43,396598.0699
-pre,Dombivali,0,1002492.04,615672.5064
-pre,Dombivali - Navpada,0,644415.3,422299.3248
-pre,Dombivali - Reti Bunder,0,511899.5955,330850.5926
-pre,Dombivli West,0,1389190.47,789993.5228
-pre,Doshi Medical,0,197148.1905,142720.0026
-pre,Evershine Nagar,0,640799.36,390096.9442
-pre,Fam Society - Koperkhairne,0,1335058.48,870508.3309000001
-pre,Fursungi Pune,0,649529.81,454362.6417
-pre,Ghansoli,0,1818432.91,1156974.2805
-pre,Ghatkopar East,0,1322477.24,858745.8763
-pre,Ghatkopar West,0,1219989.52,783836.7152
-pre,Ghodapdeo - Byculla,0,503059.49,275631.9606
-pre,Global City Virar West,0,697477.7,450731.2903
-pre,Goregaon,1,1311480.44,767190.5884
-pre,Goregaon West S.V. Road,1,1301155.6,862359.5671
-pre,Govandi,0,1384361.66,801930.4017
-pre,Gujrat Colony Kothrud,0,423042.64,292309.2177
-pre,Gulab Nagar Pune,0,600968.2,393441.0278
-pre,Hari Om Nagar,0,1061335.81,681732.729
-pre,Health Care Chemist & Druggist,0,1167703.31,883262.0905
-pre,Health Care Forever,0,91684.344,58430.9959
-pre,Hiltron Ulhasnagar,0,710268.9,450588.0785
-pre,Hiranandani Thane,0,1955969.69,1295601.2757
-pre,IC Colony Borivali,0,1702777.07,1046406.7516
-pre,JB Nagar,0,2066591.03,1319102.9305
-pre,JJ Hospital,0,1248261.63,626541.0114
-pre,Jagruti Nagar Ghatkopar,0,673565.43,427005.8239
-pre,Jail Road Nashik,0,507669.86,363887.6899
-pre,Jay VIjay Nagar Nalasopara East,0,556694.66,365987.5089
-pre,Kalamboli,0,798455.63,505324.4323
-pre,Kalher Bhiwandi,0,1351831.7,869724.0688
-pre,Kalina,0,869029.29,563168.7294
-pre,Kalwa,0,1897641.75,1130461.6336
-pre,Kalyan,0,906831.0,581944.0922
-pre,Kalyan - DB Chowk,0,636780.88,424106.0922
-pre,Kalyan East-Tisgaon Naka,0,986531.35,641314.2132
-pre,Kalyan West Club Road,0,800825.96,501522.9011
-pre,Kamotha,0,1845631.6,1208440.1409
-pre,Kamothe - Sector 36,0,896752.13,620799.0084
-pre,Kandivali East,0,958737.98,577816.7302
-pre,Kandivali West,0,404210.25,227601.4809
-pre,Kasarvadavali Thane,0,882773.96,554545.3153
-pre,Katrap Badlapur East,0,433362.1,281839.735
-pre,Khadki Pune,0,888013.87,615461.3467
-pre,Khanda Colony,1,897364.58,575490.8462
-pre,Khar West,1,946052.88,577192.795
-pre,Kharghar,0,1583877.78,940667.2036
-pre,Kharghar Sector 12,0,834703.48,498743.2127
-pre,Khopat,0,1513895.86,904692.5876
-pre,Khutwad Nagar Nashik,0,246577.27,178379.7913
-pre,Kolsheth,0,2048800.87,1156367.1279
-pre,Kopar Khairane,0,1540622.01,947121.6596
-pre,Kopari Thane,0,881168.86,639045.2417
-pre,Koper Khairane - Sector 2,0,556640.58,360629.1442
-pre,Koper Khairane - Sector 7,0,810965.67,508068.0291
-pre,Kuber Chemist,0,711.99,221.536
-pre,Kulgaon Badlapur West,0,912759.86,561425.2596
-pre,Kurla,0,637851.52,341410.7254
-pre,Kurla West,0,1159529.82,686797.3649
-pre,Lower Parel - SJ Marg,0,552136.98,334802.7393
-pre,Mahakali,0,1780154.33,1143294.7771
-pre,Mahavir Pride Dombivali,0,1144586.06,736416.1708
-pre,Mahim West,0,867085.49,520922.2243
-pre,Malad,0,1352504.19,809528.944
-pre,Malad Liberty Garden,0,861043.43,509304.1739
-pre,Malwani,0,814182.83,511855.7993
-pre,Marol,0,1576377.4,955597.6541
-pre,Mharal Ulhasnagar,0,1058549.98,706167.0401
-pre,Mhasrul Nashik,0,613965.63,425255.7246
-pre,Mira Road,0,778022.31,486246.1315
-pre,Mira Road - GCC Club Road,0,422938.07,302570.4818
-pre,Mira Road Jangid Complex,0,828159.22,502125.865
-pre,Mohan Nagar Kandivali,0,611743.7585,370845.3402
-pre,Morye Pharma,0,386807.0155,275281.5049
-pre,Mulund East,0,2204979.81,1305797.2488
-pre,Mulund Panch Rasta,0,669771.7,390268.3678
-pre,Mulund West,0,1190711.82,630210.6298999999
-pre,Mulund West-Sarvodaya Nagar,0,1364494.08,853105.363
-pre,Mundhwa Pune,0,500841.01,341742.1517
-pre,NIBM Kondwa,0,1178880.89,726340.1816
-pre,Nahur West,0,1026266.62,659101.4539
-pre,Nalasopara - Yashwant Nagar,0,587851.86,397260.9345
-pre,Nalasopara West,0,667355.42,427053.9137
-pre,Narhe Pune,0,478000.13,320061.8004
-pre,Naupada,0,1447017.54,899192.4788
-pre,Navare Nagar Ambernath,0,738010.38,492665.4316
-pre,Navi Peth Pune,0,947937.88,668467.6526
-pre,Navjeevan Mumbai Central,0,1052826.36,622607.5962
-pre,Nerul East,0,1089542.63,668088.8883
-pre,Nerul West,0,1007423.58,604044.6813
-pre,New Panvel,0,1211413.07,783045.475
-pre,Old Panvel,0,1170801.07,770024.333
-pre,Palegaon Ambernath,0,450041.79,287292.6244
-pre,Panchpakhadi,0,1086170.13,717670.0096
-pre,Pantnagar,0,674096.95,408952.9509
-pre,Panvel - Uran Naka,0,639727.48,402333.6053
-pre,Phadke Road - Dombivali,0,810101.79,497571.3771
-pre,Pimple Gurav,0,576645.01,367515.7879
-pre,Prabhadevi,0,1057077.39,599811.4052
-pre,Pragati Nagar Nalasopara East,0,625386.08,424587.5503
-pre,Quality Care,0,387326.995,229290.547
-pre,Rajawadi,0,977588.23,525322.0239
-pre,Roadpali Kalamboli,0,660097.03,420193.5249
-pre,Rupee Nagar Pune,0,403814.0,274750.0253
-pre,Saibaba Nagar,0,661517.91,381939.2882
-pre,Sakinaka - Pipeline Road,0,553600.69,357379.6553
-pre,Sanpada,1,1682408.06,1046412.1084
-pre,Santa Cruz SV Road,0,885803.87,557507.3557
-pre,"Santoshi Mata Road, Kalyan West",0,987108.37,670677.8212
-pre,Sasane Nagar Pune,1,551943.75,372237.653
-pre,Seawoods,0,1279437.1,784161.9412
-pre,Sector 3 - New Panvel,0,1018375.34,714240.2637
-pre,Shambhuraj Enterprises LLP,0,473116.0995,310531.5031
-pre,Shanti Nagar Mira Road,0,458772.47,270185.3804
-pre,Shirgaon Badlapur,0,700621.65,461440.9219
-pre,Shivaji Nagar Pune,0,898469.69,595803.2365
-pre,Shreenagar,0,1855330.98,1162202.0478
-pre,Shriprastha Nalasopara West,0,602743.61,412592.9081
-pre,Sion Koliwada,0,1042082.46,639750.2812
-pre,Thakur Complex,0,1266251.83,770842.4189
-pre,Thergaon,0,545103.08,348453.9044
-pre,Tilak Road Pune,0,874287.48,583796.4213
-pre,Tilaknagar,0,1084141.87,653732.7851
-pre,Titwala,0,1543527.45,1084418.7352
-pre,Trimurti Chowk Nashik,0,344698.17,248457.5166
-pre,Ulhas Nagar - Shahad,0,652641.55,408360.3198
-pre,Ulhas Nagar - Shreeram Chowk,0,512479.67,314660.285
-pre,Ulhasnagar,0,1075292.45,641186.8322
-pre,Ulhasnagar - Humlog Circle,0,814035.3,543058.7021
-pre,Ulhasnagar - Khemani Chowk,0,517411.46,321850.2262
-pre,Ulhasnagar Sector 4,0,895308.08,593434.1147
-pre,Ulwe-Navi Mumbai,0,940189.49,545161.9128
-pre,Vakola,0,953525.49,621774.7755
-pre,Vasai West - Station Road,0,1132510.68,777571.7054
-pre,Vashi,0,2040476.49,1277892.8274
-pre,Vashi Sector 11,0,1010675.24,629380.3336
-pre,Veenanagar,0,880400.96,519588.5584
-pre,Versova - Yari Road,0,782022.96,471736.2707
-pre,Versova Andheri,0,1893922.68,1251397.9772
-pre,Vijay Nagari - Thane,0,1510543.24,973133.0142
-pre,Vikhroli,0,2502086.61,1593145.8728
-pre,Vikhroli Kannamwar,0,1254610.53,834998.654
-pre,Vile Parle,0,773926.47,500077.6069
-pre,Virar East,0,990388.02,645438.5855
-pre,Virar West,0,894151.66,601708.1896
-pre,Wadgaon Budruk Pune,0,605409.17,423323.2776
-pre,Wadgaon Sheri,0,881657.57,635136.4748
-pre,Wadgaon Sheri-Old Mundhwa Rd,0,718505.94,518496.3889
-pre,Wanawadi Pune,0,498873.6,305782.2803
-pre,Warje Pune,0,380988.5,251489.6994
-pre,Wayale Nagar,0,889666.41,585816.7281
-pre,Yashodhan,0,2240002.32,1413714.4919
-pre,Yogi Nagar,0,767120.95,448476.3794
-pre,Yogidham Kalyan,0,597591.14,414546.0845
-post,7 Rasta Byculla,0,787000.67,471740.5831
-post,ABM Pharmacy & Healthcare,0,645824.4003,480194.2204
-post,Airoli,0,1967036.41,1191764.077
-post,Airoli Sector - 3,0,1303223.47,819779.38
-post,Ambegaon Pune,0,495590.45,332422.4937
-post,Ambernath East,0,813511.74,533265.4284
-post,Ambernath West,0,849225.69,548443.2922
-post,Ashokvan Dahisar,0,1120746.08,674979.6013
-post,Aura Medical Titwala East,0,541141.96,414709.5972
-post,Badlapur - Belavali,0,708220.84,435972.7842
-post,Badlapur East,0,592797.55,392143.4306
-post,Bandra,1,1467487.93,835082.4438
-post,Bhandup West,0,1434610.61,867886.2555
-post,Bhayandar,0,1271992.62,754240.061
-post,Bhayander 60 Feet Road,0,744704.48,478121.39400000003
-post,Bhekrainagar Pune,0,492474.34,311348.8321
-post,Bhiwandi - Shivaji Chowk,0,392207.0,252426.8183
-post,Bhiwandi Dhamankar Naka,1,1103844.6,667471.9646
-post,Bibwewadi Pune,0,994227.53,600934.8738000001
-post,Bytco Point Nashik,0,757281.32,541435.5714
-post,CST Bora Bazaar,0,679788.23,387475.0871
-post,Care Point Chemist,0,744810.963,555799.8676
-post,Chandivali,0,619579.34,371792.8105
-post,Charkop,0,1369336.47,810994.8196
-post,Chembur,0,1806321.4,986682.0014
-post,Chinchwad,1,732363.81,506679.9417
-post,Chinchwad - Gandhi Peth,1,312994.01,217588.21
-post,Cidco Nashik,0,547522.19,370861.95160000003
-post,Colaba,1,595575.21,338694.2105
-post,Dadar East,0,671000.13,402327.4098
-post,Dahisar,0,1077320.62,646728.2021
-post,Dattnagar,0,631925.72,353584.207
-post,Dhanakwadi,0,1022216.77,686322.6842
-post,Dhanori Pune,0,689781.85,434141.5321
-post,Dhayari Pune,0,648439.7,427290.0957
-post,Dighi Pune,1,512755.1,357947.638
-post,Dombivali,0,1082890.55,645879.748
-post,Dombivali - Navpada,0,746969.77,484600.1237
-post,Dombivali - Reti Bunder,0,544192.4148,353786.1827
-post,Dombivli West,0,1481396.93,827004.7992
-post,Doshi Medical,0,216162.915,160984.9654
-post,Evershine Nagar,0,651466.59,383798.5276
-post,Fam Society - Koperkhairne,0,1395975.8,876776.9724
-post,Fursungi Pune,0,721205.18,503898.9438
-post,Ghansoli,0,1772403.49,1090577.7187
-post,Ghatkopar East,0,1362833.85,874297.698
-post,Ghatkopar West,0,1234056.14,763779.2387
-post,Ghodapdeo - Byculla,0,544306.51,283553.2021
-post,Global City Virar West,0,766907.67,515714.8052
-post,Goregaon,1,1521246.08,902074.5817
-post,Goregaon West S.V. Road,1,1361502.13,905958.1019
-post,Govandi,0,1398296.08,776181.7882
-post,Gujrat Colony Kothrud,0,645561.96,483633.9015
-post,Gulab Nagar Pune,0,604215.27,391825.8403
-post,Hari Om Nagar,0,1150110.26,743955.828
-post,Health Care Chemist & Druggist,0,1316444.85,969586.533
-post,Health Care Forever,0,92387.849,55157.6233
-post,Hiltron Ulhasnagar,0,708996.5,462530.6086
-post,Hiranandani Thane,0,2054734.86,1322659.4445
-post,IC Colony Borivali,0,1727185.29,1041453.99
-post,JB Nagar,0,2279524.74,1437651.6901
-post,JJ Hospital,0,1289595.54,610240.2098
-post,Jagruti Nagar Ghatkopar,0,658372.78,422393.6102
-post,Jail Road Nashik,0,563845.11,395388.3624
-post,Jay VIjay Nagar Nalasopara East,0,500307.1,326335.3813
-post,Kalamboli,0,900308.43,572647.6876
-post,Kalher Bhiwandi,0,1323050.69,847790.2503
-post,Kalina,0,919491.01,560836.4373
-post,Kalwa,0,2135090.72,1245554.4045
-post,Kalyan,0,889331.86,552577.6075
-post,Kalyan - DB Chowk,0,645589.0,419352.3057
-post,Kalyan East-Tisgaon Naka,0,950369.93,609362.4616
-post,Kalyan West Club Road,0,792199.42,475866.5517
-post,Kamotha,0,1996362.9,1296135.4149
-post,Kamothe - Sector 36,0,852357.11,574748.242
-post,Kandivali East,0,1070508.77,634030.9438
-post,Kandivali West,0,396756.88,216093.75280000002
-post,Kasarvadavali Thane,0,965076.4,584749.326
-post,Katrap Badlapur East,0,512225.54,328574.9133
-post,Khadki Pune,0,899701.78,618477.9927
-post,Khanda Colony,1,930534.87,600047.8855
-post,Khar West,1,913627.62,546249.7991
-post,Kharghar,0,1687057.06,969111.7216
-post,Kharghar Sector 12,0,931549.09,552999.8938
-post,Khopat,0,1423847.08,825641.7513
-post,Khutwad Nagar Nashik,0,284841.48,204856.4666
-post,Kolsheth,0,2072341.85,1130446.5029
-post,Kopar Khairane,0,1645771.83,985580.7943
-post,Kopari Thane,0,915057.81,654409.4896
-post,Koper Khairane - Sector 7,0,952509.15,590800.5579
-post,Kuber Chemist,0,130.69,33.8352
-post,Kulgaon Badlapur West,0,940294.17,560649.8819
-post,Kurla,0,784542.55,429239.6431
-post,Kurla West,0,1170364.99,673047.0756
-post,Lower Parel - SJ Marg,0,600955.46,375639.9648
-post,Mahakali,0,1850609.86,1175359.9066
-post,Mahavir Pride Dombivali,0,1162708.7,736204.4317
-post,Mahim West,0,923629.92,547381.5044
-post,Malad,0,1352470.53,775779.4873
-post,Malad Liberty Garden,0,848655.68,482476.3729
-post,Malwani,0,869532.46,520682.5613
-post,Marol,0,1600632.08,955797.8479
-post,Mharal Ulhasnagar,0,1069885.7,695287.9433
-post,Mhasrul Nashik,0,795529.14,569308.48
-post,Mira Road,0,824750.67,508618.1492
-post,Mira Road - GCC Club Road,0,416259.82,294127.5873
-post,Mira Road Jangid Complex,0,959563.59,586702.4912
-post,Mohan Nagar Kandivali,0,676527.38,392602.0493
-post,Morye Pharma,0,357839.836,262562.3992
-post,Mulund East,0,2280379.34,1292704.4897
-post,Mulund Panch Rasta,0,732065.71,425071.2591
-post,Mulund West,0,1437963.27,758829.975
-post,Mulund West-Sarvodaya Nagar,0,1526515.17,974354.341
-post,Mundhwa Pune,0,502969.6,328701.5917
-post,NIBM Kondwa,0,1210625.8,737115.1092
-post,Nahur West,0,1192437.66,745067.3382
-post,Nalasopara - Yashwant Nagar,0,592812.79,394353.4638
-post,Nalasopara West,0,638315.95,405161.6894
-post,Narhe Pune,0,561400.33,375267.234
-post,Naupada,0,1482303.35,910659.4936
-post,Navare Nagar Ambernath,0,759346.43,493305.5828
-post,Navi Peth Pune,0,925087.38,624632.1788
-post,Navjeevan Mumbai Central,0,1101468.42,632005.9867
-post,Nerul East,0,1124469.94,654281.9683
-post,Nerul West,0,1009427.07,591920.2703
-post,New Panvel,0,1303514.94,838201.5641
-post,Old Panvel,0,1111074.25,713512.3576
-post,Palegaon Ambernath,0,475333.48,299779.2219
-post,Panchpakhadi,0,1119740.55,717862.8113000001
-post,Pantnagar,0,675700.15,388382.1697
-post,Panvel - Uran Naka,0,719772.3,438428.7824
-post,Phadke Road - Dombivali,0,871392.13,530925.2387
-post,Pimple Gurav,0,574556.9,346561.7244
-post,Prabhadevi,0,1170075.51,627623.1457
-post,Pragati Nagar Nalasopara East,0,699076.36,472274.4858
-post,Quality Care,0,390905.3735,217145.5932
-post,Rajawadi,0,941443.09,514503.5939
-post,Roadpali Kalamboli,0,626603.79,394146.9498
-post,Rupee Nagar Pune,0,363275.64,239837.5296
-post,Saibaba Nagar,0,827236.66,482247.0838
-post,Sakinaka - Pipeline Road,0,610594.83,403221.7725
-post,Sanpada,1,1612255.19,977919.604
-post,Santa Cruz SV Road,0,927926.03,574606.1211
-post,"Santoshi Mata Road, Kalyan West",0,1022193.03,686460.6148
-post,Sasane Nagar Pune,1,509101.26,330316.6019
-post,Seawoods,0,1379939.9,821972.8677
-post,Sector 3 - New Panvel,0,1019623.14,699988.3182
-post,Shambhuraj Enterprises LLP,0,514991.287,340525.6141
-post,Shanti Nagar Mira Road,0,494354.67,284449.5928
-post,Shirgaon Badlapur,0,942443.51,636747.4409
-post,Shivaji Nagar Pune,0,996728.86,645121.8323
-post,Shreenagar,0,2062794.94,1292093.9277
-post,Shriprastha Nalasopara West,0,537207.11,353898.903
-post,Sion Koliwada,0,1132120.97,706989.9143
-post,Thakur Complex,0,1265390.35,757253.0286
-post,Thergaon,0,649768.67,408327.6131
-post,Tilak Road Pune,0,966127.56,644268.6854
-post,Tilaknagar,0,1147876.39,664714.8018
-post,Titwala,0,1556696.81,1072960.7359
-post,Trimurti Chowk Nashik,0,369492.91,255913.6302
-post,Ulhas Nagar - Shahad,0,647580.23,402195.0501
-post,Ulhas Nagar - Shreeram Chowk,0,401183.36,236419.6803
-post,Ulhasnagar,0,1136784.7,660836.7797
-post,Ulhasnagar - Humlog Circle,0,858296.54,550349.2573
-post,Ulhasnagar - Khemani Chowk,0,544149.78,330227.2
-post,Ulhasnagar Sector 4,0,925457.33,596297.4077
-post,Ulwe-Navi Mumbai,0,988939.28,546051.307
-post,Vakola,0,974307.14,619808.78
-post,Vasai West - Station Road,0,1027204.12,669981.9736
-post,Vashi,0,2201280.62,1366942.3109
-post,Vashi Sector 11,0,995511.55,597864.6288
-post,Veenanagar,0,925283.35,538287.0194
-post,Versova - Yari Road,0,841099.24,504461.1956
-post,Versova Andheri,0,2116394.19,1402085.7148
-post,Vijay Nagari - Thane,0,1669266.11,1041758.1097
-post,Vikhroli,0,2600758.51,1629058.0013000001
-post,Vikhroli Kannamwar,0,1337322.02,874585.8009
-post,Vile Parle,0,900760.41,619059.0824000001
-post,Virar East,0,1053306.04,658114.0143
-post,Virar West,0,904380.68,589508.5838
-post,Wadgaon Budruk Pune,0,657667.77,449844.8674
-post,Wadgaon Sheri,0,928906.81,633286.724
-post,Wadgaon Sheri-Old Mundhwa Rd,0,751713.14,552306.7739
-post,Wanawadi Pune,0,614581.92,380825.4237
-post,Warje Pune,0,574017.84,403029.0463
-post,Wayale Nagar,0,882140.46,551541.809
-post,Yashodhan,0,2228194.84,1363720.0848
-post,Yogi Nagar,0,743428.18,419910.8097
-post,Yogidham Kalyan,0,642991.4893,457256.7392
+pre,Chandivali,0,621882.75,369157.1392
+pre,Charkop,0,1382303.77,849037.3064
+pre,Chembur,0,1799297.46,1014340.3431
+pre,Chinchwad,1,823545.57,577417.1277
+pre,Chinchwad - Gandhi Peth,1,310961.55,223534.3869
+pre,Cidco Nashik,0,442585.97,311701.277
+pre,Colaba,1,599668.85,358865.6791
+pre,Dadar East,0,735664.83,454882.527
+pre,Dahisar,0,1037851.98,623588.479
+pre,Dattnagar,0,599819.56,350090.572
+pre,Dhanakwadi,0,875648.4,565585.1802
+pre,Dhanori Pune,0,787068.92,544148.9909
+pre,Dhayari Pune,0,639302.51,420510.7343
+pre,Dighi Pune,1,547080.3099999999,409316.5157
+pre,Dombivali,0,1039924.39,635201.3969
+pre,Dombivali - Navpada,0,669309.87,438307.5636
+pre,Dombivali - Reti Bunder,0,530379.4955,344875.3553
+pre,Dombivli West,0,1441923.87,821412.3912
+pre,Evershine Nagar,0,661832.16,401305.8951
+pre,Fam Society - Koperkhairne,0,1379373.6,898711.9488
+pre,Fursungi Pune,0,671113.81,470130.5622
+pre,Ghansoli,0,1877547.13,1194861.8672
+pre,Ghatkopar East,0,1370968.41,891035.0183
+pre,Ghatkopar West,0,1271120.62,817994.9224
+pre,Ghodapdeo - Byculla,0,519845.25,285922.5329
+pre,Global City Virar West,0,732373.31,475194.5444
+pre,Goregaon,1,1367092.98,803375.3757
+pre,Goregaon West S.V. Road,1,1347009.44,888119.6341
+pre,Govandi,0,1436152.79,830603.204
+pre,Gujrat Colony Kothrud,0,444762.86,308119.1622
+pre,Gulab Nagar Pune,0,619560.12,406098.6389
+pre,Hari Om Nagar,0,1098749.1,704242.9791
+pre,Hiltron Ulhasnagar,0,733603.69,465508.739
+pre,Hiranandani Thane,0,2026891.72,1342612.961
+pre,IC Colony Borivali,0,1777860.08,1091978.6514
+pre,JB Nagar,0,2130319.53,1360679.9667
+pre,JJ Hospital,0,1290483.4,647411.2415
+pre,Jagruti Nagar Ghatkopar,0,705163.84,449004.3944
+pre,Jail Road Nashik,0,537049.47,385610.4061
+pre,Jay VIjay Nagar Nalasopara East,0,583756.87,383489.88
+pre,Kalamboli,0,830264.6,526768.5973
+pre,Kalher Bhiwandi,0,1398930.04,900339.5694
+pre,Kalina,0,900116.47,581582.6062
+pre,Kalwa,0,1974239.34,1174336.6853
+pre,Kalyan,0,938071.35,598388.9605
+pre,Kalyan - DB Chowk,0,661802.12,440133.1232
+pre,Kalyan East-Tisgaon Naka,0,1016900.52,659452.6437
+pre,Kalyan West Club Road,0,822686.45,512328.0733
+pre,Kamotha,0,1916854.08,1252911.5798
+pre,Kamothe - Sector 36,0,926082.13,640977.4575
+pre,Kandivali East,0,1003990.37,605260.4847
+pre,Kandivali West,0,423318.81,239941.7707
+pre,Kasarvadavali Thane,0,920807.89,579843.8558
+pre,Katrap Badlapur East,0,445191.0,289553.0002
+pre,Khadki Pune,0,918409.55,635218.8193
+pre,Khanda Colony,1,944768.23,604966.3348
+pre,Khar West,1,986660.6,598377.27
+pre,Kharghar,0,1639284.1,972196.5041
+pre,Kharghar Sector 12,0,864426.5,517491.5319
+pre,Khopat,0,1573626.15,942373.0667
+pre,Khutwad Nagar Nashik,0,258571.73,187485.7424
+pre,Kolsheth,0,2144986.88,1216473.5506
+pre,Kopar Khairane,0,1587498.8699999999,978111.1433
+pre,Kopari Thane,0,908117.74,658316.134
+pre,Koper Khairane - Sector 2,0,574597.23,372521.753
+pre,Koper Khairane - Sector 7,0,846961.22,531411.083
+pre,Kulgaon Badlapur West,0,941871.86,580220.2802
+pre,Kurla,0,659146.85,354232.5772
+pre,Kurla West,0,1190082.36,704065.2291
+pre,Lower Parel - SJ Marg,0,570218.73,345207.1023
+pre,Mahakali,0,1846767.02,1185902.5342
+pre,Mahavir Pride Dombivali,0,1186634.22,762509.4983
+pre,Mahim West,0,909432.36,545626.3777
+pre,Malad,0,1402540.11,841301.9167
+pre,Malad Liberty Garden,0,974238.74,598142.0109999999
+pre,Malwani,0,840860.24,527290.9946
+pre,Marol,0,1623490.99,985090.7615
+pre,Mharal Ulhasnagar,0,1094340.21,728150.8858
+pre,Mhasrul Nashik,0,638957.92,443769.9988
+pre,Mira Road,0,811639.71,508273.6162
+pre,Mira Road - GCC Club Road,0,443219.27,318391.9199
+pre,Mira Road Jangid Complex,0,864156.71,528223.2916
+pre,Mohan Nagar Kandivali,0,643821.1885,390545.7856
+pre,Mulund East,0,2291443.64,1355301.327
+pre,Mulund Panch Rasta,0,700439.46,405294.3949
+pre,Mulund West,0,1229968.97,653765.3057
+pre,Mulund West-Sarvodaya Nagar,0,1408941.88,878056.9899
+pre,Mundhwa Pune,0,526134.09,359192.9767
+pre,NIBM Kondwa,0,1218344.33,750120.8099
+pre,Nahur West,0,1079161.07,697600.3325
+pre,Nalasopara - Yashwant Nagar,0,602779.99,406189.8661
+pre,Nalasopara West,0,691629.47,441352.887
+pre,Narhe Pune,0,509971.03,345818.0986
+pre,Naupada,0,1504865.1,936287.9223
+pre,Navare Nagar Ambernath,0,758303.79,505769.4525
+pre,Navi Peth Pune,0,984613.66,692106.6001
+pre,Navjeevan Mumbai Central,0,1100426.43,651656.251
+pre,Nerul East,0,1146263.36,705950.9217
+pre,Nerul West,0,1055969.55,630881.0622
+pre,New Panvel,0,1258103.3,813513.1746
+pre,Old Panvel,0,1199226.54,788828.7424
+pre,Palegaon Ambernath,0,468282.94,299086.342
+pre,Panchpakhadi,0,1131735.98,749908.9222
+pre,Pantnagar,0,709691.52,433267.6487
+pre,Panvel - Uran Naka,0,674125.67,426265.7377
+pre,Phadke Road - Dombivali,0,837938.42,513177.8962
+pre,Pimple Gurav,0,604731.85,383602.8533
+pre,Prabhadevi,0,1094176.52,620006.546
+pre,Pragati Nagar Nalasopara East,0,648793.63,441286.2097
+pre,Rajawadi,0,1024006.03,548593.6072
+pre,Roadpali Kalamboli,0,682983.92,435362.4912
+pre,Rupee Nagar Pune,0,414967.07,281923.4782
+pre,Saibaba Nagar,0,693378.89,400330.3498
+pre,Sakinaka - Pipeline Road,0,569657.45,366792.7172
+pre,Sanpada,1,1750799.15,1095421.9667
+pre,Santa Cruz SV Road,0,925795.88,583861.8002
+pre,"Santoshi Mata Road, Kalyan West",0,1031151.9,698156.1263
+pre,Sasane Nagar Pune,1,564519.78,381313.1816
+pre,Seawoods,0,1323672.76,813291.2807
+pre,Sector 3 - New Panvel,0,1057633.37,741928.3514
+pre,Shanti Nagar Mira Road,0,485224.36,286354.7724
+pre,Shirgaon Badlapur,0,729530.42,482532.852
+pre,Shivaji Nagar Pune,0,936065.89,621126.3199
+pre,Shreenagar,0,1919185.51,1203989.3388
+pre,Shriprastha Nalasopara West,0,625584.72,427478.7681
+pre,Sion Koliwada,0,1090025.48,667696.0173
+pre,Thakur Complex,0,1336447.17,817303.5887
+pre,Thergaon,0,574499.26,366896.2747
+pre,Tilak Road Pune,0,907077.58,603896.5404
+pre,Tilaknagar,0,1133456.28,684322.5284
+pre,Titwala,0,1593585.35,1119526.1
+pre,Trimurti Chowk Nashik,0,353612.86,253833.811
+pre,Ulhas Nagar - Shahad,0,680993.84,426170.7415
+pre,Ulhas Nagar - Shreeram Chowk,0,523598.76,321107.2967
+pre,Ulhasnagar,0,1119043.7,669835.2338
+pre,Ulhasnagar - Humlog Circle,0,850467.72,565347.7729
+pre,Ulhasnagar - Khemani Chowk,0,531928.99,330776.1916
+pre,Ulhasnagar Sector 4,0,927809.38,616312.9733
+pre,Ulwe-Navi Mumbai,0,990316.28,572614.2687
+pre,Vakola,0,986854.01,641837.4654
+pre,Vasai West - Station Road,0,1181267.99,810422.7657
+pre,Vashi,0,2152402.04,1354806.0871
+pre,Vashi Sector 11,0,1060887.5,663096.3896
+pre,Veenanagar,0,902639.32,531574.5335
+pre,Versova - Yari Road,0,837404.27,510802.4587
+pre,Versova Andheri,0,1964098.03,1294616.3115
+pre,Vijay Nagari - Thane,0,1566168.16,1010929.44
+pre,Vikhroli,0,2622882.47,1672950.7259
+pre,Vikhroli Kannamwar,0,1306472.75,870658.8832
+pre,Vile Parle,0,803985.16,518727.722
+pre,Virar East,0,1028614.87,671029.9092999999
+pre,Virar West,0,935298.34,631265.2905
+pre,Wadgaon Budruk Pune,0,621360.67,435593.6982
+pre,Wadgaon Sheri,0,899098.51,646294.2416
+pre,Wadgaon Sheri-Old Mundhwa Rd,0,738015.4,533179.6225
+pre,Wanawadi Pune,0,524453.76,324718.035
+pre,Warje Pune,0,393632.67,259640.5435
+pre,Wayale Nagar,0,906261.91,594617.1007
+pre,Yashodhan,0,2327604.01,1469039.7038
+pre,Yogi Nagar,0,786428.65,458549.392
+pre,Yogidham Kalyan,0,621060.84,430239.3205
+post,7 Rasta Byculla,0,832993.61,502742.4182
+post,Airoli,0,2064112.14,1249991.7185
+post,Airoli Sector - 3,0,1356274.0,852551.4945
+post,Ambegaon Pune,0,515550.59,344217.8002
+post,Ambernath East,0,841914.64,551774.2816
+post,Ambernath West,0,876674.1900000001,565588.0346
+post,Ashokvan Dahisar,0,1170571.94,706320.8532
+post,Badlapur - Belavali,0,734695.94,451838.9231
+post,Badlapur East,0,623918.63,414830.5777
+post,Bandra,1,1523734.54,865470.5363
+post,Bhandup West,0,1504315.83,914184.1539
+post,Bhayandar,0,1324050.85,780171.5171
+post,Bhayander 60 Feet Road,0,780013.34,502601.1128
+post,Bhekrainagar Pune,0,506090.08,320258.4714
+post,Bhiwandi - Shivaji Chowk,0,410961.2,263289.5974
+post,Bhiwandi Dhamankar Naka,1,1161473.81,703861.7621
+post,Bibwewadi Pune,0,1019058.04,612241.0003
+post,Bytco Point Nashik,0,781001.36,556969.2883
+post,CST Bora Bazaar,0,719047.23,408375.928
+post,Chandivali,0,652795.49,392202.721
+post,Charkop,0,1434829.34,850999.5369
+post,Chembur,0,1868703.11,1019923.5924
+post,Chinchwad,1,756651.04,522036.5189
+post,Chinchwad - Gandhi Peth,1,325662.31,227194.8484
+post,Cidco Nashik,0,572577.5,387411.3475
+post,Colaba,1,618428.78,351958.3439
+post,Dadar East,0,704482.7,422162.9107
+post,Dahisar,0,1129074.55,679062.983
+post,Dattnagar,0,653444.39,366051.9968
+post,Dhanakwadi,0,1055286.78,708107.2666
+post,Dhanori Pune,0,718438.13,451648.349
+post,Dhayari Pune,0,665446.65,437518.1371
+post,Dighi Pune,1,532615.56,372380.8841
+post,Dombivali,0,1137600.89,678811.8818
+post,Dombivali - Navpada,0,772679.9,499248.767
+post,Dombivali - Reti Bunder,0,564049.0407,367248.5984
+post,Dombivli West,0,1549664.77,864937.5309
+post,Evershine Nagar,0,670071.98,394445.5694
+post,Fam Society - Koperkhairne,0,1460148.7,915473.5215
+post,Fursungi Pune,0,748021.18,521114.0982
+post,Ghansoli,0,1852133.57,1140134.3703
+post,Ghatkopar East,0,1427701.47,914204.3643
+post,Ghatkopar West,0,1290395.19,798502.3904
+post,Ghodapdeo - Byculla,0,567705.67,296485.6635
+post,Global City Virar West,0,798734.35,538379.1744
+post,Goregaon,1,1577172.6,933936.091
+post,Goregaon West S.V. Road,1,1418674.55,942569.2516
+post,Govandi,0,1512632.62,846825.8959
+post,Gujrat Colony Kothrud,0,659495.88,491656.7876
+post,Gulab Nagar Pune,0,633199.17,411987.7067
+post,Hari Om Nagar,0,1200149.83,774312.5206
+post,Hiltron Ulhasnagar,0,732659.01,478196.5112
+post,Hiranandani Thane,0,2123325.11,1368952.0399
+post,IC Colony Borivali,0,1797866.38,1081751.6435
+post,JB Nagar,0,2368570.68,1496073.6959
+post,JJ Hospital,0,1346881.47,638663.317
+post,Jagruti Nagar Ghatkopar,0,675718.43,433704.7377
+post,Jail Road Nashik,0,585446.44,411399.8523
+post,Jay VIjay Nagar Nalasopara East,0,526550.39,344222.0263
+post,Kalamboli,0,938423.33,597167.7607
+post,Kalher Bhiwandi,0,1379996.91,885434.9389
+post,Kalina,0,976445.38,599586.5905
+post,Kalwa,0,2223730.96,1298771.0845
+post,Kalyan,0,939066.37,588998.1994
+post,Kalyan - DB Chowk,0,668059.99,432568.7587
+post,Kalyan East-Tisgaon Naka,0,995045.84,638221.6146
+post,Kalyan West Club Road,0,823500.2,497096.1419
+post,Kamotha,0,2071863.82,1345337.0447
+post,Kamothe - Sector 36,0,899006.29,608256.2263
+post,Kandivali East,0,1102812.85,653326.4911
+post,Kandivali West,0,445356.37,253464.0887
+post,Kasarvadavali Thane,0,1012976.14,614182.9305
+post,Katrap Badlapur East,0,535144.77,345308.0138
+post,Khadki Pune,0,941074.78,644358.9593
+post,Khanda Colony,1,977180.42,629620.4949
+post,Khar West,1,957276.38,573820.1785
+post,Kharghar,0,1754744.36,1008624.1975
+post,Kharghar Sector 12,0,957590.17,567287.97
+post,Khopat,0,1477829.78,857583.4224
+post,Khutwad Nagar Nashik,0,304589.87,219613.1491
+post,Kolsheth,0,2166154.04,1181915.7624
+post,Kopar Khairane,0,1734633.84,1043820.599
+post,Kopari Thane,0,951673.61,681694.7191
+post,Koper Khairane - Sector 7,0,1010819.27,630064.6876
+post,Kulgaon Badlapur West,0,993051.44,593636.1792
+post,Kurla,0,809771.04,441000.7456
+post,Kurla West,0,1242222.93,717048.9315
+post,Lower Parel - SJ Marg,0,626544.61,391852.2875
+post,Mahakali,0,1942844.71,1229035.6655
+post,Mahavir Pride Dombivali,0,1204749.69,762644.1827
+post,Mahim West,0,959708.33,567873.1047
+post,Malad,0,1412406.31,809852.5976
+post,Malad Liberty Garden,0,878930.42,497576.1928
+post,Malwani,0,895251.79,534555.7729
+post,Marol,0,1662249.31,993458.3313
+post,Mharal Ulhasnagar,0,1118471.49,727556.9923
+post,Mhasrul Nashik,0,832941.82,597757.1441
+post,Mira Road,0,864101.16,531886.6465
+post,Mira Road - GCC Club Road,0,436801.33,309568.7349
+post,Mira Road Jangid Complex,0,995789.97,605667.6646
+post,Mohan Nagar Kandivali,0,709028.49,413418.683
+post,Mulund East,0,2363693.14,1337560.9665
+post,Mulund Panch Rasta,0,764476.25,441447.5937
+post,Mulund West,0,1511471.41,797481.5493
+post,Mulund West-Sarvodaya Nagar,0,1579345.27,1007957.895
+post,Mundhwa Pune,0,514206.24,336671.4493
+post,NIBM Kondwa,0,1258742.26,761728.6114
+post,Nahur West,0,1237800.73,769167.8579000001
+post,Nalasopara - Yashwant Nagar,0,617502.17,409071.4299
+post,Nalasopara West,0,662458.36,418467.4288
+post,Narhe Pune,0,586296.2,391049.6811
+post,Naupada,0,1550583.56,950831.8805
+post,Navare Nagar Ambernath,0,783212.93,509861.4446
+post,Navi Peth Pune,0,946763.71,637832.5319
+post,Navjeevan Mumbai Central,0,1158845.78,662681.1821
+post,Nerul East,0,1183069.96,692782.5499
+post,Nerul West,0,1065426.6,628695.6515
+post,New Panvel,0,1355582.63,868298.448
+post,Old Panvel,0,1166185.29,748316.5395
+post,Palegaon Ambernath,0,500022.72,315708.9462
+post,Panchpakhadi,0,1178306.12,757015.4203
+post,Pantnagar,0,715408.63,412429.8594
+post,Panvel - Uran Naka,0,749052.66,456847.1062
+post,Phadke Road - Dombivali,0,909035.2,553086.9338
+post,Pimple Gurav,0,606708.72,367190.7931
+post,Prabhadevi,0,1222216.03,658239.312
+post,Pragati Nagar Nalasopara East,0,735327.46,498109.7148
+post,Rajawadi,0,988793.58,536656.5422
+post,Roadpali Kalamboli,0,650891.85,410633.5949
+post,Rupee Nagar Pune,0,380522.25,252804.5118
+post,Saibaba Nagar,0,862688.43,500432.3407
+post,Sakinaka - Pipeline Road,0,635969.98,418939.0947
+post,Sanpada,1,1703337.02,1035131.0147
+post,Santa Cruz SV Road,0,992693.28,622114.8855
+post,"Santoshi Mata Road, Kalyan West",0,1068302.39,718401.7197
+post,Sasane Nagar Pune,1,530456.34,343539.9416
+post,Seawoods,0,1427433.62,850074.8122
+post,Sector 3 - New Panvel,0,1073729.97,735034.5682
+post,Shanti Nagar Mira Road,0,525481.22,302807.7609
+post,Shirgaon Badlapur,0,979967.19,663815.9116
+post,Shivaji Nagar Pune,0,1030457.86,666271.331
+post,Shreenagar,0,2134587.72,1335074.7881
+post,Shriprastha Nalasopara West,0,561136.27,369766.1754
+post,Sion Koliwada,0,1190065.44,739285.1333
+post,Thakur Complex,0,1304473.27,779586.0125
+post,Thergaon,0,736031.08,479251.802
+post,Tilak Road Pune,0,1006992.11,671497.1037
+post,Tilaknagar,0,1199603.25,695327.9247
+post,Titwala,0,1620252.81,1117470.5567
+post,Trimurti Chowk Nashik,0,386647.34,267409.3554
+post,Ulhas Nagar - Shahad,0,673037.51,417603.0506
+post,Ulhas Nagar - Shreeram Chowk,0,425551.96,252261.5014
+post,Ulhasnagar,0,1183815.04,688772.3602
+post,Ulhasnagar - Humlog Circle,0,895549.13,574552.9594
+post,Ulhasnagar - Khemani Chowk,0,575081.56,349971.7282
+post,Ulhasnagar Sector 4,0,961929.39,618256.2166
+post,Ulwe-Navi Mumbai,0,1043393.29,576691.1466
+post,Vakola,0,1016390.5,641739.6665
+post,Vasai West - Station Road,0,1068567.13,698489.2862
+post,Vashi,0,2292135.29,1422396.2171
+post,Vashi Sector 11,0,1048887.93,629014.8233
+post,Veenanagar,0,970518.79,567760.3645
+post,Versova - Yari Road,0,877704.97,527742.077
+post,Versova Andheri,0,2202133.98,1454311.6312
+post,Vijay Nagari - Thane,0,1727378.72,1075010.0591
+post,Vikhroli,0,2711558.07,1695384.9661
+post,Vikhroli Kannamwar,0,1406360.77,917823.8865
+post,Vile Parle,0,937117.03,641225.6402
+post,Virar East,0,1087381.54,681711.2913
+post,Virar West,0,943289.44,614671.2056
+post,Wadgaon Budruk Pune,0,680005.21,464292.4124
+post,Wadgaon Sheri,0,965775.74,655787.7872
+post,Wadgaon Sheri-Old Mundhwa Rd,0,775114.31,568441.3189
+post,Wanawadi Pune,0,647100.89,401758.3035
+post,Warje Pune,0,589885.2,412215.7034
+post,Wayale Nagar,0,927444.73,581668.8122
+post,Yashodhan,0,2327274.13,1422067.3793
+post,Yogi Nagar,0,770770.13,437318.5463
+post,Yogidham Kalyan,0,672967.9577,477904.19060000003

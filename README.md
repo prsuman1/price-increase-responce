@@ -10,6 +10,17 @@ Two pages:
 - **💬 Customer Voice** — chain-wide surveyor-logged customer reactions,
   aggregated from 8 rotating field surveyors' Google Sheets.
 
+**Scope:** dashboard reads only `franchisee_id = 1` stores (chain-owned).
+Other franchisees are managed separately and their sales are excluded from
+every metric on both pages. Filter is enforced in `refresh_dashboard_data.py`
+and `survey_ingest.py`.
+
+**Excluded drugs:** `EXCLUDED_DRUG_IDS` in `refresh_dashboard_data.py` lists
+drug IDs to drop entirely from Impact math (bad price history in Redshift).
+Currently excludes `632426` (Suraksha Latex Examination Powdered Gloves —
+had a stray ₹732 sale mis-priced vs its real ₹7.32 shelf rate, creating
+fake -₹72K RGM impact). Add IDs to the tuple and re-run to drop more.
+
 ## Local run
 
 ```bash

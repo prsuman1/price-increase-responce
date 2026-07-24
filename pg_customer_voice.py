@@ -82,6 +82,7 @@ st.caption(
     "chain-wide price hike (2026-07-01 →). Each row = one billed customer. "
     "Rotating across stores; 8 surveyors."
 )
+st.caption("**Scope:** franchisee_id = 1 stores only (chain-owned). Other franchisees excluded.")
 
 if df.empty:
     st.warning(

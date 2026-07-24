@@ -1,1521 +1,1445 @@
 window,store_name,pilot,segment,units
-pre,7 Rasta Byculla,0,Ethical,2184
-pre,7 Rasta Byculla,0,GA,4678
-pre,7 Rasta Byculla,0,NGA,1018
-pre,7 Rasta Byculla,0,Other,2853
-pre,ABM Pharmacy & Healthcare,0,Ethical,3054
-pre,ABM Pharmacy & Healthcare,0,GA,1979
-pre,ABM Pharmacy & Healthcare,0,NGA,781
-pre,ABM Pharmacy & Healthcare,0,Other,1078
-pre,Airoli,0,Ethical,4565
-pre,Airoli,0,GA,9150
-pre,Airoli,0,NGA,2490
-pre,Airoli,0,Other,3113
-pre,Airoli Sec 5,0,Ethical,1917
-pre,Airoli Sec 5,0,GA,2363
-pre,Airoli Sec 5,0,NGA,640
-pre,Airoli Sec 5,0,Other,1880
-pre,Airoli Sector - 3,0,Ethical,3158
-pre,Airoli Sector - 3,0,GA,5467
-pre,Airoli Sector - 3,0,NGA,1441
-pre,Airoli Sector - 3,0,Other,2952
-pre,Ambegaon Pune,0,Ethical,1741
-pre,Ambegaon Pune,0,GA,2098
-pre,Ambegaon Pune,0,NGA,374
-pre,Ambegaon Pune,0,Other,1268
-pre,Ambernath East,0,Ethical,2843
-pre,Ambernath East,0,GA,3133
-pre,Ambernath East,0,NGA,678
-pre,Ambernath East,0,Other,1155
-pre,Ambernath West,0,Ethical,3443
-pre,Ambernath West,0,GA,4011
-pre,Ambernath West,0,NGA,677
-pre,Ambernath West,0,Other,1199
-pre,Ashokvan Dahisar,0,Ethical,2748
-pre,Ashokvan Dahisar,0,GA,5295
-pre,Ashokvan Dahisar,0,NGA,1131
-pre,Ashokvan Dahisar,0,Other,2412
-pre,Aura Medical Titwala East,0,Ethical,2822
-pre,Aura Medical Titwala East,0,GA,137
-pre,Aura Medical Titwala East,0,NGA,1136
-pre,Aura Medical Titwala East,0,Other,543
-pre,Badlapur - Belavali,0,Ethical,1169
-pre,Badlapur - Belavali,0,GA,2598
-pre,Badlapur - Belavali,0,NGA,698
-pre,Badlapur - Belavali,0,Other,2579
-pre,Badlapur East,0,Ethical,2208
-pre,Badlapur East,0,GA,3065
-pre,Badlapur East,0,NGA,579
-pre,Badlapur East,0,Other,933
-pre,Bandra,1,Ethical,3531
-pre,Bandra,1,GA,8357
-pre,Bandra,1,NGA,1973
-pre,Bandra,1,Other,3206
-pre,Bhandup West,0,Ethical,4531
-pre,Bhandup West,0,GA,8099
-pre,Bhandup West,0,NGA,1692
-pre,Bhandup West,0,Other,2333
-pre,Bhayandar,0,Ethical,3903
-pre,Bhayandar,0,GA,6024
-pre,Bhayandar,0,NGA,1592
-pre,Bhayandar,0,Other,2495
-pre,Bhayander 60 Feet Road,0,Ethical,2380
-pre,Bhayander 60 Feet Road,0,GA,3117
-pre,Bhayander 60 Feet Road,0,NGA,716
-pre,Bhayander 60 Feet Road,0,Other,1534
-pre,Bhekrainagar Pune,0,Ethical,1584
-pre,Bhekrainagar Pune,0,GA,2382
-pre,Bhekrainagar Pune,0,NGA,451
-pre,Bhekrainagar Pune,0,Other,958
-pre,Bhiwandi - Shivaji Chowk,0,Ethical,717
-pre,Bhiwandi - Shivaji Chowk,0,GA,821
-pre,Bhiwandi - Shivaji Chowk,0,NGA,296
-pre,Bhiwandi - Shivaji Chowk,0,Other,1837
-pre,Bhiwandi Dhamankar Naka,1,Ethical,3142
-pre,Bhiwandi Dhamankar Naka,1,GA,6296
-pre,Bhiwandi Dhamankar Naka,1,NGA,1432
-pre,Bhiwandi Dhamankar Naka,1,Other,2340
-pre,Bibwewadi Pune,0,Ethical,1932
-pre,Bibwewadi Pune,0,GA,6609
-pre,Bibwewadi Pune,0,NGA,609
-pre,Bibwewadi Pune,0,Other,945
-pre,Bytco Point Nashik,0,Ethical,2302
-pre,Bytco Point Nashik,0,GA,2136
-pre,Bytco Point Nashik,0,NGA,597
-pre,Bytco Point Nashik,0,Other,1765
-pre,CST Bora Bazaar,0,Ethical,1486
-pre,CST Bora Bazaar,0,GA,3673
-pre,CST Bora Bazaar,0,NGA,891
-pre,CST Bora Bazaar,0,Other,2033
+pre,7 Rasta Byculla,0,Ethical,2273
+pre,7 Rasta Byculla,0,GA,4914
+pre,7 Rasta Byculla,0,NGA,1061
+pre,7 Rasta Byculla,0,Other,2933
+pre,Airoli,0,Ethical,4797
+pre,Airoli,0,GA,9450
+pre,Airoli,0,NGA,2557
+pre,Airoli,0,Other,3244
+pre,Airoli Sec 5,0,Ethical,1983
+pre,Airoli Sec 5,0,GA,2414
+pre,Airoli Sec 5,0,NGA,654
+pre,Airoli Sec 5,0,Other,1913
+pre,Airoli Sector - 3,0,Ethical,3290
+pre,Airoli Sector - 3,0,GA,5683
+pre,Airoli Sector - 3,0,NGA,1508
+pre,Airoli Sector - 3,0,Other,3057
+pre,Ambegaon Pune,0,Ethical,1788
+pre,Ambegaon Pune,0,GA,2222
+pre,Ambegaon Pune,0,NGA,381
+pre,Ambegaon Pune,0,Other,1323
+pre,Ambernath East,0,Ethical,3004
+pre,Ambernath East,0,GA,3267
+pre,Ambernath East,0,NGA,706
+pre,Ambernath East,0,Other,1194
+pre,Ambernath West,0,Ethical,3538
+pre,Ambernath West,0,GA,4194
+pre,Ambernath West,0,NGA,708
+pre,Ambernath West,0,Other,1228
+pre,Ashokvan Dahisar,0,Ethical,2817
+pre,Ashokvan Dahisar,0,GA,5528
+pre,Ashokvan Dahisar,0,NGA,1179
+pre,Ashokvan Dahisar,0,Other,2476
+pre,Badlapur - Belavali,0,Ethical,1206
+pre,Badlapur - Belavali,0,GA,2704
+pre,Badlapur - Belavali,0,NGA,735
+pre,Badlapur - Belavali,0,Other,2669
+pre,Badlapur East,0,Ethical,2270
+pre,Badlapur East,0,GA,3207
+pre,Badlapur East,0,NGA,610
+pre,Badlapur East,0,Other,958
+pre,Bandra,1,Ethical,3674
+pre,Bandra,1,GA,8750
+pre,Bandra,1,NGA,2069
+pre,Bandra,1,Other,3296
+pre,Bhandup West,0,Ethical,4706
+pre,Bhandup West,0,GA,8376
+pre,Bhandup West,0,NGA,1774
+pre,Bhandup West,0,Other,2437
+pre,Bhayandar,0,Ethical,4055
+pre,Bhayandar,0,GA,6256
+pre,Bhayandar,0,NGA,1646
+pre,Bhayandar,0,Other,2602
+pre,Bhayander 60 Feet Road,0,Ethical,2452
+pre,Bhayander 60 Feet Road,0,GA,3172
+pre,Bhayander 60 Feet Road,0,NGA,736
+pre,Bhayander 60 Feet Road,0,Other,1578
+pre,Bhekrainagar Pune,0,Ethical,1638
+pre,Bhekrainagar Pune,0,GA,2500
+pre,Bhekrainagar Pune,0,NGA,467
+pre,Bhekrainagar Pune,0,Other,1002
+pre,Bhiwandi - Shivaji Chowk,0,Ethical,814
+pre,Bhiwandi - Shivaji Chowk,0,GA,864
+pre,Bhiwandi - Shivaji Chowk,0,NGA,318
+pre,Bhiwandi - Shivaji Chowk,0,Other,1902
+pre,Bhiwandi Dhamankar Naka,1,Ethical,3268
+pre,Bhiwandi Dhamankar Naka,1,GA,6542
+pre,Bhiwandi Dhamankar Naka,1,NGA,1493
+pre,Bhiwandi Dhamankar Naka,1,Other,2445
+pre,Bibwewadi Pune,0,Ethical,1995
+pre,Bibwewadi Pune,0,GA,6995
+pre,Bibwewadi Pune,0,NGA,625
+pre,Bibwewadi Pune,0,Other,960
+pre,Bytco Point Nashik,0,Ethical,2377
+pre,Bytco Point Nashik,0,GA,2219
+pre,Bytco Point Nashik,0,NGA,613
+pre,Bytco Point Nashik,0,Other,1813
+pre,CST Bora Bazaar,0,Ethical,1566
+pre,CST Bora Bazaar,0,GA,3835
+pre,CST Bora Bazaar,0,NGA,933
+pre,CST Bora Bazaar,0,Other,2104
 pre,Canada Corner Nashik,0,Ethical,525
 pre,Canada Corner Nashik,0,GA,671
 pre,Canada Corner Nashik,0,NGA,181
 pre,Canada Corner Nashik,0,Other,438
-pre,Care Point Chemist,0,Ethical,3543
-pre,Care Point Chemist,0,GA,1840
-pre,Care Point Chemist,0,NGA,380
-pre,Care Point Chemist,0,Other,332
-pre,Chandivali,0,Ethical,1687
-pre,Chandivali,0,GA,3457
-pre,Chandivali,0,NGA,896
-pre,Chandivali,0,Other,1668
-pre,Charkop,0,Ethical,4132
-pre,Charkop,0,GA,7636
-pre,Charkop,0,NGA,1951
-pre,Charkop,0,Other,2228
-pre,Chembur,0,Ethical,4551
-pre,Chembur,0,GA,12550
-pre,Chembur,0,NGA,2842
-pre,Chembur,0,Other,3145
-pre,Chinchwad,1,Ethical,2106
-pre,Chinchwad,1,GA,2640
-pre,Chinchwad,1,NGA,687
-pre,Chinchwad,1,Other,2453
-pre,Chinchwad - Gandhi Peth,1,Ethical,806
-pre,Chinchwad - Gandhi Peth,1,GA,723
-pre,Chinchwad - Gandhi Peth,1,NGA,195
-pre,Chinchwad - Gandhi Peth,1,Other,946
-pre,Cidco Nashik,0,Ethical,1320
-pre,Cidco Nashik,0,GA,1561
-pre,Cidco Nashik,0,NGA,272
-pre,Cidco Nashik,0,Other,1360
-pre,Colaba,1,Ethical,1480
-pre,Colaba,1,GA,3459
-pre,Colaba,1,NGA,632
-pre,Colaba,1,Other,2206
-pre,Dadar East,0,Ethical,2242
-pre,Dadar East,0,GA,4021
-pre,Dadar East,0,NGA,1033
-pre,Dadar East,0,Other,2075
-pre,Dahisar,0,Ethical,3129
-pre,Dahisar,0,GA,6025
-pre,Dahisar,0,NGA,1303
-pre,Dahisar,0,Other,1854
-pre,Dattnagar,0,Ethical,1394
-pre,Dattnagar,0,GA,4168
-pre,Dattnagar,0,NGA,585
-pre,Dattnagar,0,Other,1018
-pre,Dhanakwadi,0,Ethical,2665
-pre,Dhanakwadi,0,GA,4323
-pre,Dhanakwadi,0,NGA,915
-pre,Dhanakwadi,0,Other,2079
-pre,Dhanori Pune,0,Ethical,2066
-pre,Dhanori Pune,0,GA,3095
-pre,Dhanori Pune,0,NGA,663
-pre,Dhanori Pune,0,Other,1128
-pre,Dhayari Pune,0,Ethical,1816
-pre,Dhayari Pune,0,GA,3016
-pre,Dhayari Pune,0,NGA,538
-pre,Dhayari Pune,0,Other,1228
-pre,Dighi Pune,1,Ethical,1169
-pre,Dighi Pune,1,GA,1696
-pre,Dighi Pune,1,NGA,319
-pre,Dighi Pune,1,Other,786
-pre,Dombivali,0,Ethical,3255
-pre,Dombivali,0,GA,5736
-pre,Dombivali,0,NGA,1523
-pre,Dombivali,0,Other,1620
-pre,Dombivali - Navpada,0,Ethical,1637
-pre,Dombivali - Navpada,0,GA,2357
-pre,Dombivali - Navpada,0,NGA,637
-pre,Dombivali - Navpada,0,Other,2130
-pre,Dombivali - Reti Bunder,0,Ethical,1358
-pre,Dombivali - Reti Bunder,0,GA,1966
+pre,Chandivali,0,Ethical,1720
+pre,Chandivali,0,GA,3586
+pre,Chandivali,0,NGA,945
+pre,Chandivali,0,Other,1732
+pre,Charkop,0,Ethical,4254
+pre,Charkop,0,GA,8034
+pre,Charkop,0,NGA,2061
+pre,Charkop,0,Other,2317
+pre,Chembur,0,Ethical,4739
+pre,Chembur,0,GA,12997
+pre,Chembur,0,NGA,2951
+pre,Chembur,0,Other,3224
+pre,Chinchwad,1,Ethical,2128
+pre,Chinchwad,1,GA,2715
+pre,Chinchwad,1,NGA,704
+pre,Chinchwad,1,Other,2568
+pre,Chinchwad - Gandhi Peth,1,Ethical,831
+pre,Chinchwad - Gandhi Peth,1,GA,762
+pre,Chinchwad - Gandhi Peth,1,NGA,206
+pre,Chinchwad - Gandhi Peth,1,Other,991
+pre,Cidco Nashik,0,Ethical,1360
+pre,Cidco Nashik,0,GA,1655
+pre,Cidco Nashik,0,NGA,279
+pre,Cidco Nashik,0,Other,1426
+pre,Colaba,1,Ethical,1522
+pre,Colaba,1,GA,3603
+pre,Colaba,1,NGA,653
+pre,Colaba,1,Other,2279
+pre,Dadar East,0,Ethical,2317
+pre,Dadar East,0,GA,4103
+pre,Dadar East,0,NGA,1097
+pre,Dadar East,0,Other,2125
+pre,Dahisar,0,Ethical,3243
+pre,Dahisar,0,GA,6245
+pre,Dahisar,0,NGA,1355
+pre,Dahisar,0,Other,1914
+pre,Dattnagar,0,Ethical,1465
+pre,Dattnagar,0,GA,4420
+pre,Dattnagar,0,NGA,619
+pre,Dattnagar,0,Other,1106
+pre,Dhanakwadi,0,Ethical,2725
+pre,Dhanakwadi,0,GA,4496
+pre,Dhanakwadi,0,NGA,935
+pre,Dhanakwadi,0,Other,2200
+pre,Dhanori Pune,0,Ethical,2184
+pre,Dhanori Pune,0,GA,3169
+pre,Dhanori Pune,0,NGA,694
+pre,Dhanori Pune,0,Other,1163
+pre,Dhayari Pune,0,Ethical,1866
+pre,Dhayari Pune,0,GA,3163
+pre,Dhayari Pune,0,NGA,543
+pre,Dhayari Pune,0,Other,1287
+pre,Dighi Pune,1,Ethical,1223
+pre,Dighi Pune,1,GA,1736
+pre,Dighi Pune,1,NGA,339
+pre,Dighi Pune,1,Other,799
+pre,Dombivali,0,Ethical,3349
+pre,Dombivali,0,GA,6028
+pre,Dombivali,0,NGA,1569
+pre,Dombivali,0,Other,1703
+pre,Dombivali - Navpada,0,Ethical,1700
+pre,Dombivali - Navpada,0,GA,2484
+pre,Dombivali - Navpada,0,NGA,652
+pre,Dombivali - Navpada,0,Other,2183
+pre,Dombivali - Reti Bunder,0,Ethical,1419
+pre,Dombivali - Reti Bunder,0,GA,2008
 pre,Dombivali - Reti Bunder,0,NGA,385
-pre,Dombivali - Reti Bunder,0,Other,1724
-pre,Dombivli West,0,Ethical,3924
-pre,Dombivli West,0,GA,8849
-pre,Dombivli West,0,NGA,2172
-pre,Dombivli West,0,Other,3025
-pre,Doshi Medical,0,Ethical,1035
-pre,Doshi Medical,0,GA,596
-pre,Doshi Medical,0,NGA,111
-pre,Doshi Medical,0,Other,32
-pre,Evershine Nagar,0,Ethical,1656
-pre,Evershine Nagar,0,GA,3694
-pre,Evershine Nagar,0,NGA,1040
-pre,Evershine Nagar,0,Other,1280
-pre,Fam Society - Koperkhairne,0,Ethical,4215
-pre,Fam Society - Koperkhairne,0,GA,5908
-pre,Fam Society - Koperkhairne,0,NGA,1713
-pre,Fam Society - Koperkhairne,0,Other,3652
-pre,Fursungi Pune,0,Ethical,1680
-pre,Fursungi Pune,0,GA,2228
-pre,Fursungi Pune,0,NGA,565
-pre,Fursungi Pune,0,Other,2013
-pre,Ghansoli,0,Ethical,5531
-pre,Ghansoli,0,GA,8976
-pre,Ghansoli,0,NGA,2386
-pre,Ghansoli,0,Other,3916
-pre,Ghatkopar East,0,Ethical,3508
-pre,Ghatkopar East,0,GA,5600
-pre,Ghatkopar East,0,NGA,1400
-pre,Ghatkopar East,0,Other,4135
-pre,Ghatkopar West,0,Ethical,3254
-pre,Ghatkopar West,0,GA,5895
-pre,Ghatkopar West,0,NGA,1531
-pre,Ghatkopar West,0,Other,2219
-pre,Ghodapdeo - Byculla,0,Ethical,1259
-pre,Ghodapdeo - Byculla,0,GA,3902
-pre,Ghodapdeo - Byculla,0,NGA,1020
-pre,Ghodapdeo - Byculla,0,Other,1270
-pre,Global City Virar West,0,Ethical,1879
-pre,Global City Virar West,0,GA,2831
-pre,Global City Virar West,0,NGA,595
-pre,Global City Virar West,0,Other,2610
-pre,Goregaon,1,Ethical,3227
-pre,Goregaon,1,GA,7939
-pre,Goregaon,1,NGA,2377
-pre,Goregaon,1,Other,1994
-pre,Goregaon West S.V. Road,1,Ethical,3632
-pre,Goregaon West S.V. Road,1,GA,5272
-pre,Goregaon West S.V. Road,1,NGA,1382
-pre,Goregaon West S.V. Road,1,Other,2512
-pre,Govandi,0,Ethical,4059
-pre,Govandi,0,GA,9512
-pre,Govandi,0,NGA,2235
-pre,Govandi,0,Other,3400
-pre,Gujrat Colony Kothrud,0,Ethical,1335
-pre,Gujrat Colony Kothrud,0,GA,1865
-pre,Gujrat Colony Kothrud,0,NGA,375
-pre,Gujrat Colony Kothrud,0,Other,718
-pre,Gulab Nagar Pune,0,Ethical,1862
-pre,Gulab Nagar Pune,0,GA,3088
-pre,Gulab Nagar Pune,0,NGA,573
-pre,Gulab Nagar Pune,0,Other,1482
-pre,Hari Om Nagar,0,Ethical,3176
-pre,Hari Om Nagar,0,GA,4992
-pre,Hari Om Nagar,0,NGA,1318
-pre,Hari Om Nagar,0,Other,3325
-pre,Health Care Chemist & Druggist,0,Ethical,5431
-pre,Health Care Chemist & Druggist,0,GA,1106
-pre,Health Care Chemist & Druggist,0,NGA,1279
-pre,Health Care Chemist & Druggist,0,Other,1168
-pre,Health Care Forever,0,Ethical,310
-pre,Health Care Forever,0,GA,518
-pre,Health Care Forever,0,NGA,194
-pre,Health Care Forever,0,Other,72
-pre,Hiltron Ulhasnagar,0,Ethical,1729
-pre,Hiltron Ulhasnagar,0,GA,2933
-pre,Hiltron Ulhasnagar,0,NGA,740
-pre,Hiltron Ulhasnagar,0,Other,2376
-pre,Hiranandani Thane,0,Ethical,6193
-pre,Hiranandani Thane,0,GA,9159
-pre,Hiranandani Thane,0,NGA,1665
-pre,Hiranandani Thane,0,Other,3354
-pre,IC Colony Borivali,0,Ethical,4917
-pre,IC Colony Borivali,0,GA,8993
-pre,IC Colony Borivali,0,NGA,2459
-pre,IC Colony Borivali,0,Other,3364
-pre,JB Nagar,0,Ethical,6362
-pre,JB Nagar,0,GA,10607
-pre,JB Nagar,0,NGA,2629
-pre,JB Nagar,0,Other,4942
-pre,JJ Hospital,0,Ethical,2435
-pre,JJ Hospital,0,GA,10737
-pre,JJ Hospital,0,NGA,2681
-pre,JJ Hospital,0,Other,2400
-pre,Jagruti Nagar Ghatkopar,0,Ethical,1727
-pre,Jagruti Nagar Ghatkopar,0,GA,2971
-pre,Jagruti Nagar Ghatkopar,0,NGA,832
-pre,Jagruti Nagar Ghatkopar,0,Other,2000
-pre,Jail Road Nashik,0,Ethical,1688
-pre,Jail Road Nashik,0,GA,1637
-pre,Jail Road Nashik,0,NGA,396
-pre,Jail Road Nashik,0,Other,1132
-pre,Jay VIjay Nagar Nalasopara East,0,Ethical,1699
-pre,Jay VIjay Nagar Nalasopara East,0,GA,2623
-pre,Jay VIjay Nagar Nalasopara East,0,NGA,464
-pre,Jay VIjay Nagar Nalasopara East,0,Other,1197
-pre,Kalamboli,0,Ethical,2346
-pre,Kalamboli,0,GA,3951
-pre,Kalamboli,0,NGA,1009
-pre,Kalamboli,0,Other,1792
-pre,Kalher Bhiwandi,0,Ethical,3187
-pre,Kalher Bhiwandi,0,GA,5334
-pre,Kalher Bhiwandi,0,NGA,1375
-pre,Kalher Bhiwandi,0,Other,4234
-pre,Kalina,0,Ethical,2707
-pre,Kalina,0,GA,4180
-pre,Kalina,0,NGA,1127
-pre,Kalina,0,Other,1877
-pre,Kalwa,0,Ethical,5914
-pre,Kalwa,0,GA,11852
-pre,Kalwa,0,NGA,2857
-pre,Kalwa,0,Other,3923
-pre,Kalyan,0,Ethical,2800
-pre,Kalyan,0,GA,4529
-pre,Kalyan,0,NGA,1141
-pre,Kalyan,0,Other,2006
-pre,Kalyan - DB Chowk,0,Ethical,1683
-pre,Kalyan - DB Chowk,0,GA,2405
-pre,Kalyan - DB Chowk,0,NGA,531
-pre,Kalyan - DB Chowk,0,Other,1899
-pre,Kalyan East-Tisgaon Naka,0,Ethical,2994
-pre,Kalyan East-Tisgaon Naka,0,GA,4703
-pre,Kalyan East-Tisgaon Naka,0,NGA,997
-pre,Kalyan East-Tisgaon Naka,0,Other,1668
-pre,Kalyan West Club Road,0,Ethical,1600
-pre,Kalyan West Club Road,0,GA,3924
-pre,Kalyan West Club Road,0,NGA,915
-pre,Kalyan West Club Road,0,Other,1748
-pre,Kamotha,0,Ethical,5807
-pre,Kamotha,0,GA,8358
-pre,Kamotha,0,NGA,2149
-pre,Kamotha,0,Other,3705
-pre,Kamothe - Sector 36,0,Ethical,2349
-pre,Kamothe - Sector 36,0,GA,3152
-pre,Kamothe - Sector 36,0,NGA,882
-pre,Kamothe - Sector 36,0,Other,1783
-pre,Kandivali East,0,Ethical,2779
-pre,Kandivali East,0,GA,5604
-pre,Kandivali East,0,NGA,1291
-pre,Kandivali East,0,Other,1939
-pre,Kandivali West,0,Ethical,581
-pre,Kandivali West,0,GA,3224
-pre,Kandivali West,0,NGA,718
-pre,Kandivali West,0,Other,782
-pre,Kasarvadavali Thane,0,Ethical,2241
-pre,Kasarvadavali Thane,0,GA,4092
-pre,Kasarvadavali Thane,0,NGA,1076
-pre,Kasarvadavali Thane,0,Other,2015
-pre,Katrap Badlapur East,0,Ethical,1079
-pre,Katrap Badlapur East,0,GA,1994
-pre,Katrap Badlapur East,0,NGA,243
-pre,Katrap Badlapur East,0,Other,1353
-pre,Khadki Pune,0,Ethical,2233
-pre,Khadki Pune,0,GA,2958
-pre,Khadki Pune,0,NGA,793
-pre,Khadki Pune,0,Other,2248
-pre,Khanda Colony,1,Ethical,2809
-pre,Khanda Colony,1,GA,4123
-pre,Khanda Colony,1,NGA,1201
-pre,Khanda Colony,1,Other,1794
-pre,Khar West,1,Ethical,2857
-pre,Khar West,1,GA,5203
-pre,Khar West,1,NGA,1581
-pre,Khar West,1,Other,2111
-pre,Kharghar,0,Ethical,3550
-pre,Kharghar,0,GA,9693
-pre,Kharghar,0,NGA,2532
-pre,Kharghar,0,Other,3082
-pre,Kharghar Sector 12,0,Ethical,2212
-pre,Kharghar Sector 12,0,GA,4867
-pre,Kharghar Sector 12,0,NGA,1366
-pre,Kharghar Sector 12,0,Other,1623
-pre,Khopat,0,Ethical,4968
-pre,Khopat,0,GA,9773
-pre,Khopat,0,NGA,2161
-pre,Khopat,0,Other,2571
-pre,Khutwad Nagar Nashik,0,Ethical,707
-pre,Khutwad Nagar Nashik,0,GA,743
-pre,Khutwad Nagar Nashik,0,NGA,148
-pre,Khutwad Nagar Nashik,0,Other,761
-pre,Kolsheth,0,Ethical,6066
-pre,Kolsheth,0,GA,14721
-pre,Kolsheth,0,NGA,3034
-pre,Kolsheth,0,Other,3064
-pre,Kopar Khairane,0,Ethical,4235
-pre,Kopar Khairane,0,GA,8468
-pre,Kopar Khairane,0,NGA,2075
-pre,Kopar Khairane,0,Other,4526
-pre,Kopari Thane,0,Ethical,3128
-pre,Kopari Thane,0,GA,2252
-pre,Kopari Thane,0,NGA,718
-pre,Kopari Thane,0,Other,2328
-pre,Koper Khairane - Sector 2,0,Ethical,1407
-pre,Koper Khairane - Sector 2,0,GA,2663
-pre,Koper Khairane - Sector 2,0,NGA,648
-pre,Koper Khairane - Sector 2,0,Other,1637
-pre,Koper Khairane - Sector 7,0,Ethical,1738
-pre,Koper Khairane - Sector 7,0,GA,3591
-pre,Koper Khairane - Sector 7,0,NGA,991
-pre,Koper Khairane - Sector 7,0,Other,2468
-pre,Kuber Chemist,0,GA,13
-pre,Kuber Chemist,0,NGA,2
-pre,Kulgaon Badlapur West,0,Ethical,2264
-pre,Kulgaon Badlapur West,0,GA,4798
-pre,Kulgaon Badlapur West,0,NGA,1006
-pre,Kulgaon Badlapur West,0,Other,3133
-pre,Kurla,0,Ethical,1603
-pre,Kurla,0,GA,5429
-pre,Kurla,0,NGA,1027
-pre,Kurla,0,Other,1205
-pre,Kurla West,0,Ethical,3399
-pre,Kurla West,0,GA,7253
-pre,Kurla West,0,NGA,1640
-pre,Kurla West,0,Other,3335
-pre,Lower Parel - SJ Marg,0,Ethical,1202
-pre,Lower Parel - SJ Marg,0,GA,2857
-pre,Lower Parel - SJ Marg,0,NGA,554
-pre,Lower Parel - SJ Marg,0,Other,2267
-pre,Mahakali,0,Ethical,5897
-pre,Mahakali,0,GA,8199
-pre,Mahakali,0,NGA,2726
-pre,Mahakali,0,Other,4066
-pre,Mahavir Pride Dombivali,0,Ethical,3110
-pre,Mahavir Pride Dombivali,0,GA,5543
-pre,Mahavir Pride Dombivali,0,NGA,1262
-pre,Mahavir Pride Dombivali,0,Other,2380
-pre,Mahim West,0,Ethical,2653
-pre,Mahim West,0,GA,4919
-pre,Mahim West,0,NGA,1421
-pre,Mahim West,0,Other,2630
-pre,Malad,0,Ethical,3812
-pre,Malad,0,GA,7772
-pre,Malad,0,NGA,2662
-pre,Malad,0,Other,2127
-pre,Malad Liberty Garden,0,Ethical,2453
-pre,Malad Liberty Garden,0,GA,5685
-pre,Malad Liberty Garden,0,NGA,1042
-pre,Malad Liberty Garden,0,Other,1749
-pre,Malwani,0,Ethical,2663
-pre,Malwani,0,GA,4487
-pre,Malwani,0,NGA,1201
-pre,Malwani,0,Other,1511
-pre,Marol,0,Ethical,4163
-pre,Marol,0,GA,9136
-pre,Marol,0,NGA,2572
-pre,Marol,0,Other,3156
-pre,Mharal Ulhasnagar,0,Ethical,2567
-pre,Mharal Ulhasnagar,0,GA,3449
-pre,Mharal Ulhasnagar,0,NGA,1266
-pre,Mharal Ulhasnagar,0,Other,2895
-pre,Mhasrul Nashik,0,Ethical,1650
-pre,Mhasrul Nashik,0,GA,2166
-pre,Mhasrul Nashik,0,NGA,542
-pre,Mhasrul Nashik,0,Other,1814
-pre,Mira Road,0,Ethical,2553
-pre,Mira Road,0,GA,4053
-pre,Mira Road,0,NGA,862
-pre,Mira Road,0,Other,1566
-pre,Mira Road - GCC Club Road,0,Ethical,1325
-pre,Mira Road - GCC Club Road,0,GA,1367
-pre,Mira Road - GCC Club Road,0,NGA,276
-pre,Mira Road - GCC Club Road,0,Other,1257
-pre,Mira Road Jangid Complex,0,Ethical,2256
-pre,Mira Road Jangid Complex,0,GA,4734
-pre,Mira Road Jangid Complex,0,NGA,1029
-pre,Mira Road Jangid Complex,0,Other,2362
-pre,Mohan Nagar Kandivali,0,Ethical,1104
-pre,Mohan Nagar Kandivali,0,GA,3458
-pre,Mohan Nagar Kandivali,0,NGA,678
-pre,Mohan Nagar Kandivali,0,Other,1448
-pre,Morye Pharma,0,Ethical,1679
-pre,Morye Pharma,0,GA,1017
-pre,Morye Pharma,0,NGA,709
-pre,Morye Pharma,0,Other,1262
-pre,Mulund East,0,Ethical,6297
-pre,Mulund East,0,GA,14483
-pre,Mulund East,0,NGA,2943
-pre,Mulund East,0,Other,3886
-pre,Mulund Panch Rasta,0,Ethical,1901
-pre,Mulund Panch Rasta,0,GA,4225
-pre,Mulund Panch Rasta,0,NGA,1016
-pre,Mulund Panch Rasta,0,Other,1304
-pre,Mulund West,0,Ethical,2677
-pre,Mulund West,0,GA,10426
-pre,Mulund West,0,NGA,1877
-pre,Mulund West,0,Other,2321
-pre,Mulund West-Sarvodaya Nagar,0,Ethical,3995
-pre,Mulund West-Sarvodaya Nagar,0,GA,7756
-pre,Mulund West-Sarvodaya Nagar,0,NGA,1795
-pre,Mulund West-Sarvodaya Nagar,0,Other,2325
-pre,Mundhwa Pune,0,Ethical,1336
-pre,Mundhwa Pune,0,GA,2054
-pre,Mundhwa Pune,0,NGA,458
-pre,Mundhwa Pune,0,Other,1050
-pre,NIBM Kondwa,0,Ethical,3093
-pre,NIBM Kondwa,0,GA,6903
-pre,NIBM Kondwa,0,NGA,1480
-pre,NIBM Kondwa,0,Other,2251
-pre,Nahur West,0,Ethical,3412
-pre,Nahur West,0,GA,5278
-pre,Nahur West,0,NGA,1147
-pre,Nahur West,0,Other,2269
-pre,Nalasopara - Yashwant Nagar,0,Ethical,1398
-pre,Nalasopara - Yashwant Nagar,0,GA,2103
-pre,Nalasopara - Yashwant Nagar,0,NGA,514
-pre,Nalasopara - Yashwant Nagar,0,Other,1627
-pre,Nalasopara West,0,Ethical,2385
-pre,Nalasopara West,0,GA,3686
-pre,Nalasopara West,0,NGA,807
-pre,Nalasopara West,0,Other,1049
-pre,Narhe Pune,0,Ethical,1398
-pre,Narhe Pune,0,GA,2238
-pre,Narhe Pune,0,NGA,446
-pre,Narhe Pune,0,Other,1029
-pre,Naupada,0,Ethical,4592
-pre,Naupada,0,GA,7929
-pre,Naupada,0,NGA,2164
-pre,Naupada,0,Other,2525
-pre,Navare Nagar Ambernath,0,Ethical,2053
-pre,Navare Nagar Ambernath,0,GA,2824
-pre,Navare Nagar Ambernath,0,NGA,588
-pre,Navare Nagar Ambernath,0,Other,1466
-pre,Navi Peth Pune,0,Ethical,2244
-pre,Navi Peth Pune,0,GA,4143
-pre,Navi Peth Pune,0,NGA,751
-pre,Navi Peth Pune,0,Other,2176
-pre,Navjeevan Mumbai Central,0,Ethical,2750
-pre,Navjeevan Mumbai Central,0,GA,6101
-pre,Navjeevan Mumbai Central,0,NGA,1596
-pre,Navjeevan Mumbai Central,0,Other,3437
-pre,Nerul East,0,Ethical,2711
-pre,Nerul East,0,GA,6222
-pre,Nerul East,0,NGA,1395
-pre,Nerul East,0,Other,2532
-pre,Nerul West,0,Ethical,2559
-pre,Nerul West,0,GA,5806
-pre,Nerul West,0,NGA,1457
-pre,Nerul West,0,Other,2115
-pre,New Panvel,0,Ethical,3675
-pre,New Panvel,0,GA,5992
-pre,New Panvel,0,NGA,1644
-pre,New Panvel,0,Other,2227
-pre,Old Panvel,0,Ethical,3817
-pre,Old Panvel,0,GA,5171
-pre,Old Panvel,0,NGA,1117
-pre,Old Panvel,0,Other,1974
-pre,Palegaon Ambernath,0,Ethical,948
-pre,Palegaon Ambernath,0,GA,1828
-pre,Palegaon Ambernath,0,NGA,375
-pre,Palegaon Ambernath,0,Other,2445
-pre,Panchpakhadi,0,Ethical,3115
-pre,Panchpakhadi,0,GA,4394
-pre,Panchpakhadi,0,NGA,1141
-pre,Panchpakhadi,0,Other,2632
-pre,Pantnagar,0,Ethical,1895
-pre,Pantnagar,0,GA,3636
-pre,Pantnagar,0,NGA,1126
-pre,Pantnagar,0,Other,1688
-pre,Panvel - Uran Naka,0,Ethical,1704
-pre,Panvel - Uran Naka,0,GA,3135
-pre,Panvel - Uran Naka,0,NGA,660
-pre,Panvel - Uran Naka,0,Other,1984
-pre,Phadke Road - Dombivali,0,Ethical,2424
-pre,Phadke Road - Dombivali,0,GA,4917
-pre,Phadke Road - Dombivali,0,NGA,1032
-pre,Phadke Road - Dombivali,0,Other,1690
-pre,Pimple Gurav,0,Ethical,1478
-pre,Pimple Gurav,0,GA,2797
-pre,Pimple Gurav,0,NGA,598
-pre,Pimple Gurav,0,Other,1250
-pre,Prabhadevi,0,Ethical,2310
-pre,Prabhadevi,0,GA,8341
-pre,Prabhadevi,0,NGA,1068
-pre,Prabhadevi,0,Other,2633
-pre,Pragati Nagar Nalasopara East,0,Ethical,1504
-pre,Pragati Nagar Nalasopara East,0,GA,2149
-pre,Pragati Nagar Nalasopara East,0,NGA,484
-pre,Pragati Nagar Nalasopara East,0,Other,1724
-pre,Quality Care,0,Ethical,1324
-pre,Quality Care,0,GA,2424
-pre,Quality Care,0,NGA,878
-pre,Quality Care,0,Other,514
-pre,Rajawadi,0,Ethical,2066
-pre,Rajawadi,0,GA,7321
-pre,Rajawadi,0,NGA,1832
-pre,Rajawadi,0,Other,2376
-pre,Roadpali Kalamboli,0,Ethical,1556
-pre,Roadpali Kalamboli,0,GA,2951
-pre,Roadpali Kalamboli,0,NGA,802
-pre,Roadpali Kalamboli,0,Other,1964
-pre,Rupee Nagar Pune,0,Ethical,898
-pre,Rupee Nagar Pune,0,GA,1467
-pre,Rupee Nagar Pune,0,NGA,350
-pre,Rupee Nagar Pune,0,Other,1633
-pre,Saibaba Nagar,0,Ethical,1945
-pre,Saibaba Nagar,0,GA,4685
-pre,Saibaba Nagar,0,NGA,1233
-pre,Saibaba Nagar,0,Other,1114
-pre,Sakinaka - Pipeline Road,0,Ethical,1487
-pre,Sakinaka - Pipeline Road,0,GA,2063
-pre,Sakinaka - Pipeline Road,0,NGA,519
-pre,Sakinaka - Pipeline Road,0,Other,1944
-pre,Sanpada,1,Ethical,4974
-pre,Sanpada,1,GA,9068
-pre,Sanpada,1,NGA,1991
-pre,Sanpada,1,Other,3086
-pre,Santa Cruz SV Road,0,Ethical,2688
-pre,Santa Cruz SV Road,0,GA,4438
-pre,Santa Cruz SV Road,0,NGA,1045
-pre,Santa Cruz SV Road,0,Other,2445
-pre,"Santoshi Mata Road, Kalyan West",0,Ethical,3010
-pre,"Santoshi Mata Road, Kalyan West",0,GA,3873
-pre,"Santoshi Mata Road, Kalyan West",0,NGA,1026
-pre,"Santoshi Mata Road, Kalyan West",0,Other,1614
-pre,Sasane Nagar Pune,1,Ethical,1781
-pre,Sasane Nagar Pune,1,GA,2441
-pre,Sasane Nagar Pune,1,NGA,542
-pre,Sasane Nagar Pune,1,Other,916
-pre,Seawoods,0,Ethical,3490
-pre,Seawoods,0,GA,7721
-pre,Seawoods,0,NGA,1655
-pre,Seawoods,0,Other,2630
-pre,Sector 3 - New Panvel,0,Ethical,2989
-pre,Sector 3 - New Panvel,0,GA,3598
-pre,Sector 3 - New Panvel,0,NGA,862
-pre,Sector 3 - New Panvel,0,Other,2165
-pre,Shambhuraj Enterprises LLP,0,Ethical,1737
-pre,Shambhuraj Enterprises LLP,0,GA,1775
-pre,Shambhuraj Enterprises LLP,0,NGA,843
-pre,Shambhuraj Enterprises LLP,0,Other,518
-pre,Shanti Nagar Mira Road,0,Ethical,861
-pre,Shanti Nagar Mira Road,0,GA,2413
-pre,Shanti Nagar Mira Road,0,NGA,422
-pre,Shanti Nagar Mira Road,0,Other,1943
-pre,Shirgaon Badlapur,0,Ethical,1601
-pre,Shirgaon Badlapur,0,GA,2736
-pre,Shirgaon Badlapur,0,NGA,515
-pre,Shirgaon Badlapur,0,Other,2664
-pre,Shivaji Nagar Pune,0,Ethical,2881
-pre,Shivaji Nagar Pune,0,GA,4832
-pre,Shivaji Nagar Pune,0,NGA,912
-pre,Shivaji Nagar Pune,0,Other,1874
-pre,Shreenagar,0,Ethical,5844
-pre,Shreenagar,0,GA,10493
-pre,Shreenagar,0,NGA,2048
-pre,Shreenagar,0,Other,4356
-pre,Shriprastha Nalasopara West,0,Ethical,1506
-pre,Shriprastha Nalasopara West,0,GA,1970
-pre,Shriprastha Nalasopara West,0,NGA,557
-pre,Shriprastha Nalasopara West,0,Other,1363
-pre,Sion Koliwada,0,Ethical,2900
-pre,Sion Koliwada,0,GA,5849
-pre,Sion Koliwada,0,NGA,1282
-pre,Sion Koliwada,0,Other,2691
-pre,Thakur Complex,0,Ethical,3832
-pre,Thakur Complex,0,GA,7424
-pre,Thakur Complex,0,NGA,1943
-pre,Thakur Complex,0,Other,2130
-pre,Thergaon,0,Ethical,1292
-pre,Thergaon,0,GA,2841
-pre,Thergaon,0,NGA,579
-pre,Thergaon,0,Other,1457
-pre,Tilak Road Pune,0,Ethical,2572
-pre,Tilak Road Pune,0,GA,4313
-pre,Tilak Road Pune,0,NGA,684
-pre,Tilak Road Pune,0,Other,1676
-pre,Tilaknagar,0,Ethical,2728
-pre,Tilaknagar,0,GA,6620
-pre,Tilaknagar,0,NGA,1419
-pre,Tilaknagar,0,Other,2876
-pre,Titwala,0,Ethical,4730
-pre,Titwala,0,GA,4784
-pre,Titwala,0,NGA,1525
-pre,Titwala,0,Other,3348
-pre,Trimurti Chowk Nashik,0,Ethical,879
-pre,Trimurti Chowk Nashik,0,GA,1006
-pre,Trimurti Chowk Nashik,0,NGA,239
-pre,Trimurti Chowk Nashik,0,Other,907
-pre,Ulhas Nagar - Shahad,0,Ethical,1529
-pre,Ulhas Nagar - Shahad,0,GA,2502
-pre,Ulhas Nagar - Shahad,0,NGA,840
-pre,Ulhas Nagar - Shahad,0,Other,2377
-pre,Ulhas Nagar - Shreeram Chowk,0,Ethical,770
-pre,Ulhas Nagar - Shreeram Chowk,0,GA,2299
-pre,Ulhas Nagar - Shreeram Chowk,0,NGA,382
-pre,Ulhas Nagar - Shreeram Chowk,0,Other,2718
-pre,Ulhasnagar,0,Ethical,3045
-pre,Ulhasnagar,0,GA,6435
-pre,Ulhasnagar,0,NGA,1969
-pre,Ulhasnagar,0,Other,2768
-pre,Ulhasnagar - Humlog Circle,0,Ethical,2426
-pre,Ulhasnagar - Humlog Circle,0,GA,2604
-pre,Ulhasnagar - Humlog Circle,0,NGA,975
-pre,Ulhasnagar - Humlog Circle,0,Other,2963
-pre,Ulhasnagar - Khemani Chowk,0,Ethical,992
-pre,Ulhasnagar - Khemani Chowk,0,GA,2426
-pre,Ulhasnagar - Khemani Chowk,0,NGA,659
-pre,Ulhasnagar - Khemani Chowk,0,Other,1954
-pre,Ulhasnagar Sector 4,0,Ethical,3124
-pre,Ulhasnagar Sector 4,0,GA,4190
-pre,Ulhasnagar Sector 4,0,NGA,995
-pre,Ulhasnagar Sector 4,0,Other,1668
-pre,Ulwe-Navi Mumbai,0,Ethical,2564
-pre,Ulwe-Navi Mumbai,0,GA,6219
-pre,Ulwe-Navi Mumbai,0,NGA,1501
-pre,Ulwe-Navi Mumbai,0,Other,1840
-pre,Vakola,0,Ethical,3177
-pre,Vakola,0,GA,4584
-pre,Vakola,0,NGA,1169
-pre,Vakola,0,Other,2081
-pre,Vasai West - Station Road,0,Ethical,2805
-pre,Vasai West - Station Road,0,GA,4004
-pre,Vasai West - Station Road,0,NGA,985
-pre,Vasai West - Station Road,0,Other,3041
-pre,Vashi,0,Ethical,5496
-pre,Vashi,0,GA,10670
-pre,Vashi,0,NGA,2686
-pre,Vashi,0,Other,4951
-pre,Vashi Sector 11,0,Ethical,2949
-pre,Vashi Sector 11,0,GA,5452
-pre,Vashi Sector 11,0,NGA,1466
-pre,Vashi Sector 11,0,Other,1831
-pre,Veenanagar,0,Ethical,2288
-pre,Veenanagar,0,GA,5714
-pre,Veenanagar,0,NGA,1742
-pre,Veenanagar,0,Other,2108
-pre,Versova - Yari Road,0,Ethical,1529
-pre,Versova - Yari Road,0,GA,4149
-pre,Versova - Yari Road,0,NGA,866
-pre,Versova - Yari Road,0,Other,2567
-pre,Versova Andheri,0,Ethical,5712
-pre,Versova Andheri,0,GA,7640
-pre,Versova Andheri,0,NGA,2778
-pre,Versova Andheri,0,Other,3548
-pre,Vijay Nagari - Thane,0,Ethical,5133
-pre,Vijay Nagari - Thane,0,GA,7452
-pre,Vijay Nagari - Thane,0,NGA,2078
-pre,Vijay Nagari - Thane,0,Other,2609
-pre,Vikhroli,0,Ethical,7777
-pre,Vikhroli,0,GA,12691
-pre,Vikhroli,0,NGA,2595
-pre,Vikhroli,0,Other,4458
-pre,Vikhroli Kannamwar,0,Ethical,3720
-pre,Vikhroli Kannamwar,0,GA,5339
-pre,Vikhroli Kannamwar,0,NGA,1222
-pre,Vikhroli Kannamwar,0,Other,2333
-pre,Vile Parle,0,Ethical,1857
-pre,Vile Parle,0,GA,3945
-pre,Vile Parle,0,NGA,762
-pre,Vile Parle,0,Other,1986
-pre,Virar East,0,Ethical,3402
-pre,Virar East,0,GA,4858
-pre,Virar East,0,NGA,1068
-pre,Virar East,0,Other,2348
-pre,Virar West,0,Ethical,3448
-pre,Virar West,0,GA,3754
-pre,Virar West,0,NGA,865
-pre,Virar West,0,Other,2094
-pre,Wadgaon Budruk Pune,0,Ethical,2178
-pre,Wadgaon Budruk Pune,0,GA,2588
-pre,Wadgaon Budruk Pune,0,NGA,492
-pre,Wadgaon Budruk Pune,0,Other,782
-pre,Wadgaon Sheri,0,Ethical,2452
-pre,Wadgaon Sheri,0,GA,3263
-pre,Wadgaon Sheri,0,NGA,799
-pre,Wadgaon Sheri,0,Other,1472
-pre,Wadgaon Sheri-Old Mundhwa Rd,0,Ethical,2152
-pre,Wadgaon Sheri-Old Mundhwa Rd,0,GA,1977
-pre,Wadgaon Sheri-Old Mundhwa Rd,0,NGA,530
-pre,Wadgaon Sheri-Old Mundhwa Rd,0,Other,1574
-pre,Wanawadi Pune,0,Ethical,1425
-pre,Wanawadi Pune,0,GA,3084
-pre,Wanawadi Pune,0,NGA,609
-pre,Wanawadi Pune,0,Other,812
-pre,Warje Pune,0,Ethical,1177
-pre,Warje Pune,0,GA,1924
-pre,Warje Pune,0,NGA,333
-pre,Warje Pune,0,Other,997
-pre,Wayale Nagar,0,Ethical,2178
-pre,Wayale Nagar,0,GA,4210
-pre,Wayale Nagar,0,NGA,874
-pre,Wayale Nagar,0,Other,1709
-pre,Yashodhan,0,Ethical,7418
-pre,Yashodhan,0,GA,12018
-pre,Yashodhan,0,NGA,2856
-pre,Yashodhan,0,Other,3490
-pre,Yogi Nagar,0,Ethical,1964
-pre,Yogi Nagar,0,GA,4621
-pre,Yogi Nagar,0,NGA,1343
-pre,Yogi Nagar,0,Other,1871
-pre,Yogidham Kalyan,0,Ethical,1570
-pre,Yogidham Kalyan,0,GA,2218
-pre,Yogidham Kalyan,0,NGA,521
-pre,Yogidham Kalyan,0,Other,1505
-post,7 Rasta Byculla,0,Ethical,2360
-post,7 Rasta Byculla,0,GA,4666
-post,7 Rasta Byculla,0,NGA,1007
-post,7 Rasta Byculla,0,Other,2199
-post,ABM Pharmacy & Healthcare,0,Ethical,2996
-post,ABM Pharmacy & Healthcare,0,GA,1773
-post,ABM Pharmacy & Healthcare,0,NGA,813
-post,ABM Pharmacy & Healthcare,0,Other,919
-post,Airoli,0,Ethical,5581
-post,Airoli,0,GA,10230
-post,Airoli,0,NGA,2731
-post,Airoli,0,Other,3242
-post,Airoli Sector - 3,0,Ethical,3844
-post,Airoli Sector - 3,0,GA,6014
-post,Airoli Sector - 3,0,NGA,1607
-post,Airoli Sector - 3,0,Other,2536
-post,Ambegaon Pune,0,Ethical,1581
-post,Ambegaon Pune,0,GA,2167
-post,Ambegaon Pune,0,NGA,356
-post,Ambegaon Pune,0,Other,1148
-post,Ambernath East,0,Ethical,3199
-post,Ambernath East,0,GA,3651
-post,Ambernath East,0,NGA,735
-post,Ambernath East,0,Other,893
-post,Ambernath West,0,Ethical,3317
-post,Ambernath West,0,GA,4134
-post,Ambernath West,0,NGA,681
-post,Ambernath West,0,Other,1088
-post,Ashokvan Dahisar,0,Ethical,3167
-post,Ashokvan Dahisar,0,GA,5920
-post,Ashokvan Dahisar,0,NGA,1340
-post,Ashokvan Dahisar,0,Other,2073
-post,Aura Medical Titwala East,0,Ethical,2841
-post,Aura Medical Titwala East,0,GA,143
-post,Aura Medical Titwala East,0,NGA,1323
-post,Aura Medical Titwala East,0,Other,437
-post,Badlapur - Belavali,0,Ethical,1175
-post,Badlapur - Belavali,0,GA,3062
-post,Badlapur - Belavali,0,NGA,750
-post,Badlapur - Belavali,0,Other,2293
-post,Badlapur East,0,Ethical,1774
-post,Badlapur East,0,GA,2673
-post,Badlapur East,0,NGA,530
-post,Badlapur East,0,Other,809
-post,Bandra,1,Ethical,3543
-post,Bandra,1,GA,8952
-post,Bandra,1,NGA,1883
-post,Bandra,1,Other,3090
-post,Bhandup West,0,Ethical,4694
-post,Bhandup West,0,GA,8275
-post,Bhandup West,0,NGA,1633
-post,Bhandup West,0,Other,2188
-post,Bhayandar,0,Ethical,3830
-post,Bhayandar,0,GA,6573
-post,Bhayandar,0,NGA,1704
-post,Bhayandar,0,Other,2689
-post,Bhayander 60 Feet Road,0,Ethical,2846
-post,Bhayander 60 Feet Road,0,GA,3118
-post,Bhayander 60 Feet Road,0,NGA,941
-post,Bhayander 60 Feet Road,0,Other,2048
-post,Bhekrainagar Pune,0,Ethical,1314
-post,Bhekrainagar Pune,0,GA,2395
-post,Bhekrainagar Pune,0,NGA,383
-post,Bhekrainagar Pune,0,Other,1196
-post,Bhiwandi - Shivaji Chowk,0,Ethical,965
-post,Bhiwandi - Shivaji Chowk,0,GA,1361
-post,Bhiwandi - Shivaji Chowk,0,NGA,360
-post,Bhiwandi - Shivaji Chowk,0,Other,1703
-post,Bhiwandi Dhamankar Naka,1,Ethical,3380
-post,Bhiwandi Dhamankar Naka,1,GA,5865
-post,Bhiwandi Dhamankar Naka,1,NGA,1334
-post,Bhiwandi Dhamankar Naka,1,Other,1963
-post,Bibwewadi Pune,0,Ethical,1983
-post,Bibwewadi Pune,0,GA,7320
-post,Bibwewadi Pune,0,NGA,610
-post,Bibwewadi Pune,0,Other,1057
-post,Bytco Point Nashik,0,Ethical,2421
-post,Bytco Point Nashik,0,GA,2048
-post,Bytco Point Nashik,0,NGA,519
-post,Bytco Point Nashik,0,Other,1575
-post,CST Bora Bazaar,0,Ethical,1684
-post,CST Bora Bazaar,0,GA,4210
-post,CST Bora Bazaar,0,NGA,1029
-post,CST Bora Bazaar,0,Other,1785
-post,Care Point Chemist,0,Ethical,4053
-post,Care Point Chemist,0,GA,1817
-post,Care Point Chemist,0,NGA,375
-post,Care Point Chemist,0,Other,299
-post,Chandivali,0,Ethical,1460
-post,Chandivali,0,GA,2994
-post,Chandivali,0,NGA,771
-post,Chandivali,0,Other,1632
-post,Charkop,0,Ethical,3988
-post,Charkop,0,GA,7847
-post,Charkop,0,NGA,1901
-post,Charkop,0,Other,1870
-post,Chembur,0,Ethical,4824
-post,Chembur,0,GA,12619
-post,Chembur,0,NGA,2870
-post,Chembur,0,Other,3091
-post,Chinchwad,1,Ethical,1803
-post,Chinchwad,1,GA,2347
-post,Chinchwad,1,NGA,609
-post,Chinchwad,1,Other,2191
-post,Chinchwad - Gandhi Peth,1,Ethical,900
-post,Chinchwad - Gandhi Peth,1,GA,856
-post,Chinchwad - Gandhi Peth,1,NGA,226
-post,Chinchwad - Gandhi Peth,1,Other,913
-post,Cidco Nashik,0,Ethical,1519
-post,Cidco Nashik,0,GA,2058
-post,Cidco Nashik,0,NGA,422
-post,Cidco Nashik,0,Other,1827
-post,Colaba,1,Ethical,1640
-post,Colaba,1,GA,3851
-post,Colaba,1,NGA,686
-post,Colaba,1,Other,1901
-post,Dadar East,0,Ethical,2176
-post,Dadar East,0,GA,3651
-post,Dadar East,0,NGA,930
-post,Dadar East,0,Other,1904
-post,Dahisar,0,Ethical,3176
-post,Dahisar,0,GA,5880
-post,Dahisar,0,NGA,1344
-post,Dahisar,0,Other,1798
-post,Dattnagar,0,Ethical,1490
-post,Dattnagar,0,GA,4540
-post,Dattnagar,0,NGA,486
-post,Dattnagar,0,Other,1014
-post,Dhanakwadi,0,Ethical,3037
-post,Dhanakwadi,0,GA,4269
-post,Dhanakwadi,0,NGA,958
-post,Dhanakwadi,0,Other,2098
-post,Dhanori Pune,0,Ethical,2021
-post,Dhanori Pune,0,GA,3346
-post,Dhanori Pune,0,NGA,686
-post,Dhanori Pune,0,Other,1193
-post,Dhayari Pune,0,Ethical,2140
-post,Dhayari Pune,0,GA,2823
-post,Dhayari Pune,0,NGA,610
-post,Dhayari Pune,0,Other,1102
-post,Dighi Pune,1,Ethical,1071
-post,Dighi Pune,1,GA,1778
-post,Dighi Pune,1,NGA,303
-post,Dighi Pune,1,Other,683
-post,Dombivali,0,Ethical,3245
-post,Dombivali,0,GA,5983
-post,Dombivali,0,NGA,1426
-post,Dombivali,0,Other,1540
-post,Dombivali - Navpada,0,Ethical,2113
-post,Dombivali - Navpada,0,GA,2692
-post,Dombivali - Navpada,0,NGA,754
-post,Dombivali - Navpada,0,Other,2040
-post,Dombivali - Reti Bunder,0,Ethical,1555
-post,Dombivali - Reti Bunder,0,GA,2017
-post,Dombivali - Reti Bunder,0,NGA,392
-post,Dombivali - Reti Bunder,0,Other,1452
-post,Dombivli West,0,Ethical,4452
-post,Dombivli West,0,GA,9525
-post,Dombivli West,0,NGA,2126
-post,Dombivli West,0,Other,2262
-post,Doshi Medical,0,Ethical,1115
-post,Doshi Medical,0,GA,497
-post,Doshi Medical,0,NGA,99
-post,Doshi Medical,0,Other,38
-post,Evershine Nagar,0,Ethical,1766
-post,Evershine Nagar,0,GA,3777
-post,Evershine Nagar,0,NGA,969
-post,Evershine Nagar,0,Other,1091
-post,Fam Society - Koperkhairne,0,Ethical,4188
-post,Fam Society - Koperkhairne,0,GA,6107
-post,Fam Society - Koperkhairne,0,NGA,1759
-post,Fam Society - Koperkhairne,0,Other,3885
-post,Fursungi Pune,0,Ethical,1825
-post,Fursungi Pune,0,GA,2225
-post,Fursungi Pune,0,NGA,666
-post,Fursungi Pune,0,Other,2055
-post,Ghansoli,0,Ethical,5286
-post,Ghansoli,0,GA,9060
-post,Ghansoli,0,NGA,2489
-post,Ghansoli,0,Other,3375
-post,Ghatkopar East,0,Ethical,3731
-post,Ghatkopar East,0,GA,5842
-post,Ghatkopar East,0,NGA,1458
-post,Ghatkopar East,0,Other,3252
-post,Ghatkopar West,0,Ethical,3296
-post,Ghatkopar West,0,GA,5728
-post,Ghatkopar West,0,NGA,1578
-post,Ghatkopar West,0,Other,2033
-post,Ghodapdeo - Byculla,0,Ethical,1161
-post,Ghodapdeo - Byculla,0,GA,4062
-post,Ghodapdeo - Byculla,0,NGA,995
-post,Ghodapdeo - Byculla,0,Other,1255
-post,Global City Virar West,0,Ethical,2295
-post,Global City Virar West,0,GA,2624
-post,Global City Virar West,0,NGA,696
-post,Global City Virar West,0,Other,1960
-post,Goregaon,1,Ethical,3709
-post,Goregaon,1,GA,7970
-post,Goregaon,1,NGA,2414
-post,Goregaon,1,Other,2067
-post,Goregaon West S.V. Road,1,Ethical,4191
-post,Goregaon West S.V. Road,1,GA,4947
-post,Goregaon West S.V. Road,1,NGA,1313
-post,Goregaon West S.V. Road,1,Other,2941
-post,Govandi,0,Ethical,4170
-post,Govandi,0,GA,9242
-post,Govandi,0,NGA,2277
-post,Govandi,0,Other,2729
-post,Gujrat Colony Kothrud,0,Ethical,1659
-post,Gujrat Colony Kothrud,0,GA,1747
-post,Gujrat Colony Kothrud,0,NGA,414
-post,Gujrat Colony Kothrud,0,Other,779
-post,Gulab Nagar Pune,0,Ethical,1719
-post,Gulab Nagar Pune,0,GA,2943
-post,Gulab Nagar Pune,0,NGA,549
-post,Gulab Nagar Pune,0,Other,1400
-post,Hari Om Nagar,0,Ethical,3460
-post,Hari Om Nagar,0,GA,4798
-post,Hari Om Nagar,0,NGA,1342
-post,Hari Om Nagar,0,Other,3163
-post,Health Care Chemist & Druggist,0,Ethical,5954
-post,Health Care Chemist & Druggist,0,GA,1104
-post,Health Care Chemist & Druggist,0,NGA,1334
-post,Health Care Chemist & Druggist,0,Other,1044
-post,Health Care Forever,0,Ethical,285
-post,Health Care Forever,0,GA,562
-post,Health Care Forever,0,NGA,203
-post,Health Care Forever,0,Other,43
-post,Hiltron Ulhasnagar,0,Ethical,1773
-post,Hiltron Ulhasnagar,0,GA,2677
-post,Hiltron Ulhasnagar,0,NGA,588
-post,Hiltron Ulhasnagar,0,Other,1582
-post,Hiranandani Thane,0,Ethical,6062
-post,Hiranandani Thane,0,GA,9354
-post,Hiranandani Thane,0,NGA,1879
-post,Hiranandani Thane,0,Other,3333
-post,IC Colony Borivali,0,Ethical,4960
-post,IC Colony Borivali,0,GA,8513
-post,IC Colony Borivali,0,NGA,2416
-post,IC Colony Borivali,0,Other,3020
-post,JB Nagar,0,Ethical,7097
-post,JB Nagar,0,GA,10589
-post,JB Nagar,0,NGA,2959
-post,JB Nagar,0,Other,4298
-post,JJ Hospital,0,Ethical,2440
-post,JJ Hospital,0,GA,10701
-post,JJ Hospital,0,NGA,2649
-post,JJ Hospital,0,Other,1906
-post,Jagruti Nagar Ghatkopar,0,Ethical,1561
-post,Jagruti Nagar Ghatkopar,0,GA,2644
-post,Jagruti Nagar Ghatkopar,0,NGA,698
-post,Jagruti Nagar Ghatkopar,0,Other,1203
-post,Jail Road Nashik,0,Ethical,1718
-post,Jail Road Nashik,0,GA,1726
-post,Jail Road Nashik,0,NGA,414
-post,Jail Road Nashik,0,Other,1235
-post,Jay VIjay Nagar Nalasopara East,0,Ethical,1577
-post,Jay VIjay Nagar Nalasopara East,0,GA,2147
-post,Jay VIjay Nagar Nalasopara East,0,NGA,500
-post,Jay VIjay Nagar Nalasopara East,0,Other,1115
-post,Kalamboli,0,Ethical,2791
-post,Kalamboli,0,GA,4026
-post,Kalamboli,0,NGA,1111
-post,Kalamboli,0,Other,1677
-post,Kalher Bhiwandi,0,Ethical,3328
-post,Kalher Bhiwandi,0,GA,5262
-post,Kalher Bhiwandi,0,NGA,1308
-post,Kalher Bhiwandi,0,Other,3751
-post,Kalina,0,Ethical,2851
-post,Kalina,0,GA,4922
-post,Kalina,0,NGA,1145
-post,Kalina,0,Other,1467
-post,Kalwa,0,Ethical,6505
-post,Kalwa,0,GA,12852
-post,Kalwa,0,NGA,3042
-post,Kalwa,0,Other,3354
-post,Kalyan,0,Ethical,2604
-post,Kalyan,0,GA,4363
-post,Kalyan,0,NGA,1196
-post,Kalyan,0,Other,1738
-post,Kalyan - DB Chowk,0,Ethical,1596
-post,Kalyan - DB Chowk,0,GA,2610
-post,Kalyan - DB Chowk,0,NGA,623
-post,Kalyan - DB Chowk,0,Other,1948
-post,Kalyan East-Tisgaon Naka,0,Ethical,3240
-post,Kalyan East-Tisgaon Naka,0,GA,4599
-post,Kalyan East-Tisgaon Naka,0,NGA,903
-post,Kalyan East-Tisgaon Naka,0,Other,1332
-post,Kalyan West Club Road,0,Ethical,1608
-post,Kalyan West Club Road,0,GA,4072
-post,Kalyan West Club Road,0,NGA,809
-post,Kalyan West Club Road,0,Other,1819
-post,Kamotha,0,Ethical,6342
-post,Kamotha,0,GA,8418
-post,Kamotha,0,NGA,2319
-post,Kamotha,0,Other,3761
-post,Kamothe - Sector 36,0,Ethical,2133
-post,Kamothe - Sector 36,0,GA,2996
-post,Kamothe - Sector 36,0,NGA,859
-post,Kamothe - Sector 36,0,Other,1622
-post,Kandivali East,0,Ethical,3155
-post,Kandivali East,0,GA,6071
-post,Kandivali East,0,NGA,1526
-post,Kandivali East,0,Other,1802
-post,Kandivali West,0,Ethical,798
-post,Kandivali West,0,GA,2705
-post,Kandivali West,0,NGA,846
-post,Kandivali West,0,Other,645
-post,Kasarvadavali Thane,0,Ethical,2430
-post,Kasarvadavali Thane,0,GA,5016
-post,Kasarvadavali Thane,0,NGA,1081
-post,Kasarvadavali Thane,0,Other,1812
-post,Katrap Badlapur East,0,Ethical,1350
-post,Katrap Badlapur East,0,GA,2334
-post,Katrap Badlapur East,0,NGA,324
-post,Katrap Badlapur East,0,Other,1088
-post,Khadki Pune,0,Ethical,2376
-post,Khadki Pune,0,GA,2999
-post,Khadki Pune,0,NGA,740
-post,Khadki Pune,0,Other,1982
-post,Khanda Colony,1,Ethical,2960
-post,Khanda Colony,1,GA,3998
-post,Khanda Colony,1,NGA,1171
-post,Khanda Colony,1,Other,1616
-post,Khar West,1,Ethical,2679
-post,Khar West,1,GA,4828
-post,Khar West,1,NGA,1242
-post,Khar West,1,Other,1856
-post,Kharghar,0,Ethical,3840
-post,Kharghar,0,GA,10076
-post,Kharghar,0,NGA,2463
-post,Kharghar,0,Other,3399
-post,Kharghar Sector 12,0,Ethical,2517
-post,Kharghar Sector 12,0,GA,4840
-post,Kharghar Sector 12,0,NGA,1360
-post,Kharghar Sector 12,0,Other,1714
-post,Khopat,0,Ethical,4495
-post,Khopat,0,GA,8499
-post,Khopat,0,NGA,1937
-post,Khopat,0,Other,2304
-post,Khutwad Nagar Nashik,0,Ethical,710
-post,Khutwad Nagar Nashik,0,GA,748
-post,Khutwad Nagar Nashik,0,NGA,146
-post,Khutwad Nagar Nashik,0,Other,920
-post,Kolsheth,0,Ethical,5847
-post,Kolsheth,0,GA,14555
-post,Kolsheth,0,NGA,3138
-post,Kolsheth,0,Other,2659
-post,Kopar Khairane,0,Ethical,4797
-post,Kopar Khairane,0,GA,9127
-post,Kopar Khairane,0,NGA,2394
-post,Kopar Khairane,0,Other,3443
-post,Kopari Thane,0,Ethical,3334
-post,Kopari Thane,0,GA,2573
-post,Kopari Thane,0,NGA,795
-post,Kopari Thane,0,Other,1929
-post,Koper Khairane - Sector 7,0,Ethical,2039
-post,Koper Khairane - Sector 7,0,GA,4055
-post,Koper Khairane - Sector 7,0,NGA,1233
-post,Koper Khairane - Sector 7,0,Other,2197
-post,Kuber Chemist,0,GA,1
-post,Kuber Chemist,0,NGA,1
-post,Kulgaon Badlapur West,0,Ethical,2392
-post,Kulgaon Badlapur West,0,GA,5115
-post,Kulgaon Badlapur West,0,NGA,933
-post,Kulgaon Badlapur West,0,Other,2535
-post,Kurla,0,Ethical,1717
-post,Kurla,0,GA,5601
-post,Kurla,0,NGA,1054
-post,Kurla,0,Other,1710
-post,Kurla West,0,Ethical,3221
-post,Kurla West,0,GA,6958
-post,Kurla West,0,NGA,1601
-post,Kurla West,0,Other,2662
-post,Lower Parel - SJ Marg,0,Ethical,1395
-post,Lower Parel - SJ Marg,0,GA,2718
-post,Lower Parel - SJ Marg,0,NGA,582
-post,Lower Parel - SJ Marg,0,Other,2457
-post,Mahakali,0,Ethical,5988
-post,Mahakali,0,GA,8136
-post,Mahakali,0,NGA,2527
-post,Mahakali,0,Other,3758
-post,Mahavir Pride Dombivali,0,Ethical,3019
-post,Mahavir Pride Dombivali,0,GA,5501
-post,Mahavir Pride Dombivali,0,NGA,1281
-post,Mahavir Pride Dombivali,0,Other,2279
-post,Mahim West,0,Ethical,2880
-post,Mahim West,0,GA,4875
-post,Mahim West,0,NGA,1202
-post,Mahim West,0,Other,2282
-post,Malad,0,Ethical,3554
-post,Malad,0,GA,7836
-post,Malad,0,NGA,2533
-post,Malad,0,Other,1856
-post,Malad Liberty Garden,0,Ethical,2303
-post,Malad Liberty Garden,0,GA,5233
-post,Malad Liberty Garden,0,NGA,966
-post,Malad Liberty Garden,0,Other,2143
-post,Malwani,0,Ethical,2669
-post,Malwani,0,GA,4736
-post,Malwani,0,NGA,1269
-post,Malwani,0,Other,1328
-post,Marol,0,Ethical,4178
-post,Marol,0,GA,8925
-post,Marol,0,NGA,2350
-post,Marol,0,Other,2646
-post,Mharal Ulhasnagar,0,Ethical,2790
-post,Mharal Ulhasnagar,0,GA,3603
-post,Mharal Ulhasnagar,0,NGA,1389
-post,Mharal Ulhasnagar,0,Other,2698
-post,Mhasrul Nashik,0,Ethical,2126
-post,Mhasrul Nashik,0,GA,2355
-post,Mhasrul Nashik,0,NGA,598
-post,Mhasrul Nashik,0,Other,2089
-post,Mira Road,0,Ethical,2708
-post,Mira Road,0,GA,4078
-post,Mira Road,0,NGA,849
-post,Mira Road,0,Other,1471
-post,Mira Road - GCC Club Road,0,Ethical,1241
-post,Mira Road - GCC Club Road,0,GA,1410
-post,Mira Road - GCC Club Road,0,NGA,205
-post,Mira Road - GCC Club Road,0,Other,1041
-post,Mira Road Jangid Complex,0,Ethical,2619
-post,Mira Road Jangid Complex,0,GA,4913
-post,Mira Road Jangid Complex,0,NGA,1005
-post,Mira Road Jangid Complex,0,Other,1958
-post,Mohan Nagar Kandivali,0,Ethical,1280
-post,Mohan Nagar Kandivali,0,GA,3882
-post,Mohan Nagar Kandivali,0,NGA,810
-post,Mohan Nagar Kandivali,0,Other,1527
-post,Morye Pharma,0,Ethical,1536
-post,Morye Pharma,0,GA,420
-post,Morye Pharma,0,NGA,1067
-post,Morye Pharma,0,Other,706
-post,Mulund East,0,Ethical,6518
-post,Mulund East,0,GA,14784
-post,Mulund East,0,NGA,3247
-post,Mulund East,0,Other,3581
-post,Mulund Panch Rasta,0,Ethical,2135
-post,Mulund Panch Rasta,0,GA,4232
-post,Mulund Panch Rasta,0,NGA,1130
-post,Mulund Panch Rasta,0,Other,1122
-post,Mulund West,0,Ethical,2955
-post,Mulund West,0,GA,11007
-post,Mulund West,0,NGA,2177
-post,Mulund West,0,Other,2300
-post,Mulund West-Sarvodaya Nagar,0,Ethical,4272
-post,Mulund West-Sarvodaya Nagar,0,GA,7621
-post,Mulund West-Sarvodaya Nagar,0,NGA,1753
-post,Mulund West-Sarvodaya Nagar,0,Other,1893
-post,Mundhwa Pune,0,Ethical,1469
-post,Mundhwa Pune,0,GA,2199
-post,Mundhwa Pune,0,NGA,477
-post,Mundhwa Pune,0,Other,1162
-post,NIBM Kondwa,0,Ethical,3178
-post,NIBM Kondwa,0,GA,6424
-post,NIBM Kondwa,0,NGA,1521
-post,NIBM Kondwa,0,Other,2314
-post,Nahur West,0,Ethical,3576
-post,Nahur West,0,GA,5953
-post,Nahur West,0,NGA,1336
-post,Nahur West,0,Other,1993
-post,Nalasopara - Yashwant Nagar,0,Ethical,1366
-post,Nalasopara - Yashwant Nagar,0,GA,2078
-post,Nalasopara - Yashwant Nagar,0,NGA,506
-post,Nalasopara - Yashwant Nagar,0,Other,1372
-post,Nalasopara West,0,Ethical,2283
-post,Nalasopara West,0,GA,3111
-post,Nalasopara West,0,NGA,674
-post,Nalasopara West,0,Other,960
-post,Narhe Pune,0,Ethical,1582
-post,Narhe Pune,0,GA,2281
-post,Narhe Pune,0,NGA,480
-post,Narhe Pune,0,Other,1043
-post,Naupada,0,Ethical,4493
-post,Naupada,0,GA,7586
-post,Naupada,0,NGA,2074
-post,Naupada,0,Other,2308
-post,Navare Nagar Ambernath,0,Ethical,2076
-post,Navare Nagar Ambernath,0,GA,3264
-post,Navare Nagar Ambernath,0,NGA,585
-post,Navare Nagar Ambernath,0,Other,1344
-post,Navi Peth Pune,0,Ethical,2074
-post,Navi Peth Pune,0,GA,4041
-post,Navi Peth Pune,0,NGA,700
-post,Navi Peth Pune,0,Other,2089
-post,Navjeevan Mumbai Central,0,Ethical,2703
-post,Navjeevan Mumbai Central,0,GA,6395
-post,Navjeevan Mumbai Central,0,NGA,1782
-post,Navjeevan Mumbai Central,0,Other,2872
-post,Nerul East,0,Ethical,2966
-post,Nerul East,0,GA,6390
-post,Nerul East,0,NGA,1533
-post,Nerul East,0,Other,2475
-post,Nerul West,0,Ethical,2665
-post,Nerul West,0,GA,5511
-post,Nerul West,0,NGA,1336
-post,Nerul West,0,Other,1878
-post,New Panvel,0,Ethical,4057
-post,New Panvel,0,GA,5739
-post,New Panvel,0,NGA,1597
-post,New Panvel,0,Other,2086
-post,Old Panvel,0,Ethical,3696
-post,Old Panvel,0,GA,5443
-post,Old Panvel,0,NGA,1225
-post,Old Panvel,0,Other,1827
-post,Palegaon Ambernath,0,Ethical,1085
-post,Palegaon Ambernath,0,GA,1873
-post,Palegaon Ambernath,0,NGA,417
-post,Palegaon Ambernath,0,Other,2284
-post,Panchpakhadi,0,Ethical,3346
-post,Panchpakhadi,0,GA,4858
-post,Panchpakhadi,0,NGA,1164
-post,Panchpakhadi,0,Other,2221
-post,Pantnagar,0,Ethical,1838
-post,Pantnagar,0,GA,4030
-post,Pantnagar,0,NGA,1076
-post,Pantnagar,0,Other,1461
-post,Panvel - Uran Naka,0,Ethical,1799
-post,Panvel - Uran Naka,0,GA,3540
-post,Panvel - Uran Naka,0,NGA,755
-post,Panvel - Uran Naka,0,Other,2029
-post,Phadke Road - Dombivali,0,Ethical,2453
-post,Phadke Road - Dombivali,0,GA,4733
-post,Phadke Road - Dombivali,0,NGA,971
-post,Phadke Road - Dombivali,0,Other,1527
-post,Pimple Gurav,0,Ethical,1400
-post,Pimple Gurav,0,GA,3156
-post,Pimple Gurav,0,NGA,544
-post,Pimple Gurav,0,Other,1082
-post,Prabhadevi,0,Ethical,2647
-post,Prabhadevi,0,GA,9041
-post,Prabhadevi,0,NGA,1184
-post,Prabhadevi,0,Other,3182
-post,Pragati Nagar Nalasopara East,0,Ethical,1696
-post,Pragati Nagar Nalasopara East,0,GA,2209
-post,Pragati Nagar Nalasopara East,0,NGA,477
-post,Pragati Nagar Nalasopara East,0,Other,1903
-post,Quality Care,0,Ethical,1235
-post,Quality Care,0,GA,2636
-post,Quality Care,0,NGA,804
-post,Quality Care,0,Other,452
-post,Rajawadi,0,Ethical,2112
-post,Rajawadi,0,GA,6356
-post,Rajawadi,0,NGA,1595
-post,Rajawadi,0,Other,1921
-post,Roadpali Kalamboli,0,Ethical,1423
-post,Roadpali Kalamboli,0,GA,2954
-post,Roadpali Kalamboli,0,NGA,698
-post,Roadpali Kalamboli,0,Other,1544
-post,Rupee Nagar Pune,0,Ethical,721
-post,Rupee Nagar Pune,0,GA,1369
-post,Rupee Nagar Pune,0,NGA,274
-post,Rupee Nagar Pune,0,Other,1524
-post,Saibaba Nagar,0,Ethical,2011
-post,Saibaba Nagar,0,GA,5226
-post,Saibaba Nagar,0,NGA,1294
-post,Saibaba Nagar,0,Other,1110
-post,Sakinaka - Pipeline Road,0,Ethical,1549
-post,Sakinaka - Pipeline Road,0,GA,2194
-post,Sakinaka - Pipeline Road,0,NGA,609
-post,Sakinaka - Pipeline Road,0,Other,1754
-post,Sanpada,1,Ethical,4917
-post,Sanpada,1,GA,8764
-post,Sanpada,1,NGA,1977
-post,Sanpada,1,Other,2999
-post,Santa Cruz SV Road,0,Ethical,2839
-post,Santa Cruz SV Road,0,GA,4577
-post,Santa Cruz SV Road,0,NGA,1072
-post,Santa Cruz SV Road,0,Other,2044
-post,"Santoshi Mata Road, Kalyan West",0,Ethical,3097
-post,"Santoshi Mata Road, Kalyan West",0,GA,3941
-post,"Santoshi Mata Road, Kalyan West",0,NGA,865
-post,"Santoshi Mata Road, Kalyan West",0,Other,1790
-post,Sasane Nagar Pune,1,Ethical,1566
-post,Sasane Nagar Pune,1,GA,2295
-post,Sasane Nagar Pune,1,NGA,511
-post,Sasane Nagar Pune,1,Other,931
-post,Seawoods,0,Ethical,3882
-post,Seawoods,0,GA,8072
-post,Seawoods,0,NGA,1748
-post,Seawoods,0,Other,2358
-post,Sector 3 - New Panvel,0,Ethical,3076
-post,Sector 3 - New Panvel,0,GA,3628
-post,Sector 3 - New Panvel,0,NGA,745
-post,Sector 3 - New Panvel,0,Other,2007
-post,Shambhuraj Enterprises LLP,0,Ethical,1797
-post,Shambhuraj Enterprises LLP,0,GA,1820
-post,Shambhuraj Enterprises LLP,0,NGA,516
-post,Shambhuraj Enterprises LLP,0,Other,580
-post,Shanti Nagar Mira Road,0,Ethical,948
-post,Shanti Nagar Mira Road,0,GA,2554
-post,Shanti Nagar Mira Road,0,NGA,510
-post,Shanti Nagar Mira Road,0,Other,1880
-post,Shirgaon Badlapur,0,Ethical,2215
-post,Shirgaon Badlapur,0,GA,3091
-post,Shirgaon Badlapur,0,NGA,533
-post,Shirgaon Badlapur,0,Other,2446
-post,Shivaji Nagar Pune,0,Ethical,3088
-post,Shivaji Nagar Pune,0,GA,4893
-post,Shivaji Nagar Pune,0,NGA,939
-post,Shivaji Nagar Pune,0,Other,1913
-post,Shreenagar,0,Ethical,6322
-post,Shreenagar,0,GA,10534
-post,Shreenagar,0,NGA,2125
-post,Shreenagar,0,Other,3313
-post,Shriprastha Nalasopara West,0,Ethical,1416
-post,Shriprastha Nalasopara West,0,GA,1888
-post,Shriprastha Nalasopara West,0,NGA,533
-post,Shriprastha Nalasopara West,0,Other,1390
-post,Sion Koliwada,0,Ethical,3042
-post,Sion Koliwada,0,GA,5729
-post,Sion Koliwada,0,NGA,1268
-post,Sion Koliwada,0,Other,2547
-post,Thakur Complex,0,Ethical,3731
-post,Thakur Complex,0,GA,7121
-post,Thakur Complex,0,NGA,1667
-post,Thakur Complex,0,Other,1839
-post,Thergaon,0,Ethical,1278
-post,Thergaon,0,GA,3181
-post,Thergaon,0,NGA,590
-post,Thergaon,0,Other,1512
-post,Tilak Road Pune,0,Ethical,2849
-post,Tilak Road Pune,0,GA,4290
-post,Tilak Road Pune,0,NGA,785
-post,Tilak Road Pune,0,Other,1746
-post,Tilaknagar,0,Ethical,2886
-post,Tilaknagar,0,GA,6585
-post,Tilaknagar,0,NGA,1625
-post,Tilaknagar,0,Other,2438
-post,Titwala,0,Ethical,4667
-post,Titwala,0,GA,4936
-post,Titwala,0,NGA,1501
-post,Titwala,0,Other,4153
-post,Trimurti Chowk Nashik,0,Ethical,907
-post,Trimurti Chowk Nashik,0,GA,1201
-post,Trimurti Chowk Nashik,0,NGA,275
-post,Trimurti Chowk Nashik,0,Other,867
-post,Ulhas Nagar - Shahad,0,Ethical,1450
-post,Ulhas Nagar - Shahad,0,GA,2549
-post,Ulhas Nagar - Shahad,0,NGA,847
-post,Ulhas Nagar - Shahad,0,Other,2195
-post,Ulhas Nagar - Shreeram Chowk,0,Ethical,786
-post,Ulhas Nagar - Shreeram Chowk,0,GA,2129
-post,Ulhas Nagar - Shreeram Chowk,0,NGA,329
-post,Ulhas Nagar - Shreeram Chowk,0,Other,1696
-post,Ulhasnagar,0,Ethical,2997
-post,Ulhasnagar,0,GA,6580
-post,Ulhasnagar,0,NGA,1762
-post,Ulhasnagar,0,Other,2229
-post,Ulhasnagar - Humlog Circle,0,Ethical,2357
-post,Ulhasnagar - Humlog Circle,0,GA,2987
-post,Ulhasnagar - Humlog Circle,0,NGA,935
-post,Ulhasnagar - Humlog Circle,0,Other,2655
-post,Ulhasnagar - Khemani Chowk,0,Ethical,1177
-post,Ulhasnagar - Khemani Chowk,0,GA,2556
-post,Ulhasnagar - Khemani Chowk,0,NGA,802
-post,Ulhasnagar - Khemani Chowk,0,Other,1651
-post,Ulhasnagar Sector 4,0,Ethical,3271
-post,Ulhasnagar Sector 4,0,GA,4073
-post,Ulhasnagar Sector 4,0,NGA,983
-post,Ulhasnagar Sector 4,0,Other,1432
-post,Ulwe-Navi Mumbai,0,Ethical,2675
-post,Ulwe-Navi Mumbai,0,GA,6467
-post,Ulwe-Navi Mumbai,0,NGA,1543
-post,Ulwe-Navi Mumbai,0,Other,1848
-post,Vakola,0,Ethical,3189
-post,Vakola,0,GA,4620
-post,Vakola,0,NGA,1218
-post,Vakola,0,Other,1557
-post,Vasai West - Station Road,0,Ethical,3052
-post,Vasai West - Station Road,0,GA,3989
-post,Vasai West - Station Road,0,NGA,934
-post,Vasai West - Station Road,0,Other,2580
-post,Vashi,0,Ethical,5729
-post,Vashi,0,GA,10706
-post,Vashi,0,NGA,2693
-post,Vashi,0,Other,4520
-post,Vashi Sector 11,0,Ethical,3064
-post,Vashi Sector 11,0,GA,5610
-post,Vashi Sector 11,0,NGA,1367
-post,Vashi Sector 11,0,Other,1729
-post,Veenanagar,0,Ethical,2396
-post,Veenanagar,0,GA,6121
-post,Veenanagar,0,NGA,1091
-post,Veenanagar,0,Other,1889
-post,Versova - Yari Road,0,Ethical,1474
-post,Versova - Yari Road,0,GA,4339
-post,Versova - Yari Road,0,NGA,831
-post,Versova - Yari Road,0,Other,2362
-post,Versova Andheri,0,Ethical,6043
-post,Versova Andheri,0,GA,8121
-post,Versova Andheri,0,NGA,2923
-post,Versova Andheri,0,Other,3405
-post,Vijay Nagari - Thane,0,Ethical,5473
-post,Vijay Nagari - Thane,0,GA,8017
-post,Vijay Nagari - Thane,0,NGA,2322
-post,Vijay Nagari - Thane,0,Other,2501
-post,Vikhroli,0,Ethical,7924
-post,Vikhroli,0,GA,12752
-post,Vikhroli,0,NGA,2527
-post,Vikhroli,0,Other,4294
-post,Vikhroli Kannamwar,0,Ethical,3872
-post,Vikhroli Kannamwar,0,GA,5183
-post,Vikhroli Kannamwar,0,NGA,1163
-post,Vikhroli Kannamwar,0,Other,2830
-post,Vile Parle,0,Ethical,2054
-post,Vile Parle,0,GA,3666
-post,Vile Parle,0,NGA,908
-post,Vile Parle,0,Other,1649
-post,Virar East,0,Ethical,3385
-post,Virar East,0,GA,5579
-post,Virar East,0,NGA,1035
-post,Virar East,0,Other,1768
-post,Virar West,0,Ethical,3509
-post,Virar West,0,GA,3740
-post,Virar West,0,NGA,1008
-post,Virar West,0,Other,1684
-post,Wadgaon Budruk Pune,0,Ethical,2300
-post,Wadgaon Budruk Pune,0,GA,2741
-post,Wadgaon Budruk Pune,0,NGA,466
-post,Wadgaon Budruk Pune,0,Other,814
-post,Wadgaon Sheri,0,Ethical,2435
-post,Wadgaon Sheri,0,GA,3509
-post,Wadgaon Sheri,0,NGA,667
-post,Wadgaon Sheri,0,Other,1713
-post,Wadgaon Sheri-Old Mundhwa Rd,0,Ethical,1925
-post,Wadgaon Sheri-Old Mundhwa Rd,0,GA,2028
-post,Wadgaon Sheri-Old Mundhwa Rd,0,NGA,435
-post,Wadgaon Sheri-Old Mundhwa Rd,0,Other,1469
-post,Wanawadi Pune,0,Ethical,1134
-post,Wanawadi Pune,0,GA,3496
-post,Wanawadi Pune,0,NGA,572
-post,Wanawadi Pune,0,Other,969
-post,Warje Pune,0,Ethical,1632
-post,Warje Pune,0,GA,2159
-post,Warje Pune,0,NGA,437
-post,Warje Pune,0,Other,1220
-post,Wayale Nagar,0,Ethical,2567
-post,Wayale Nagar,0,GA,4119
-post,Wayale Nagar,0,NGA,856
-post,Wayale Nagar,0,Other,1522
-post,Yashodhan,0,Ethical,7264
-post,Yashodhan,0,GA,12065
-post,Yashodhan,0,NGA,2577
-post,Yashodhan,0,Other,2967
-post,Yogi Nagar,0,Ethical,2165
-post,Yogi Nagar,0,GA,4452
-post,Yogi Nagar,0,NGA,1311
-post,Yogi Nagar,0,Other,1333
-post,Yogidham Kalyan,0,Ethical,1646
-post,Yogidham Kalyan,0,GA,2090
-post,Yogidham Kalyan,0,NGA,553
-post,Yogidham Kalyan,0,Other,1263
+pre,Dombivali - Reti Bunder,0,Other,1803
+pre,Dombivli West,0,Ethical,4080
+pre,Dombivli West,0,GA,9165
+pre,Dombivli West,0,NGA,2280
+pre,Dombivli West,0,Other,3079
+pre,Evershine Nagar,0,Ethical,1733
+pre,Evershine Nagar,0,GA,3895
+pre,Evershine Nagar,0,NGA,1080
+pre,Evershine Nagar,0,Other,1315
+pre,Fam Society - Koperkhairne,0,Ethical,4379
+pre,Fam Society - Koperkhairne,0,GA,6144
+pre,Fam Society - Koperkhairne,0,NGA,1780
+pre,Fam Society - Koperkhairne,0,Other,3797
+pre,Fursungi Pune,0,Ethical,1714
+pre,Fursungi Pune,0,GA,2293
+pre,Fursungi Pune,0,NGA,583
+pre,Fursungi Pune,0,Other,2110
+pre,Ghansoli,0,Ethical,5718
+pre,Ghansoli,0,GA,9283
+pre,Ghansoli,0,NGA,2468
+pre,Ghansoli,0,Other,4051
+pre,Ghatkopar East,0,Ethical,3711
+pre,Ghatkopar East,0,GA,5787
+pre,Ghatkopar East,0,NGA,1458
+pre,Ghatkopar East,0,Other,4240
+pre,Ghatkopar West,0,Ethical,3433
+pre,Ghatkopar West,0,GA,6070
+pre,Ghatkopar West,0,NGA,1589
+pre,Ghatkopar West,0,Other,2282
+pre,Ghodapdeo - Byculla,0,Ethical,1314
+pre,Ghodapdeo - Byculla,0,GA,3988
+pre,Ghodapdeo - Byculla,0,NGA,1056
+pre,Ghodapdeo - Byculla,0,Other,1303
+pre,Global City Virar West,0,Ethical,1967
+pre,Global City Virar West,0,GA,2952
+pre,Global City Virar West,0,NGA,628
+pre,Global City Virar West,0,Other,2659
+pre,Goregaon,1,Ethical,3425
+pre,Goregaon,1,GA,8208
+pre,Goregaon,1,NGA,2442
+pre,Goregaon,1,Other,2053
+pre,Goregaon West S.V. Road,1,Ethical,3755
+pre,Goregaon West S.V. Road,1,GA,5601
+pre,Goregaon West S.V. Road,1,NGA,1433
+pre,Goregaon West S.V. Road,1,Other,2569
+pre,Govandi,0,Ethical,4216
+pre,Govandi,0,GA,9833
+pre,Govandi,0,NGA,2342
+pre,Govandi,0,Other,3498
+pre,Gujrat Colony Kothrud,0,Ethical,1417
+pre,Gujrat Colony Kothrud,0,GA,1930
+pre,Gujrat Colony Kothrud,0,NGA,408
+pre,Gujrat Colony Kothrud,0,Other,743
+pre,Gulab Nagar Pune,0,Ethical,1913
+pre,Gulab Nagar Pune,0,GA,3177
+pre,Gulab Nagar Pune,0,NGA,579
+pre,Gulab Nagar Pune,0,Other,1519
+pre,Hari Om Nagar,0,Ethical,3271
+pre,Hari Om Nagar,0,GA,5189
+pre,Hari Om Nagar,0,NGA,1356
+pre,Hari Om Nagar,0,Other,3476
+pre,Hiltron Ulhasnagar,0,Ethical,1799
+pre,Hiltron Ulhasnagar,0,GA,3064
+pre,Hiltron Ulhasnagar,0,NGA,753
+pre,Hiltron Ulhasnagar,0,Other,2446
+pre,Hiranandani Thane,0,Ethical,6388
+pre,Hiranandani Thane,0,GA,9476
+pre,Hiranandani Thane,0,NGA,1764
+pre,Hiranandani Thane,0,Other,3522
+pre,IC Colony Borivali,0,Ethical,5152
+pre,IC Colony Borivali,0,GA,9414
+pre,IC Colony Borivali,0,NGA,2578
+pre,IC Colony Borivali,0,Other,3468
+pre,JB Nagar,0,Ethical,6541
+pre,JB Nagar,0,GA,10926
+pre,JB Nagar,0,NGA,2683
+pre,JB Nagar,0,Other,5082
+pre,JJ Hospital,0,Ethical,2537
+pre,JJ Hospital,0,GA,11091
+pre,JJ Hospital,0,NGA,2792
+pre,JJ Hospital,0,Other,2444
+pre,Jagruti Nagar Ghatkopar,0,Ethical,1825
+pre,Jagruti Nagar Ghatkopar,0,GA,3049
+pre,Jagruti Nagar Ghatkopar,0,NGA,847
+pre,Jagruti Nagar Ghatkopar,0,Other,2062
+pre,Jail Road Nashik,0,Ethical,1788
+pre,Jail Road Nashik,0,GA,1709
+pre,Jail Road Nashik,0,NGA,405
+pre,Jail Road Nashik,0,Other,1265
+pre,Jay VIjay Nagar Nalasopara East,0,Ethical,1770
+pre,Jay VIjay Nagar Nalasopara East,0,GA,2722
+pre,Jay VIjay Nagar Nalasopara East,0,NGA,496
+pre,Jay VIjay Nagar Nalasopara East,0,Other,1254
+pre,Kalamboli,0,Ethical,2459
+pre,Kalamboli,0,GA,4099
+pre,Kalamboli,0,NGA,1040
+pre,Kalamboli,0,Other,1847
+pre,Kalher Bhiwandi,0,Ethical,3305
+pre,Kalher Bhiwandi,0,GA,5525
+pre,Kalher Bhiwandi,0,NGA,1403
+pre,Kalher Bhiwandi,0,Other,4322
+pre,Kalina,0,Ethical,2797
+pre,Kalina,0,GA,4345
+pre,Kalina,0,NGA,1169
+pre,Kalina,0,Other,1919
+pre,Kalwa,0,Ethical,6155
+pre,Kalwa,0,GA,12402
+pre,Kalwa,0,NGA,2988
+pre,Kalwa,0,Other,4019
+pre,Kalyan,0,Ethical,2923
+pre,Kalyan,0,GA,4719
+pre,Kalyan,0,NGA,1220
+pre,Kalyan,0,Other,2045
+pre,Kalyan - DB Chowk,0,Ethical,1746
+pre,Kalyan - DB Chowk,0,GA,2501
+pre,Kalyan - DB Chowk,0,NGA,561
+pre,Kalyan - DB Chowk,0,Other,1971
+pre,Kalyan East-Tisgaon Naka,0,Ethical,3083
+pre,Kalyan East-Tisgaon Naka,0,GA,4920
+pre,Kalyan East-Tisgaon Naka,0,NGA,1031
+pre,Kalyan East-Tisgaon Naka,0,Other,1711
+pre,Kalyan West Club Road,0,Ethical,1654
+pre,Kalyan West Club Road,0,GA,4113
+pre,Kalyan West Club Road,0,NGA,934
+pre,Kalyan West Club Road,0,Other,1779
+pre,Kamotha,0,Ethical,6025
+pre,Kamotha,0,GA,8739
+pre,Kamotha,0,NGA,2220
+pre,Kamotha,0,Other,3857
+pre,Kamothe - Sector 36,0,Ethical,2425
+pre,Kamothe - Sector 36,0,GA,3239
+pre,Kamothe - Sector 36,0,NGA,900
+pre,Kamothe - Sector 36,0,Other,1830
+pre,Kandivali East,0,Ethical,2898
+pre,Kandivali East,0,GA,5853
+pre,Kandivali East,0,NGA,1366
+pre,Kandivali East,0,Other,2018
+pre,Kandivali West,0,Ethical,649
+pre,Kandivali West,0,GA,3303
+pre,Kandivali West,0,NGA,757
+pre,Kandivali West,0,Other,793
+pre,Kasarvadavali Thane,0,Ethical,2325
+pre,Kasarvadavali Thane,0,GA,4221
+pre,Kasarvadavali Thane,0,NGA,1122
+pre,Kasarvadavali Thane,0,Other,2090
+pre,Katrap Badlapur East,0,Ethical,1102
+pre,Katrap Badlapur East,0,GA,2052
+pre,Katrap Badlapur East,0,NGA,274
+pre,Katrap Badlapur East,0,Other,1385
+pre,Khadki Pune,0,Ethical,2300
+pre,Khadki Pune,0,GA,3073
+pre,Khadki Pune,0,NGA,813
+pre,Khadki Pune,0,Other,2322
+pre,Khanda Colony,1,Ethical,2948
+pre,Khanda Colony,1,GA,4384
+pre,Khanda Colony,1,NGA,1249
+pre,Khanda Colony,1,Other,1870
+pre,Khar West,1,Ethical,2969
+pre,Khar West,1,GA,5445
+pre,Khar West,1,NGA,1671
+pre,Khar West,1,Other,2189
+pre,Kharghar,0,Ethical,3660
+pre,Kharghar,0,GA,10110
+pre,Kharghar,0,NGA,2630
+pre,Kharghar,0,Other,3205
+pre,Kharghar Sector 12,0,Ethical,2308
+pre,Kharghar Sector 12,0,GA,5029
+pre,Kharghar Sector 12,0,NGA,1394
+pre,Kharghar Sector 12,0,Other,1689
+pre,Khopat,0,Ethical,5183
+pre,Khopat,0,GA,10078
+pre,Khopat,0,NGA,2230
+pre,Khopat,0,Other,2639
+pre,Khutwad Nagar Nashik,0,Ethical,748
+pre,Khutwad Nagar Nashik,0,GA,762
+pre,Khutwad Nagar Nashik,0,NGA,149
+pre,Khutwad Nagar Nashik,0,Other,805
+pre,Kolsheth,0,Ethical,6331
+pre,Kolsheth,0,GA,15308
+pre,Kolsheth,0,NGA,3179
+pre,Kolsheth,0,Other,3164
+pre,Kopar Khairane,0,Ethical,4398
+pre,Kopar Khairane,0,GA,8685
+pre,Kopar Khairane,0,NGA,2125
+pre,Kopar Khairane,0,Other,4620
+pre,Kopari Thane,0,Ethical,3226
+pre,Kopari Thane,0,GA,2338
+pre,Kopari Thane,0,NGA,745
+pre,Kopari Thane,0,Other,2389
+pre,Koper Khairane - Sector 2,0,Ethical,1438
+pre,Koper Khairane - Sector 2,0,GA,2721
+pre,Koper Khairane - Sector 2,0,NGA,670
+pre,Koper Khairane - Sector 2,0,Other,1686
+pre,Koper Khairane - Sector 7,0,Ethical,1827
+pre,Koper Khairane - Sector 7,0,GA,3710
+pre,Koper Khairane - Sector 7,0,NGA,1060
+pre,Koper Khairane - Sector 7,0,Other,2540
+pre,Kulgaon Badlapur West,0,Ethical,2336
+pre,Kulgaon Badlapur West,0,GA,4954
+pre,Kulgaon Badlapur West,0,NGA,1051
+pre,Kulgaon Badlapur West,0,Other,3216
+pre,Kurla,0,Ethical,1667
+pre,Kurla,0,GA,5564
+pre,Kurla,0,NGA,1065
+pre,Kurla,0,Other,1228
+pre,Kurla West,0,Ethical,3483
+pre,Kurla West,0,GA,7421
+pre,Kurla West,0,NGA,1720
+pre,Kurla West,0,Other,3429
+pre,Lower Parel - SJ Marg,0,Ethical,1242
+pre,Lower Parel - SJ Marg,0,GA,2982
+pre,Lower Parel - SJ Marg,0,NGA,564
+pre,Lower Parel - SJ Marg,0,Other,2321
+pre,Mahakali,0,Ethical,6090
+pre,Mahakali,0,GA,8583
+pre,Mahakali,0,NGA,2809
+pre,Mahakali,0,Other,4185
+pre,Mahavir Pride Dombivali,0,Ethical,3212
+pre,Mahavir Pride Dombivali,0,GA,5758
+pre,Mahavir Pride Dombivali,0,NGA,1309
+pre,Mahavir Pride Dombivali,0,Other,2483
+pre,Mahim West,0,Ethical,2784
+pre,Mahim West,0,GA,5201
+pre,Mahim West,0,NGA,1480
+pre,Mahim West,0,Other,2690
+pre,Malad,0,Ethical,3958
+pre,Malad,0,GA,8039
+pre,Malad,0,NGA,2766
+pre,Malad,0,Other,2236
+pre,Malad Liberty Garden,0,Ethical,2552
+pre,Malad Liberty Garden,0,GA,5976
+pre,Malad Liberty Garden,0,NGA,1086
+pre,Malad Liberty Garden,0,Other,1827
+pre,Malwani,0,Ethical,2734
+pre,Malwani,0,GA,4638
+pre,Malwani,0,NGA,1251
+pre,Malwani,0,Other,1609
+pre,Marol,0,Ethical,4299
+pre,Marol,0,GA,9440
+pre,Marol,0,NGA,2646
+pre,Marol,0,Other,3232
+pre,Mharal Ulhasnagar,0,Ethical,2653
+pre,Mharal Ulhasnagar,0,GA,3585
+pre,Mharal Ulhasnagar,0,NGA,1338
+pre,Mharal Ulhasnagar,0,Other,2974
+pre,Mhasrul Nashik,0,Ethical,1735
+pre,Mhasrul Nashik,0,GA,2227
+pre,Mhasrul Nashik,0,NGA,562
+pre,Mhasrul Nashik,0,Other,1872
+pre,Mira Road,0,Ethical,2665
+pre,Mira Road,0,GA,4202
+pre,Mira Road,0,NGA,912
+pre,Mira Road,0,Other,1622
+pre,Mira Road - GCC Club Road,0,Ethical,1387
+pre,Mira Road - GCC Club Road,0,GA,1411
+pre,Mira Road - GCC Club Road,0,NGA,289
+pre,Mira Road - GCC Club Road,0,Other,1308
+pre,Mira Road Jangid Complex,0,Ethical,2387
+pre,Mira Road Jangid Complex,0,GA,4883
+pre,Mira Road Jangid Complex,0,NGA,1066
+pre,Mira Road Jangid Complex,0,Other,2408
+pre,Mohan Nagar Kandivali,0,Ethical,1168
+pre,Mohan Nagar Kandivali,0,GA,3624
+pre,Mohan Nagar Kandivali,0,NGA,751
+pre,Mohan Nagar Kandivali,0,Other,1492
+pre,Mulund East,0,Ethical,6524
+pre,Mulund East,0,GA,15072
+pre,Mulund East,0,NGA,3087
+pre,Mulund East,0,Other,4043
+pre,Mulund Panch Rasta,0,Ethical,1976
+pre,Mulund Panch Rasta,0,GA,4540
+pre,Mulund Panch Rasta,0,NGA,1062
+pre,Mulund Panch Rasta,0,Other,1349
+pre,Mulund West,0,Ethical,2761
+pre,Mulund West,0,GA,10714
+pre,Mulund West,0,NGA,1936
+pre,Mulund West,0,Other,2416
+pre,Mulund West-Sarvodaya Nagar,0,Ethical,4118
+pre,Mulund West-Sarvodaya Nagar,0,GA,8021
+pre,Mulund West-Sarvodaya Nagar,0,NGA,1861
+pre,Mulund West-Sarvodaya Nagar,0,Other,2401
+pre,Mundhwa Pune,0,Ethical,1396
+pre,Mundhwa Pune,0,GA,2150
+pre,Mundhwa Pune,0,NGA,480
+pre,Mundhwa Pune,0,Other,1083
+pre,NIBM Kondwa,0,Ethical,3180
+pre,NIBM Kondwa,0,GA,7111
+pre,NIBM Kondwa,0,NGA,1559
+pre,NIBM Kondwa,0,Other,2350
+pre,Nahur West,0,Ethical,3632
+pre,Nahur West,0,GA,5449
+pre,Nahur West,0,NGA,1182
+pre,Nahur West,0,Other,2343
+pre,Nalasopara - Yashwant Nagar,0,Ethical,1435
+pre,Nalasopara - Yashwant Nagar,0,GA,2169
+pre,Nalasopara - Yashwant Nagar,0,NGA,533
+pre,Nalasopara - Yashwant Nagar,0,Other,1656
+pre,Nalasopara West,0,Ethical,2467
+pre,Nalasopara West,0,GA,3808
+pre,Nalasopara West,0,NGA,838
+pre,Nalasopara West,0,Other,1101
+pre,Narhe Pune,0,Ethical,1457
+pre,Narhe Pune,0,GA,2315
+pre,Narhe Pune,0,NGA,473
+pre,Narhe Pune,0,Other,1055
+pre,Naupada,0,Ethical,4827
+pre,Naupada,0,GA,8237
+pre,Naupada,0,NGA,2215
+pre,Naupada,0,Other,2568
+pre,Navare Nagar Ambernath,0,Ethical,2094
+pre,Navare Nagar Ambernath,0,GA,2901
+pre,Navare Nagar Ambernath,0,NGA,613
+pre,Navare Nagar Ambernath,0,Other,1510
+pre,Navi Peth Pune,0,Ethical,2330
+pre,Navi Peth Pune,0,GA,4310
+pre,Navi Peth Pune,0,NGA,779
+pre,Navi Peth Pune,0,Other,2247
+pre,Navjeevan Mumbai Central,0,Ethical,2861
+pre,Navjeevan Mumbai Central,0,GA,6353
+pre,Navjeevan Mumbai Central,0,NGA,1674
+pre,Navjeevan Mumbai Central,0,Other,3521
+pre,Nerul East,0,Ethical,2897
+pre,Nerul East,0,GA,6516
+pre,Nerul East,0,NGA,1435
+pre,Nerul East,0,Other,2621
+pre,Nerul West,0,Ethical,2680
+pre,Nerul West,0,GA,6129
+pre,Nerul West,0,NGA,1553
+pre,Nerul West,0,Other,2211
+pre,New Panvel,0,Ethical,3840
+pre,New Panvel,0,GA,6184
+pre,New Panvel,0,NGA,1739
+pre,New Panvel,0,Other,2300
+pre,Old Panvel,0,Ethical,3907
+pre,Old Panvel,0,GA,5266
+pre,Old Panvel,0,NGA,1148
+pre,Old Panvel,0,Other,2007
+pre,Palegaon Ambernath,0,Ethical,973
+pre,Palegaon Ambernath,0,GA,1913
+pre,Palegaon Ambernath,0,NGA,392
+pre,Palegaon Ambernath,0,Other,2530
+pre,Panchpakhadi,0,Ethical,3249
+pre,Panchpakhadi,0,GA,4523
+pre,Panchpakhadi,0,NGA,1175
+pre,Panchpakhadi,0,Other,2745
+pre,Pantnagar,0,Ethical,2007
+pre,Pantnagar,0,GA,3804
+pre,Pantnagar,0,NGA,1178
+pre,Pantnagar,0,Other,1781
+pre,Panvel - Uran Naka,0,Ethical,1762
+pre,Panvel - Uran Naka,0,GA,3278
+pre,Panvel - Uran Naka,0,NGA,701
+pre,Panvel - Uran Naka,0,Other,2055
+pre,Phadke Road - Dombivali,0,Ethical,2505
+pre,Phadke Road - Dombivali,0,GA,5109
+pre,Phadke Road - Dombivali,0,NGA,1080
+pre,Phadke Road - Dombivali,0,Other,1749
+pre,Pimple Gurav,0,Ethical,1565
+pre,Pimple Gurav,0,GA,2995
+pre,Pimple Gurav,0,NGA,613
+pre,Pimple Gurav,0,Other,1288
+pre,Prabhadevi,0,Ethical,2396
+pre,Prabhadevi,0,GA,8645
+pre,Prabhadevi,0,NGA,1103
+pre,Prabhadevi,0,Other,2704
+pre,Pragati Nagar Nalasopara East,0,Ethical,1573
+pre,Pragati Nagar Nalasopara East,0,GA,2228
+pre,Pragati Nagar Nalasopara East,0,NGA,502
+pre,Pragati Nagar Nalasopara East,0,Other,1800
+pre,Rajawadi,0,Ethical,2153
+pre,Rajawadi,0,GA,7719
+pre,Rajawadi,0,NGA,1941
+pre,Rajawadi,0,Other,2437
+pre,Roadpali Kalamboli,0,Ethical,1612
+pre,Roadpali Kalamboli,0,GA,3026
+pre,Roadpali Kalamboli,0,NGA,825
+pre,Roadpali Kalamboli,0,Other,2021
+pre,Rupee Nagar Pune,0,Ethical,913
+pre,Rupee Nagar Pune,0,GA,1515
+pre,Rupee Nagar Pune,0,NGA,368
+pre,Rupee Nagar Pune,0,Other,1692
+pre,Saibaba Nagar,0,Ethical,2086
+pre,Saibaba Nagar,0,GA,4886
+pre,Saibaba Nagar,0,NGA,1322
+pre,Saibaba Nagar,0,Other,1153
+pre,Sakinaka - Pipeline Road,0,Ethical,1533
+pre,Sakinaka - Pipeline Road,0,GA,2173
+pre,Sakinaka - Pipeline Road,0,NGA,536
+pre,Sakinaka - Pipeline Road,0,Other,1999
+pre,Sanpada,1,Ethical,5231
+pre,Sanpada,1,GA,9359
+pre,Sanpada,1,NGA,2063
+pre,Sanpada,1,Other,3167
+pre,Santa Cruz SV Road,0,Ethical,2826
+pre,Santa Cruz SV Road,0,GA,4623
+pre,Santa Cruz SV Road,0,NGA,1107
+pre,Santa Cruz SV Road,0,Other,2516
+pre,"Santoshi Mata Road, Kalyan West",0,Ethical,3120
+pre,"Santoshi Mata Road, Kalyan West",0,GA,4082
+pre,"Santoshi Mata Road, Kalyan West",0,NGA,1077
+pre,"Santoshi Mata Road, Kalyan West",0,Other,1658
+pre,Sasane Nagar Pune,1,Ethical,1844
+pre,Sasane Nagar Pune,1,GA,2496
+pre,Sasane Nagar Pune,1,NGA,554
+pre,Sasane Nagar Pune,1,Other,936
+pre,Seawoods,0,Ethical,3636
+pre,Seawoods,0,GA,7930
+pre,Seawoods,0,NGA,1710
+pre,Seawoods,0,Other,2692
+pre,Sector 3 - New Panvel,0,Ethical,3124
+pre,Sector 3 - New Panvel,0,GA,3758
+pre,Sector 3 - New Panvel,0,NGA,885
+pre,Sector 3 - New Panvel,0,Other,2219
+pre,Shanti Nagar Mira Road,0,Ethical,904
+pre,Shanti Nagar Mira Road,0,GA,2549
+pre,Shanti Nagar Mira Road,0,NGA,450
+pre,Shanti Nagar Mira Road,0,Other,2053
+pre,Shirgaon Badlapur,0,Ethical,1680
+pre,Shirgaon Badlapur,0,GA,2836
+pre,Shirgaon Badlapur,0,NGA,539
+pre,Shirgaon Badlapur,0,Other,2780
+pre,Shivaji Nagar Pune,0,Ethical,2977
+pre,Shivaji Nagar Pune,0,GA,5038
+pre,Shivaji Nagar Pune,0,NGA,946
+pre,Shivaji Nagar Pune,0,Other,1967
+pre,Shreenagar,0,Ethical,6042
+pre,Shreenagar,0,GA,10830
+pre,Shreenagar,0,NGA,2115
+pre,Shreenagar,0,Other,4454
+pre,Shriprastha Nalasopara West,0,Ethical,1590
+pre,Shriprastha Nalasopara West,0,GA,2065
+pre,Shriprastha Nalasopara West,0,NGA,583
+pre,Shriprastha Nalasopara West,0,Other,1419
+pre,Sion Koliwada,0,Ethical,3044
+pre,Sion Koliwada,0,GA,6132
+pre,Sion Koliwada,0,NGA,1347
+pre,Sion Koliwada,0,Other,2779
+pre,Thakur Complex,0,Ethical,4060
+pre,Thakur Complex,0,GA,7797
+pre,Thakur Complex,0,NGA,2022
+pre,Thakur Complex,0,Other,2245
+pre,Thergaon,0,Ethical,1351
+pre,Thergaon,0,GA,2987
+pre,Thergaon,0,NGA,606
+pre,Thergaon,0,Other,1483
+pre,Tilak Road Pune,0,Ethical,2672
+pre,Tilak Road Pune,0,GA,4532
+pre,Tilak Road Pune,0,NGA,707
+pre,Tilak Road Pune,0,Other,1746
+pre,Tilaknagar,0,Ethical,2830
+pre,Tilaknagar,0,GA,6879
+pre,Tilaknagar,0,NGA,1461
+pre,Tilaknagar,0,Other,2999
+pre,Titwala,0,Ethical,4889
+pre,Titwala,0,GA,4932
+pre,Titwala,0,NGA,1579
+pre,Titwala,0,Other,3462
+pre,Trimurti Chowk Nashik,0,Ethical,894
+pre,Trimurti Chowk Nashik,0,GA,1044
+pre,Trimurti Chowk Nashik,0,NGA,255
+pre,Trimurti Chowk Nashik,0,Other,931
+pre,Ulhas Nagar - Shahad,0,Ethical,1583
+pre,Ulhas Nagar - Shahad,0,GA,2604
+pre,Ulhas Nagar - Shahad,0,NGA,883
+pre,Ulhas Nagar - Shahad,0,Other,2466
+pre,Ulhas Nagar - Shreeram Chowk,0,Ethical,799
+pre,Ulhas Nagar - Shreeram Chowk,0,GA,2371
+pre,Ulhas Nagar - Shreeram Chowk,0,NGA,398
+pre,Ulhas Nagar - Shreeram Chowk,0,Other,2779
+pre,Ulhasnagar,0,Ethical,3181
+pre,Ulhasnagar,0,GA,6671
+pre,Ulhasnagar,0,NGA,2031
+pre,Ulhasnagar,0,Other,2842
+pre,Ulhasnagar - Humlog Circle,0,Ethical,2551
+pre,Ulhasnagar - Humlog Circle,0,GA,2768
+pre,Ulhasnagar - Humlog Circle,0,NGA,1023
+pre,Ulhasnagar - Humlog Circle,0,Other,3097
+pre,Ulhasnagar - Khemani Chowk,0,Ethical,1021
+pre,Ulhasnagar - Khemani Chowk,0,GA,2495
+pre,Ulhasnagar - Khemani Chowk,0,NGA,680
+pre,Ulhasnagar - Khemani Chowk,0,Other,2019
+pre,Ulhasnagar Sector 4,0,Ethical,3232
+pre,Ulhasnagar Sector 4,0,GA,4325
+pre,Ulhasnagar Sector 4,0,NGA,1022
+pre,Ulhasnagar Sector 4,0,Other,1718
+pre,Ulwe-Navi Mumbai,0,Ethical,2693
+pre,Ulwe-Navi Mumbai,0,GA,6562
+pre,Ulwe-Navi Mumbai,0,NGA,1595
+pre,Ulwe-Navi Mumbai,0,Other,1935
+pre,Vakola,0,Ethical,3277
+pre,Vakola,0,GA,4766
+pre,Vakola,0,NGA,1250
+pre,Vakola,0,Other,2132
+pre,Vasai West - Station Road,0,Ethical,2950
+pre,Vasai West - Station Road,0,GA,4144
+pre,Vasai West - Station Road,0,NGA,1025
+pre,Vasai West - Station Road,0,Other,3172
+pre,Vashi,0,Ethical,5831
+pre,Vashi,0,GA,11171
+pre,Vashi,0,NGA,2823
+pre,Vashi,0,Other,5099
+pre,Vashi Sector 11,0,Ethical,3132
+pre,Vashi Sector 11,0,GA,5634
+pre,Vashi Sector 11,0,NGA,1528
+pre,Vashi Sector 11,0,Other,1875
+pre,Veenanagar,0,Ethical,2341
+pre,Veenanagar,0,GA,5896
+pre,Veenanagar,0,NGA,1774
+pre,Veenanagar,0,Other,2170
+pre,Versova - Yari Road,0,Ethical,1648
+pre,Versova - Yari Road,0,GA,4314
+pre,Versova - Yari Road,0,NGA,909
+pre,Versova - Yari Road,0,Other,2664
+pre,Versova Andheri,0,Ethical,5908
+pre,Versova Andheri,0,GA,8000
+pre,Versova Andheri,0,NGA,2912
+pre,Versova Andheri,0,Other,3676
+pre,Vijay Nagari - Thane,0,Ethical,5302
+pre,Vijay Nagari - Thane,0,GA,7671
+pre,Vijay Nagari - Thane,0,NGA,2135
+pre,Vijay Nagari - Thane,0,Other,2689
+pre,Vikhroli,0,Ethical,8162
+pre,Vikhroli,0,GA,13191
+pre,Vikhroli,0,NGA,2727
+pre,Vikhroli,0,Other,4633
+pre,Vikhroli Kannamwar,0,Ethical,3843
+pre,Vikhroli Kannamwar,0,GA,5521
+pre,Vikhroli Kannamwar,0,NGA,1270
+pre,Vikhroli Kannamwar,0,Other,2429
+pre,Vile Parle,0,Ethical,1926
+pre,Vile Parle,0,GA,4061
+pre,Vile Parle,0,NGA,801
+pre,Vile Parle,0,Other,2057
+pre,Virar East,0,Ethical,3534
+pre,Virar East,0,GA,5041
+pre,Virar East,0,NGA,1111
+pre,Virar East,0,Other,2446
+pre,Virar West,0,Ethical,3628
+pre,Virar West,0,GA,3930
+pre,Virar West,0,NGA,896
+pre,Virar West,0,Other,2163
+pre,Wadgaon Budruk Pune,0,Ethical,2252
+pre,Wadgaon Budruk Pune,0,GA,2637
+pre,Wadgaon Budruk Pune,0,NGA,508
+pre,Wadgaon Budruk Pune,0,Other,799
+pre,Wadgaon Sheri,0,Ethical,2495
+pre,Wadgaon Sheri,0,GA,3365
+pre,Wadgaon Sheri,0,NGA,811
+pre,Wadgaon Sheri,0,Other,1511
+pre,Wadgaon Sheri-Old Mundhwa Rd,0,Ethical,2194
+pre,Wadgaon Sheri-Old Mundhwa Rd,0,GA,2035
+pre,Wadgaon Sheri-Old Mundhwa Rd,0,NGA,548
+pre,Wadgaon Sheri-Old Mundhwa Rd,0,Other,1657
+pre,Wanawadi Pune,0,Ethical,1475
+pre,Wanawadi Pune,0,GA,3180
+pre,Wanawadi Pune,0,NGA,635
+pre,Wanawadi Pune,0,Other,826
+pre,Warje Pune,0,Ethical,1204
+pre,Warje Pune,0,GA,1987
+pre,Warje Pune,0,NGA,344
+pre,Warje Pune,0,Other,1031
+pre,Wayale Nagar,0,Ethical,2228
+pre,Wayale Nagar,0,GA,4331
+pre,Wayale Nagar,0,NGA,885
+pre,Wayale Nagar,0,Other,1753
+pre,Yashodhan,0,Ethical,7668
+pre,Yashodhan,0,GA,12481
+pre,Yashodhan,0,NGA,2963
+pre,Yashodhan,0,Other,3637
+pre,Yogi Nagar,0,Ethical,2004
+pre,Yogi Nagar,0,GA,4767
+pre,Yogi Nagar,0,NGA,1389
+pre,Yogi Nagar,0,Other,1900
+pre,Yogidham Kalyan,0,Ethical,1619
+pre,Yogidham Kalyan,0,GA,2345
+pre,Yogidham Kalyan,0,NGA,544
+pre,Yogidham Kalyan,0,Other,1557
+post,7 Rasta Byculla,0,Ethical,2525
+post,7 Rasta Byculla,0,GA,4858
+post,7 Rasta Byculla,0,NGA,1059
+post,7 Rasta Byculla,0,Other,2282
+post,Airoli,0,Ethical,5856
+post,Airoli,0,GA,10734
+post,Airoli,0,NGA,2870
+post,Airoli,0,Other,3395
+post,Airoli Sector - 3,0,Ethical,3976
+post,Airoli Sector - 3,0,GA,6309
+post,Airoli Sector - 3,0,NGA,1652
+post,Airoli Sector - 3,0,Other,2625
+post,Ambegaon Pune,0,Ethical,1621
+post,Ambegaon Pune,0,GA,2288
+post,Ambegaon Pune,0,NGA,377
+post,Ambegaon Pune,0,Other,1182
+post,Ambernath East,0,Ethical,3302
+post,Ambernath East,0,GA,3761
+post,Ambernath East,0,NGA,768
+post,Ambernath East,0,Other,939
+post,Ambernath West,0,Ethical,3424
+post,Ambernath West,0,GA,4294
+post,Ambernath West,0,NGA,700
+post,Ambernath West,0,Other,1126
+post,Ashokvan Dahisar,0,Ethical,3350
+post,Ashokvan Dahisar,0,GA,6145
+post,Ashokvan Dahisar,0,NGA,1413
+post,Ashokvan Dahisar,0,Other,2139
+post,Badlapur - Belavali,0,Ethical,1254
+post,Badlapur - Belavali,0,GA,3211
+post,Badlapur - Belavali,0,NGA,781
+post,Badlapur - Belavali,0,Other,2345
+post,Badlapur East,0,Ethical,1976
+post,Badlapur East,0,GA,2744
+post,Badlapur East,0,NGA,570
+post,Badlapur East,0,Other,840
+post,Bandra,1,Ethical,3717
+post,Bandra,1,GA,9306
+post,Bandra,1,NGA,1958
+post,Bandra,1,Other,3202
+post,Bhandup West,0,Ethical,4861
+post,Bhandup West,0,GA,8612
+post,Bhandup West,0,NGA,1685
+post,Bhandup West,0,Other,2269
+post,Bhayandar,0,Ethical,3978
+post,Bhayandar,0,GA,6951
+post,Bhayandar,0,NGA,1782
+post,Bhayandar,0,Other,2795
+post,Bhayander 60 Feet Road,0,Ethical,2992
+post,Bhayander 60 Feet Road,0,GA,3248
+post,Bhayander 60 Feet Road,0,NGA,987
+post,Bhayander 60 Feet Road,0,Other,2129
+post,Bhekrainagar Pune,0,Ethical,1345
+post,Bhekrainagar Pune,0,GA,2473
+post,Bhekrainagar Pune,0,NGA,387
+post,Bhekrainagar Pune,0,Other,1237
+post,Bhiwandi - Shivaji Chowk,0,Ethical,1000
+post,Bhiwandi - Shivaji Chowk,0,GA,1464
+post,Bhiwandi - Shivaji Chowk,0,NGA,383
+post,Bhiwandi - Shivaji Chowk,0,Other,1800
+post,Bhiwandi Dhamankar Naka,1,Ethical,3570
+post,Bhiwandi Dhamankar Naka,1,GA,6103
+post,Bhiwandi Dhamankar Naka,1,NGA,1413
+post,Bhiwandi Dhamankar Naka,1,Other,2049
+post,Bibwewadi Pune,0,Ethical,2036
+post,Bibwewadi Pune,0,GA,7625
+post,Bibwewadi Pune,0,NGA,630
+post,Bibwewadi Pune,0,Other,1083
+post,Bytco Point Nashik,0,Ethical,2476
+post,Bytco Point Nashik,0,GA,2137
+post,Bytco Point Nashik,0,NGA,543
+post,Bytco Point Nashik,0,Other,1622
+post,CST Bora Bazaar,0,Ethical,1763
+post,CST Bora Bazaar,0,GA,4470
+post,CST Bora Bazaar,0,NGA,1075
+post,CST Bora Bazaar,0,Other,1880
+post,Chandivali,0,Ethical,1562
+post,Chandivali,0,GA,3148
+post,Chandivali,0,NGA,797
+post,Chandivali,0,Other,1717
+post,Charkop,0,Ethical,4185
+post,Charkop,0,GA,8177
+post,Charkop,0,NGA,2009
+post,Charkop,0,Other,1979
+post,Chembur,0,Ethical,4980
+post,Chembur,0,GA,13044
+post,Chembur,0,NGA,2984
+post,Chembur,0,Other,3150
+post,Chinchwad,1,Ethical,1861
+post,Chinchwad,1,GA,2473
+post,Chinchwad,1,NGA,634
+post,Chinchwad,1,Other,2260
+post,Chinchwad - Gandhi Peth,1,Ethical,931
+post,Chinchwad - Gandhi Peth,1,GA,864
+post,Chinchwad - Gandhi Peth,1,NGA,231
+post,Chinchwad - Gandhi Peth,1,Other,946
+post,Cidco Nashik,0,Ethical,1609
+post,Cidco Nashik,0,GA,2216
+post,Cidco Nashik,0,NGA,425
+post,Cidco Nashik,0,Other,1871
+post,Colaba,1,Ethical,1704
+post,Colaba,1,GA,4001
+post,Colaba,1,NGA,734
+post,Colaba,1,Other,1985
+post,Dadar East,0,Ethical,2247
+post,Dadar East,0,GA,3841
+post,Dadar East,0,NGA,963
+post,Dadar East,0,Other,2048
+post,Dahisar,0,Ethical,3347
+post,Dahisar,0,GA,6158
+post,Dahisar,0,NGA,1395
+post,Dahisar,0,Other,1889
+post,Dattnagar,0,Ethical,1539
+post,Dattnagar,0,GA,4695
+post,Dattnagar,0,NGA,503
+post,Dattnagar,0,Other,1070
+post,Dhanakwadi,0,Ethical,3118
+post,Dhanakwadi,0,GA,4426
+post,Dhanakwadi,0,NGA,993
+post,Dhanakwadi,0,Other,2159
+post,Dhanori Pune,0,Ethical,2090
+post,Dhanori Pune,0,GA,3517
+post,Dhanori Pune,0,NGA,703
+post,Dhanori Pune,0,Other,1240
+post,Dhayari Pune,0,Ethical,2180
+post,Dhayari Pune,0,GA,2922
+post,Dhayari Pune,0,NGA,621
+post,Dhayari Pune,0,Other,1188
+post,Dighi Pune,1,Ethical,1086
+post,Dighi Pune,1,GA,1830
+post,Dighi Pune,1,NGA,304
+post,Dighi Pune,1,Other,724
+post,Dombivali,0,Ethical,3434
+post,Dombivali,0,GA,6327
+post,Dombivali,0,NGA,1495
+post,Dombivali,0,Other,1600
+post,Dombivali - Navpada,0,Ethical,2146
+post,Dombivali - Navpada,0,GA,2845
+post,Dombivali - Navpada,0,NGA,783
+post,Dombivali - Navpada,0,Other,2122
+post,Dombivali - Reti Bunder,0,Ethical,1610
+post,Dombivali - Reti Bunder,0,GA,2063
+post,Dombivali - Reti Bunder,0,NGA,408
+post,Dombivali - Reti Bunder,0,Other,1515
+post,Dombivli West,0,Ethical,4703
+post,Dombivli West,0,GA,9971
+post,Dombivli West,0,NGA,2211
+post,Dombivli West,0,Other,2368
+post,Evershine Nagar,0,Ethical,1817
+post,Evershine Nagar,0,GA,3880
+post,Evershine Nagar,0,NGA,1001
+post,Evershine Nagar,0,Other,1130
+post,Fam Society - Koperkhairne,0,Ethical,4345
+post,Fam Society - Koperkhairne,0,GA,6376
+post,Fam Society - Koperkhairne,0,NGA,1824
+post,Fam Society - Koperkhairne,0,Other,4074
+post,Fursungi Pune,0,Ethical,1871
+post,Fursungi Pune,0,GA,2321
+post,Fursungi Pune,0,NGA,704
+post,Fursungi Pune,0,Other,2141
+post,Ghansoli,0,Ethical,5503
+post,Ghansoli,0,GA,9456
+post,Ghansoli,0,NGA,2608
+post,Ghansoli,0,Other,3581
+post,Ghatkopar East,0,Ethical,3906
+post,Ghatkopar East,0,GA,6128
+post,Ghatkopar East,0,NGA,1562
+post,Ghatkopar East,0,Other,3436
+post,Ghatkopar West,0,Ethical,3443
+post,Ghatkopar West,0,GA,5988
+post,Ghatkopar West,0,NGA,1641
+post,Ghatkopar West,0,Other,2149
+post,Ghodapdeo - Byculla,0,Ethical,1212
+post,Ghodapdeo - Byculla,0,GA,4243
+post,Ghodapdeo - Byculla,0,NGA,1019
+post,Ghodapdeo - Byculla,0,Other,1311
+post,Global City Virar West,0,Ethical,2395
+post,Global City Virar West,0,GA,2709
+post,Global City Virar West,0,NGA,725
+post,Global City Virar West,0,Other,2047
+post,Goregaon,1,Ethical,3894
+post,Goregaon,1,GA,8354
+post,Goregaon,1,NGA,2513
+post,Goregaon,1,Other,2138
+post,Goregaon West S.V. Road,1,Ethical,4348
+post,Goregaon West S.V. Road,1,GA,5170
+post,Goregaon West S.V. Road,1,NGA,1356
+post,Goregaon West S.V. Road,1,Other,3082
+post,Govandi,0,Ethical,4413
+post,Govandi,0,GA,9728
+post,Govandi,0,NGA,2415
+post,Govandi,0,Other,2878
+post,Gujrat Colony Kothrud,0,Ethical,1691
+post,Gujrat Colony Kothrud,0,GA,1847
+post,Gujrat Colony Kothrud,0,NGA,433
+post,Gujrat Colony Kothrud,0,Other,808
+post,Gulab Nagar Pune,0,Ethical,1799
+post,Gulab Nagar Pune,0,GA,3092
+post,Gulab Nagar Pune,0,NGA,564
+post,Gulab Nagar Pune,0,Other,1425
+post,Hari Om Nagar,0,Ethical,3596
+post,Hari Om Nagar,0,GA,5029
+post,Hari Om Nagar,0,NGA,1404
+post,Hari Om Nagar,0,Other,3336
+post,Hiltron Ulhasnagar,0,Ethical,1854
+post,Hiltron Ulhasnagar,0,GA,2768
+post,Hiltron Ulhasnagar,0,NGA,608
+post,Hiltron Ulhasnagar,0,Other,1636
+post,Hiranandani Thane,0,Ethical,6271
+post,Hiranandani Thane,0,GA,9623
+post,Hiranandani Thane,0,NGA,1961
+post,Hiranandani Thane,0,Other,3439
+post,IC Colony Borivali,0,Ethical,5149
+post,IC Colony Borivali,0,GA,8855
+post,IC Colony Borivali,0,NGA,2497
+post,IC Colony Borivali,0,Other,3171
+post,JB Nagar,0,Ethical,7400
+post,JB Nagar,0,GA,10904
+post,JB Nagar,0,NGA,3064
+post,JB Nagar,0,Other,4557
+post,JJ Hospital,0,Ethical,2588
+post,JJ Hospital,0,GA,11125
+post,JJ Hospital,0,NGA,2798
+post,JJ Hospital,0,Other,1989
+post,Jagruti Nagar Ghatkopar,0,Ethical,1608
+post,Jagruti Nagar Ghatkopar,0,GA,2695
+post,Jagruti Nagar Ghatkopar,0,NGA,718
+post,Jagruti Nagar Ghatkopar,0,Other,1239
+post,Jail Road Nashik,0,Ethical,1779
+post,Jail Road Nashik,0,GA,1757
+post,Jail Road Nashik,0,NGA,429
+post,Jail Road Nashik,0,Other,1266
+post,Jay VIjay Nagar Nalasopara East,0,Ethical,1654
+post,Jay VIjay Nagar Nalasopara East,0,GA,2266
+post,Jay VIjay Nagar Nalasopara East,0,NGA,524
+post,Jay VIjay Nagar Nalasopara East,0,Other,1172
+post,Kalamboli,0,Ethical,2931
+post,Kalamboli,0,GA,4209
+post,Kalamboli,0,NGA,1143
+post,Kalamboli,0,Other,1734
+post,Kalher Bhiwandi,0,Ethical,3488
+post,Kalher Bhiwandi,0,GA,5441
+post,Kalher Bhiwandi,0,NGA,1350
+post,Kalher Bhiwandi,0,Other,3917
+post,Kalina,0,Ethical,2995
+post,Kalina,0,GA,5174
+post,Kalina,0,NGA,1170
+post,Kalina,0,Other,1535
+post,Kalwa,0,Ethical,6768
+post,Kalwa,0,GA,13318
+post,Kalwa,0,NGA,3171
+post,Kalwa,0,Other,3487
+post,Kalyan,0,Ethical,2724
+post,Kalyan,0,GA,4473
+post,Kalyan,0,NGA,1223
+post,Kalyan,0,Other,1792
+post,Kalyan - DB Chowk,0,Ethical,1658
+post,Kalyan - DB Chowk,0,GA,2710
+post,Kalyan - DB Chowk,0,NGA,662
+post,Kalyan - DB Chowk,0,Other,2006
+post,Kalyan East-Tisgaon Naka,0,Ethical,3333
+post,Kalyan East-Tisgaon Naka,0,GA,4767
+post,Kalyan East-Tisgaon Naka,0,NGA,958
+post,Kalyan East-Tisgaon Naka,0,Other,1415
+post,Kalyan West Club Road,0,Ethical,1669
+post,Kalyan West Club Road,0,GA,4169
+post,Kalyan West Club Road,0,NGA,829
+post,Kalyan West Club Road,0,Other,1930
+post,Kamotha,0,Ethical,6553
+post,Kamotha,0,GA,8750
+post,Kamotha,0,NGA,2400
+post,Kamotha,0,Other,3934
+post,Kamothe - Sector 36,0,Ethical,2213
+post,Kamothe - Sector 36,0,GA,3108
+post,Kamothe - Sector 36,0,NGA,884
+post,Kamothe - Sector 36,0,Other,1701
+post,Kandivali East,0,Ethical,3241
+post,Kandivali East,0,GA,6218
+post,Kandivali East,0,NGA,1558
+post,Kandivali East,0,Other,1903
+post,Kandivali West,0,Ethical,836
+post,Kandivali West,0,GA,2788
+post,Kandivali West,0,NGA,880
+post,Kandivali West,0,Other,695
+post,Kasarvadavali Thane,0,Ethical,2540
+post,Kasarvadavali Thane,0,GA,5231
+post,Kasarvadavali Thane,0,NGA,1129
+post,Kasarvadavali Thane,0,Other,1898
+post,Katrap Badlapur East,0,Ethical,1403
+post,Katrap Badlapur East,0,GA,2389
+post,Katrap Badlapur East,0,NGA,328
+post,Katrap Badlapur East,0,Other,1151
+post,Khadki Pune,0,Ethical,2480
+post,Khadki Pune,0,GA,3195
+post,Khadki Pune,0,NGA,774
+post,Khadki Pune,0,Other,2096
+post,Khanda Colony,1,Ethical,3109
+post,Khanda Colony,1,GA,4190
+post,Khanda Colony,1,NGA,1221
+post,Khanda Colony,1,Other,1721
+post,Khar West,1,Ethical,2823
+post,Khar West,1,GA,5034
+post,Khar West,1,NGA,1311
+post,Khar West,1,Other,1942
+post,Kharghar,0,Ethical,4023
+post,Kharghar,0,GA,10442
+post,Kharghar,0,NGA,2576
+post,Kharghar,0,Other,3534
+post,Kharghar Sector 12,0,Ethical,2571
+post,Kharghar Sector 12,0,GA,4994
+post,Kharghar Sector 12,0,NGA,1420
+post,Kharghar Sector 12,0,Other,1782
+post,Khopat,0,Ethical,4664
+post,Khopat,0,GA,8833
+post,Khopat,0,NGA,2007
+post,Khopat,0,Other,2386
+post,Khutwad Nagar Nashik,0,Ethical,757
+post,Khutwad Nagar Nashik,0,GA,782
+post,Khutwad Nagar Nashik,0,NGA,160
+post,Khutwad Nagar Nashik,0,Other,954
+post,Kolsheth,0,Ethical,6072
+post,Kolsheth,0,GA,15210
+post,Kolsheth,0,NGA,3222
+post,Kolsheth,0,Other,2790
+post,Kopar Khairane,0,Ethical,5093
+post,Kopar Khairane,0,GA,9544
+post,Kopar Khairane,0,NGA,2516
+post,Kopar Khairane,0,Other,3550
+post,Kopari Thane,0,Ethical,3457
+post,Kopari Thane,0,GA,2644
+post,Kopari Thane,0,NGA,811
+post,Kopari Thane,0,Other,2004
+post,Koper Khairane - Sector 7,0,Ethical,2134
+post,Koper Khairane - Sector 7,0,GA,4211
+post,Koper Khairane - Sector 7,0,NGA,1282
+post,Koper Khairane - Sector 7,0,Other,2297
+post,Kulgaon Badlapur West,0,Ethical,2507
+post,Kulgaon Badlapur West,0,GA,5343
+post,Kulgaon Badlapur West,0,NGA,996
+post,Kulgaon Badlapur West,0,Other,2657
+post,Kurla,0,Ethical,1764
+post,Kurla,0,GA,5833
+post,Kurla,0,NGA,1102
+post,Kurla,0,Other,1817
+post,Kurla West,0,Ethical,3408
+post,Kurla West,0,GA,7362
+post,Kurla West,0,NGA,1688
+post,Kurla West,0,Other,2808
+post,Lower Parel - SJ Marg,0,Ethical,1463
+post,Lower Parel - SJ Marg,0,GA,2822
+post,Lower Parel - SJ Marg,0,NGA,601
+post,Lower Parel - SJ Marg,0,Other,2563
+post,Mahakali,0,Ethical,6252
+post,Mahakali,0,GA,8553
+post,Mahakali,0,NGA,2716
+post,Mahakali,0,Other,3948
+post,Mahavir Pride Dombivali,0,Ethical,3102
+post,Mahavir Pride Dombivali,0,GA,5718
+post,Mahavir Pride Dombivali,0,NGA,1337
+post,Mahavir Pride Dombivali,0,Other,2426
+post,Mahim West,0,Ethical,2956
+post,Mahim West,0,GA,5080
+post,Mahim West,0,NGA,1247
+post,Mahim West,0,Other,2370
+post,Malad,0,Ethical,3767
+post,Malad,0,GA,8184
+post,Malad,0,NGA,2657
+post,Malad,0,Other,1929
+post,Malad Liberty Garden,0,Ethical,2370
+post,Malad Liberty Garden,0,GA,5493
+post,Malad Liberty Garden,0,NGA,997
+post,Malad Liberty Garden,0,Other,2279
+post,Malwani,0,Ethical,2749
+post,Malwani,0,GA,4905
+post,Malwani,0,NGA,1307
+post,Malwani,0,Other,1391
+post,Marol,0,Ethical,4343
+post,Marol,0,GA,9228
+post,Marol,0,NGA,2465
+post,Marol,0,Other,2741
+post,Mharal Ulhasnagar,0,Ethical,2920
+post,Mharal Ulhasnagar,0,GA,3754
+post,Mharal Ulhasnagar,0,NGA,1453
+post,Mharal Ulhasnagar,0,Other,2813
+post,Mhasrul Nashik,0,Ethical,2222
+post,Mhasrul Nashik,0,GA,2401
+post,Mhasrul Nashik,0,NGA,629
+post,Mhasrul Nashik,0,Other,2187
+post,Mira Road,0,Ethical,2839
+post,Mira Road,0,GA,4295
+post,Mira Road,0,NGA,916
+post,Mira Road,0,Other,1540
+post,Mira Road - GCC Club Road,0,Ethical,1290
+post,Mira Road - GCC Club Road,0,GA,1475
+post,Mira Road - GCC Club Road,0,NGA,206
+post,Mira Road - GCC Club Road,0,Other,1084
+post,Mira Road Jangid Complex,0,Ethical,2657
+post,Mira Road Jangid Complex,0,GA,5153
+post,Mira Road Jangid Complex,0,NGA,1057
+post,Mira Road Jangid Complex,0,Other,2049
+post,Mohan Nagar Kandivali,0,Ethical,1302
+post,Mohan Nagar Kandivali,0,GA,3979
+post,Mohan Nagar Kandivali,0,NGA,840
+post,Mohan Nagar Kandivali,0,Other,1754
+post,Mulund East,0,Ethical,6753
+post,Mulund East,0,GA,15345
+post,Mulund East,0,NGA,3379
+post,Mulund East,0,Other,3730
+post,Mulund Panch Rasta,0,Ethical,2239
+post,Mulund Panch Rasta,0,GA,4469
+post,Mulund Panch Rasta,0,NGA,1166
+post,Mulund Panch Rasta,0,Other,1209
+post,Mulund West,0,Ethical,3054
+post,Mulund West,0,GA,11538
+post,Mulund West,0,NGA,2281
+post,Mulund West,0,Other,2385
+post,Mulund West-Sarvodaya Nagar,0,Ethical,4476
+post,Mulund West-Sarvodaya Nagar,0,GA,7843
+post,Mulund West-Sarvodaya Nagar,0,NGA,1816
+post,Mulund West-Sarvodaya Nagar,0,Other,1989
+post,Mundhwa Pune,0,Ethical,1507
+post,Mundhwa Pune,0,GA,2243
+post,Mundhwa Pune,0,NGA,479
+post,Mundhwa Pune,0,Other,1195
+post,NIBM Kondwa,0,Ethical,3292
+post,NIBM Kondwa,0,GA,6803
+post,NIBM Kondwa,0,NGA,1611
+post,NIBM Kondwa,0,Other,2399
+post,Nahur West,0,Ethical,3714
+post,Nahur West,0,GA,6213
+post,Nahur West,0,NGA,1429
+post,Nahur West,0,Other,2065
+post,Nalasopara - Yashwant Nagar,0,Ethical,1437
+post,Nalasopara - Yashwant Nagar,0,GA,2196
+post,Nalasopara - Yashwant Nagar,0,NGA,532
+post,Nalasopara - Yashwant Nagar,0,Other,1427
+post,Nalasopara West,0,Ethical,2360
+post,Nalasopara West,0,GA,3293
+post,Nalasopara West,0,NGA,702
+post,Nalasopara West,0,Other,1002
+post,Narhe Pune,0,Ethical,1610
+post,Narhe Pune,0,GA,2383
+post,Narhe Pune,0,NGA,506
+post,Narhe Pune,0,Other,1086
+post,Naupada,0,Ethical,4720
+post,Naupada,0,GA,7996
+post,Naupada,0,NGA,2164
+post,Naupada,0,Other,2418
+post,Navare Nagar Ambernath,0,Ethical,2156
+post,Navare Nagar Ambernath,0,GA,3342
+post,Navare Nagar Ambernath,0,NGA,602
+post,Navare Nagar Ambernath,0,Other,1398
+post,Navi Peth Pune,0,Ethical,2137
+post,Navi Peth Pune,0,GA,4147
+post,Navi Peth Pune,0,NGA,734
+post,Navi Peth Pune,0,Other,2152
+post,Navjeevan Mumbai Central,0,Ethical,2816
+post,Navjeevan Mumbai Central,0,GA,6782
+post,Navjeevan Mumbai Central,0,NGA,1869
+post,Navjeevan Mumbai Central,0,Other,3004
+post,Nerul East,0,Ethical,3188
+post,Nerul East,0,GA,6663
+post,Nerul East,0,NGA,1602
+post,Nerul East,0,Other,2581
+post,Nerul West,0,Ethical,2761
+post,Nerul West,0,GA,5754
+post,Nerul West,0,NGA,1388
+post,Nerul West,0,Other,1964
+post,New Panvel,0,Ethical,4201
+post,New Panvel,0,GA,6047
+post,New Panvel,0,NGA,1660
+post,New Panvel,0,Other,2179
+post,Old Panvel,0,Ethical,3847
+post,Old Panvel,0,GA,5710
+post,Old Panvel,0,NGA,1276
+post,Old Panvel,0,Other,1900
+post,Palegaon Ambernath,0,Ethical,1147
+post,Palegaon Ambernath,0,GA,1968
+post,Palegaon Ambernath,0,NGA,448
+post,Palegaon Ambernath,0,Other,2372
+post,Panchpakhadi,0,Ethical,3485
+post,Panchpakhadi,0,GA,5072
+post,Panchpakhadi,0,NGA,1224
+post,Panchpakhadi,0,Other,2293
+post,Pantnagar,0,Ethical,1937
+post,Pantnagar,0,GA,4202
+post,Pantnagar,0,NGA,1152
+post,Pantnagar,0,Other,1540
+post,Panvel - Uran Naka,0,Ethical,1874
+post,Panvel - Uran Naka,0,GA,3689
+post,Panvel - Uran Naka,0,NGA,786
+post,Panvel - Uran Naka,0,Other,2131
+post,Phadke Road - Dombivali,0,Ethical,2540
+post,Phadke Road - Dombivali,0,GA,4925
+post,Phadke Road - Dombivali,0,NGA,1023
+post,Phadke Road - Dombivali,0,Other,1590
+post,Pimple Gurav,0,Ethical,1450
+post,Pimple Gurav,0,GA,3290
+post,Pimple Gurav,0,NGA,569
+post,Pimple Gurav,0,Other,1160
+post,Prabhadevi,0,Ethical,2763
+post,Prabhadevi,0,GA,9369
+post,Prabhadevi,0,NGA,1226
+post,Prabhadevi,0,Other,3331
+post,Pragati Nagar Nalasopara East,0,Ethical,1777
+post,Pragati Nagar Nalasopara East,0,GA,2282
+post,Pragati Nagar Nalasopara East,0,NGA,492
+post,Pragati Nagar Nalasopara East,0,Other,1969
+post,Rajawadi,0,Ethical,2209
+post,Rajawadi,0,GA,6778
+post,Rajawadi,0,NGA,1677
+post,Rajawadi,0,Other,2028
+post,Roadpali Kalamboli,0,Ethical,1482
+post,Roadpali Kalamboli,0,GA,3019
+post,Roadpali Kalamboli,0,NGA,730
+post,Roadpali Kalamboli,0,Other,1622
+post,Rupee Nagar Pune,0,Ethical,758
+post,Rupee Nagar Pune,0,GA,1414
+post,Rupee Nagar Pune,0,NGA,281
+post,Rupee Nagar Pune,0,Other,1596
+post,Saibaba Nagar,0,Ethical,2116
+post,Saibaba Nagar,0,GA,5531
+post,Saibaba Nagar,0,NGA,1375
+post,Saibaba Nagar,0,Other,1177
+post,Sakinaka - Pipeline Road,0,Ethical,1616
+post,Sakinaka - Pipeline Road,0,GA,2303
+post,Sakinaka - Pipeline Road,0,NGA,621
+post,Sakinaka - Pipeline Road,0,Other,1877
+post,Sanpada,1,Ethical,5164
+post,Sanpada,1,GA,9235
+post,Sanpada,1,NGA,2102
+post,Sanpada,1,Other,3356
+post,Santa Cruz SV Road,0,Ethical,2931
+post,Santa Cruz SV Road,0,GA,4718
+post,Santa Cruz SV Road,0,NGA,1132
+post,Santa Cruz SV Road,0,Other,2177
+post,"Santoshi Mata Road, Kalyan West",0,Ethical,3229
+post,"Santoshi Mata Road, Kalyan West",0,GA,4060
+post,"Santoshi Mata Road, Kalyan West",0,NGA,904
+post,"Santoshi Mata Road, Kalyan West",0,Other,1895
+post,Sasane Nagar Pune,1,Ethical,1614
+post,Sasane Nagar Pune,1,GA,2409
+post,Sasane Nagar Pune,1,NGA,545
+post,Sasane Nagar Pune,1,Other,960
+post,Seawoods,0,Ethical,4010
+post,Seawoods,0,GA,8338
+post,Seawoods,0,NGA,1798
+post,Seawoods,0,Other,2451
+post,Sector 3 - New Panvel,0,Ethical,3220
+post,Sector 3 - New Panvel,0,GA,3888
+post,Sector 3 - New Panvel,0,NGA,775
+post,Sector 3 - New Panvel,0,Other,2097
+post,Shanti Nagar Mira Road,0,Ethical,1001
+post,Shanti Nagar Mira Road,0,GA,2729
+post,Shanti Nagar Mira Road,0,NGA,529
+post,Shanti Nagar Mira Road,0,Other,1960
+post,Shirgaon Badlapur,0,Ethical,2308
+post,Shirgaon Badlapur,0,GA,3184
+post,Shirgaon Badlapur,0,NGA,555
+post,Shirgaon Badlapur,0,Other,2569
+post,Shivaji Nagar Pune,0,Ethical,3199
+post,Shivaji Nagar Pune,0,GA,5156
+post,Shivaji Nagar Pune,0,NGA,966
+post,Shivaji Nagar Pune,0,Other,1985
+post,Shreenagar,0,Ethical,6542
+post,Shreenagar,0,GA,10915
+post,Shreenagar,0,NGA,2205
+post,Shreenagar,0,Other,3418
+post,Shriprastha Nalasopara West,0,Ethical,1473
+post,Shriprastha Nalasopara West,0,GA,1948
+post,Shriprastha Nalasopara West,0,NGA,577
+post,Shriprastha Nalasopara West,0,Other,1495
+post,Sion Koliwada,0,Ethical,3172
+post,Sion Koliwada,0,GA,6015
+post,Sion Koliwada,0,NGA,1324
+post,Sion Koliwada,0,Other,2645
+post,Thakur Complex,0,Ethical,3839
+post,Thakur Complex,0,GA,7343
+post,Thakur Complex,0,NGA,1739
+post,Thakur Complex,0,Other,1925
+post,Thergaon,0,Ethical,1388
+post,Thergaon,0,GA,3288
+post,Thergaon,0,NGA,615
+post,Thergaon,0,Other,1578
+post,Tilak Road Pune,0,Ethical,2913
+post,Tilak Road Pune,0,GA,4452
+post,Tilak Road Pune,0,NGA,809
+post,Tilak Road Pune,0,Other,1811
+post,Tilaknagar,0,Ethical,3014
+post,Tilaknagar,0,GA,6841
+post,Tilaknagar,0,NGA,1701
+post,Tilaknagar,0,Other,2527
+post,Titwala,0,Ethical,4848
+post,Titwala,0,GA,5152
+post,Titwala,0,NGA,1556
+post,Titwala,0,Other,4300
+post,Trimurti Chowk Nashik,0,Ethical,967
+post,Trimurti Chowk Nashik,0,GA,1273
+post,Trimurti Chowk Nashik,0,NGA,285
+post,Trimurti Chowk Nashik,0,Other,902
+post,Ulhas Nagar - Shahad,0,Ethical,1509
+post,Ulhas Nagar - Shahad,0,GA,2643
+post,Ulhas Nagar - Shahad,0,NGA,889
+post,Ulhas Nagar - Shahad,0,Other,2283
+post,Ulhas Nagar - Shreeram Chowk,0,Ethical,830
+post,Ulhas Nagar - Shreeram Chowk,0,GA,2226
+post,Ulhas Nagar - Shreeram Chowk,0,NGA,364
+post,Ulhas Nagar - Shreeram Chowk,0,Other,1774
+post,Ulhasnagar,0,Ethical,3092
+post,Ulhasnagar,0,GA,6858
+post,Ulhasnagar,0,NGA,1831
+post,Ulhasnagar,0,Other,2372
+post,Ulhasnagar - Humlog Circle,0,Ethical,2488
+post,Ulhasnagar - Humlog Circle,0,GA,3086
+post,Ulhasnagar - Humlog Circle,0,NGA,990
+post,Ulhasnagar - Humlog Circle,0,Other,2761
+post,Ulhasnagar - Khemani Chowk,0,Ethical,1229
+post,Ulhasnagar - Khemani Chowk,0,GA,2678
+post,Ulhasnagar - Khemani Chowk,0,NGA,835
+post,Ulhasnagar - Khemani Chowk,0,Other,1748
+post,Ulhasnagar Sector 4,0,Ethical,3394
+post,Ulhasnagar Sector 4,0,GA,4246
+post,Ulhasnagar Sector 4,0,NGA,1060
+post,Ulhasnagar Sector 4,0,Other,1484
+post,Ulwe-Navi Mumbai,0,Ethical,2778
+post,Ulwe-Navi Mumbai,0,GA,6797
+post,Ulwe-Navi Mumbai,0,NGA,1617
+post,Ulwe-Navi Mumbai,0,Other,1935
+post,Vakola,0,Ethical,3306
+post,Vakola,0,GA,4925
+post,Vakola,0,NGA,1283
+post,Vakola,0,Other,1628
+post,Vasai West - Station Road,0,Ethical,3175
+post,Vasai West - Station Road,0,GA,4102
+post,Vasai West - Station Road,0,NGA,984
+post,Vasai West - Station Road,0,Other,2737
+post,Vashi,0,Ethical,6011
+post,Vashi,0,GA,11183
+post,Vashi,0,NGA,2812
+post,Vashi,0,Other,4738
+post,Vashi Sector 11,0,Ethical,3178
+post,Vashi Sector 11,0,GA,5909
+post,Vashi Sector 11,0,NGA,1462
+post,Vashi Sector 11,0,Other,1818
+post,Veenanagar,0,Ethical,2518
+post,Veenanagar,0,GA,6342
+post,Veenanagar,0,NGA,1173
+post,Veenanagar,0,Other,1954
+post,Versova - Yari Road,0,Ethical,1545
+post,Versova - Yari Road,0,GA,4522
+post,Versova - Yari Road,0,NGA,875
+post,Versova - Yari Road,0,Other,2458
+post,Versova Andheri,0,Ethical,6267
+post,Versova Andheri,0,GA,8463
+post,Versova Andheri,0,NGA,3078
+post,Versova Andheri,0,Other,3565
+post,Vijay Nagari - Thane,0,Ethical,5640
+post,Vijay Nagari - Thane,0,GA,8357
+post,Vijay Nagari - Thane,0,NGA,2431
+post,Vijay Nagari - Thane,0,Other,2634
+post,Vikhroli,0,Ethical,8283
+post,Vikhroli,0,GA,13314
+post,Vikhroli,0,NGA,2656
+post,Vikhroli,0,Other,4489
+post,Vikhroli Kannamwar,0,Ethical,4072
+post,Vikhroli Kannamwar,0,GA,5478
+post,Vikhroli Kannamwar,0,NGA,1255
+post,Vikhroli Kannamwar,0,Other,3021
+post,Vile Parle,0,Ethical,2162
+post,Vile Parle,0,GA,3833
+post,Vile Parle,0,NGA,933
+post,Vile Parle,0,Other,1715
+post,Virar East,0,Ethical,3517
+post,Virar East,0,GA,5707
+post,Virar East,0,NGA,1072
+post,Virar East,0,Other,1829
+post,Virar West,0,Ethical,3641
+post,Virar West,0,GA,3921
+post,Virar West,0,NGA,1068
+post,Virar West,0,Other,1754
+post,Wadgaon Budruk Pune,0,Ethical,2377
+post,Wadgaon Budruk Pune,0,GA,2860
+post,Wadgaon Budruk Pune,0,NGA,485
+post,Wadgaon Budruk Pune,0,Other,855
+post,Wadgaon Sheri,0,Ethical,2531
+post,Wadgaon Sheri,0,GA,3642
+post,Wadgaon Sheri,0,NGA,704
+post,Wadgaon Sheri,0,Other,1812
+post,Wadgaon Sheri-Old Mundhwa Rd,0,Ethical,1982
+post,Wadgaon Sheri-Old Mundhwa Rd,0,GA,2083
+post,Wadgaon Sheri-Old Mundhwa Rd,0,NGA,460
+post,Wadgaon Sheri-Old Mundhwa Rd,0,Other,1529
+post,Wanawadi Pune,0,Ethical,1218
+post,Wanawadi Pune,0,GA,3674
+post,Wanawadi Pune,0,NGA,617
+post,Wanawadi Pune,0,Other,1032
+post,Warje Pune,0,Ethical,1658
+post,Warje Pune,0,GA,2251
+post,Warje Pune,0,NGA,457
+post,Warje Pune,0,Other,1269
+post,Wayale Nagar,0,Ethical,2681
+post,Wayale Nagar,0,GA,4344
+post,Wayale Nagar,0,NGA,922
+post,Wayale Nagar,0,Other,1681
+post,Yashodhan,0,Ethical,7577
+post,Yashodhan,0,GA,12673
+post,Yashodhan,0,NGA,2702
+post,Yashodhan,0,Other,3092
+post,Yogi Nagar,0,Ethical,2245
+post,Yogi Nagar,0,GA,4589
+post,Yogi Nagar,0,NGA,1336
+post,Yogi Nagar,0,Other,1388
+post,Yogidham Kalyan,0,Ethical,1718
+post,Yogidham Kalyan,0,GA,2201
+post,Yogidham Kalyan,0,NGA,577
+post,Yogidham Kalyan,0,Other,1337
