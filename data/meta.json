@@ -1,30 +1,30 @@
 {
-  "refreshed_at": "2026-07-30T10:24:47",
+  "refreshed_at": "2026-07-31T08:59:43",
   "franchisee_id": 1,
   "excluded_drug_ids": [
     632426
   ],
   "pre_window": [
     "2026-06-01",
-    "2026-06-29"
+    "2026-06-30"
   ],
   "post_window": [
     "2026-07-01",
-    "2026-07-29"
+    "2026-07-30"
   ],
-  "post_rows": 1126672,
+  "post_rows": 1164995,
   "stores": 179,
-  "drugs_post": 26948,
-  "drugs_no_old_price": 5004,
-  "units_share_no_old_price_pct": 0.61,
-  "drugs_no_old_cogs": 1104,
+  "drugs_post": 27141,
+  "drugs_no_old_price": 5119,
+  "units_share_no_old_price_pct": 0.62,
+  "drugs_no_old_cogs": 1082,
   "direction_counts": {
-    "flat": 15962,
-    "increased": 4706,
-    "decreased": 1276
+    "flat": 16008,
+    "increased": 4735,
+    "decreased": 1279
   },
-  "total_gain_rev": 6636178.0,
-  "total_gain_rgm": 6155709.0,
+  "total_gain_rev": 6883573.0,
+  "total_gain_rgm": 6366682.0,
   "genrtn_bills": 169,
   "genrtn_units": 738.0,
   "genrtn_giveback": 0.0
