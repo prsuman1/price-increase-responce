@@ -40,11 +40,14 @@ DATA_DIR = HERE / "data"
 DATA_DIR.mkdir(exist_ok=True)
 OLD_PRICE_CSV = HERE / "drug_old_selling_price.csv"
 
-# ---- windows (day-of-month aligned, complete days only) ---------------------
+# ---- windows -----------------------------------------------------------------
+# Pre = full June 2026 (last complete pre-hike month, fixed baseline).
+# Post = Jul 1 → yesterday (grows daily; spans past Jul 31 into August).
 today = date.today()
-N = min((today - timedelta(days=1)).day, 30) if today.month == 7 else 30
-PRE_START, PRE_END = date(2026, 6, 1), date(2026, 6, N)
-POST_START, POST_END = date(2026, 7, 1), date(2026, 7, N)
+yesterday = today - timedelta(days=1)
+PRE_START, PRE_END = date(2026, 6, 1), date(2026, 6, 30)
+POST_START = date(2026, 7, 1)
+POST_END = max(POST_START, yesterday)
 print(f"PRE  {PRE_START} -> {PRE_END}\nPOST {POST_START} -> {POST_END}")
 
 PILOT_SQL = """(
