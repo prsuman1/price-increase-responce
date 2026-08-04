@@ -148,43 +148,62 @@ components.html(f"""
 # ---------- monthly top-line ----------
 _mdg = d["daily_gain"].copy()
 _mdg["month"] = pd.to_datetime(_mdg["sale_date"]).dt.to_period("M").astype(str)
-_month_totals = (_mdg.groupby("month")
-                     .agg(rev=("gain_rev", "sum"),
-                          rgm=("gain_rgm", "sum"),
-                          days=("sale_date", lambda s: s.dt.date.nunique()))
-                     .reset_index()
-                     .sort_values("month"))
-if len(_month_totals):
+_MONTH_LABEL = {"2026-07": "Jul 2026", "2026-08": "Aug 2026", "2026-09": "Sep 2026",
+                "2026-10": "Oct 2026", "2026-11": "Nov 2026", "2026-12": "Dec 2026"}
+_SCOPES = [
+    ("Overall",                    ["increased", "decreased", "flat"]),
+    ("Positive-impacted prices",   ["increased"]),
+    ("Negative-impacted prices",   ["decreased"]),
+]
+_SCOPE_COLORS = {"Overall": "#006300", "Positive-impacted prices": "#006300",
+                 "Negative-impacted prices": "#c0392b"}
+_all_months = sorted(_mdg["month"].unique().tolist())
+if _all_months:
     st.markdown('<div class="section-h">Monthly top-line</div>', unsafe_allow_html=True)
-    st.markdown('<div class="section-sub">Additional Revenue &amp; RGM broken out per calendar month.</div>',
+    st.markdown('<div class="section-sub">Additional Revenue &amp; RGM per calendar month, split by price direction.</div>',
                 unsafe_allow_html=True)
-    _MONTH_LABEL = {"2026-07": "Jul 2026", "2026-08": "Aug 2026", "2026-09": "Sep 2026",
-                    "2026-10": "Oct 2026", "2026-11": "Nov 2026", "2026-12": "Dec 2026"}
-    _cols = st.columns(len(_month_totals))
-    for _c, (_, row) in zip(_cols, _month_totals.iterrows()):
-        with _c:
-            _lbl = _MONTH_LABEL.get(row["month"], row["month"])
-            _avg = row["rev"] / row["days"] if row["days"] else 0
-            _rgm_avg = row["rgm"] / row["days"] if row["days"] else 0
-            st.markdown(
-                f'''<div style="background:#fcfcfb; border:1px solid rgba(11,11,11,.10);
-                     border-radius:12px; padding:.75rem 1rem;">
-                  <div style="font-size:.8rem; color:#52514e; margin-bottom:.35rem;">{_lbl} · {int(row["days"])} days</div>
-                  <div style="display:flex; gap:1.4rem; flex-wrap:wrap;">
-                    <div>
-                      <div style="font-size:.7rem; color:#898781;">Add. Revenue</div>
-                      <div style="font-size:1.2rem; font-weight:700; color:#006300;">₹{row["rev"]/1e5:,.2f} L</div>
-                      <div style="font-size:.7rem; color:#898781;">avg ₹{_avg/1e5:,.2f} L/day</div>
-                    </div>
-                    <div>
-                      <div style="font-size:.7rem; color:#898781;">Add. RGM</div>
-                      <div style="font-size:1.2rem; font-weight:700; color:#006300;">₹{row["rgm"]/1e5:,.2f} L</div>
-                      <div style="font-size:.7rem; color:#898781;">avg ₹{_rgm_avg/1e5:,.2f} L/day</div>
-                    </div>
-                  </div>
-                </div>''',
-                unsafe_allow_html=True,
-            )
+    for _scope_name, _scope_dirs in _SCOPES:
+        _sub = _mdg[_mdg["direction"].isin(_scope_dirs)]
+        _mt = (_sub.groupby("month")
+                    .agg(rev=("gain_rev", "sum"),
+                         rgm=("gain_rgm", "sum"),
+                         days=("sale_date", lambda s: s.dt.date.nunique()))
+                    .reindex(_all_months, fill_value=0)
+                    .reset_index())
+        # fill days for missing rows using the overall-month day count
+        _days_per_month = _mdg.groupby("month")["sale_date"].apply(lambda s: s.dt.date.nunique()).to_dict()
+        _mt["days"] = _mt["month"].map(_days_per_month)
+        _color = _SCOPE_COLORS[_scope_name]
+        st.markdown(
+            f'<div style="font-size:.9rem; font-weight:600; color:#0b0b0b; margin:.7rem 0 .35rem;">{_scope_name}</div>',
+            unsafe_allow_html=True,
+        )
+        _cols = st.columns(len(_mt))
+        for _c, (_, row) in zip(_cols, _mt.iterrows()):
+            with _c:
+                _lbl = _MONTH_LABEL.get(row["month"], row["month"])
+                _days = int(row["days"] or 0)
+                _avg = row["rev"] / _days if _days else 0
+                _rgm_avg = row["rgm"] / _days if _days else 0
+                st.markdown(
+                    f'''<div style="background:#fcfcfb; border:1px solid rgba(11,11,11,.10);
+                         border-radius:12px; padding:.7rem 1rem;">
+                      <div style="font-size:.78rem; color:#52514e; margin-bottom:.3rem;">{_lbl} · {_days} days</div>
+                      <div style="display:flex; gap:1.4rem; flex-wrap:wrap;">
+                        <div>
+                          <div style="font-size:.68rem; color:#898781;">Add. Revenue</div>
+                          <div style="font-size:1.15rem; font-weight:700; color:{_color};">₹{row["rev"]/1e5:,.2f} L</div>
+                          <div style="font-size:.68rem; color:#898781;">avg ₹{_avg/1e5:,.2f} L/day</div>
+                        </div>
+                        <div>
+                          <div style="font-size:.68rem; color:#898781;">Add. RGM</div>
+                          <div style="font-size:1.15rem; font-weight:700; color:{_color};">₹{row["rgm"]/1e5:,.2f} L</div>
+                          <div style="font-size:.68rem; color:#898781;">avg ₹{_rgm_avg/1e5:,.2f} L/day</div>
+                        </div>
+                      </div>
+                    </div>''',
+                    unsafe_allow_html=True,
+                )
     st.write("")
 
 def section(title: str, sub: str = ""):
