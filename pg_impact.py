@@ -145,6 +145,48 @@ components.html(f"""
 </script>
 """, height=190)
 
+# ---------- monthly top-line ----------
+_mdg = d["daily_gain"].copy()
+_mdg["month"] = pd.to_datetime(_mdg["sale_date"]).dt.to_period("M").astype(str)
+_month_totals = (_mdg.groupby("month")
+                     .agg(rev=("gain_rev", "sum"),
+                          rgm=("gain_rgm", "sum"),
+                          days=("sale_date", lambda s: s.dt.date.nunique()))
+                     .reset_index()
+                     .sort_values("month"))
+if len(_month_totals):
+    st.markdown('<div class="section-h">Monthly top-line</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-sub">Additional Revenue &amp; RGM broken out per calendar month.</div>',
+                unsafe_allow_html=True)
+    _MONTH_LABEL = {"2026-07": "Jul 2026", "2026-08": "Aug 2026", "2026-09": "Sep 2026",
+                    "2026-10": "Oct 2026", "2026-11": "Nov 2026", "2026-12": "Dec 2026"}
+    _cols = st.columns(len(_month_totals))
+    for _c, (_, row) in zip(_cols, _month_totals.iterrows()):
+        with _c:
+            _lbl = _MONTH_LABEL.get(row["month"], row["month"])
+            _avg = row["rev"] / row["days"] if row["days"] else 0
+            _rgm_avg = row["rgm"] / row["days"] if row["days"] else 0
+            st.markdown(
+                f'''<div style="background:#fcfcfb; border:1px solid rgba(11,11,11,.10);
+                     border-radius:12px; padding:.75rem 1rem;">
+                  <div style="font-size:.8rem; color:#52514e; margin-bottom:.35rem;">{_lbl} · {int(row["days"])} days</div>
+                  <div style="display:flex; gap:1.4rem; flex-wrap:wrap;">
+                    <div>
+                      <div style="font-size:.7rem; color:#898781;">Add. Revenue</div>
+                      <div style="font-size:1.2rem; font-weight:700; color:#006300;">₹{row["rev"]/1e5:,.2f} L</div>
+                      <div style="font-size:.7rem; color:#898781;">avg ₹{_avg/1e5:,.2f} L/day</div>
+                    </div>
+                    <div>
+                      <div style="font-size:.7rem; color:#898781;">Add. RGM</div>
+                      <div style="font-size:1.2rem; font-weight:700; color:#006300;">₹{row["rgm"]/1e5:,.2f} L</div>
+                      <div style="font-size:.7rem; color:#898781;">avg ₹{_rgm_avg/1e5:,.2f} L/day</div>
+                    </div>
+                  </div>
+                </div>''',
+                unsafe_allow_html=True,
+            )
+    st.write("")
+
 def section(title: str, sub: str = ""):
     st.markdown(f'<div class="section-h">{title}</div>', unsafe_allow_html=True)
     if sub: st.markdown(f'<div class="section-sub">{sub}</div>', unsafe_allow_html=True)
